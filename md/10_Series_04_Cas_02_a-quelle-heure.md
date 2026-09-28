@@ -36,11 +36,11 @@ Jednoducho „à“ + číslo, žiadny osobitný tvar netreba — jednoduchšie 
 
 | Francúzština | Slovenčina |
 |----------|----------|
-| cinq heures et quart (5:15) | štvrť na šesť |
-| cinq heures et demie (5:30) | pol šiestej |
-| six heures moins le quart (5:45) | trištvrte na šesť |
+| cinq heures et quart | štvrť na šesť (5:15) |
+| cinq heures et demie | pol šiestej (5:30) |
+| six heures moins le quart | trištvrte na šesť (5:45) |
 
-Toto je najčastejšia chyba slovenských študentov francúzštiny. Francúzske „cinq heures et demie“ pomenúva hodinu, ktorá **PREŠLA** (päť) a k nej pridáva minúty. Slovenské „pol šiestej“ pomenúva hodinu, ktorá **PRICHÁDZA** (šiesta), a odpočítava od nej. Obe vyjadrujú presne ten istý čas (5:30!), len francúzske číslo je vždy o jedno nižšie než by ti napovedala slovenská logika. Počuť „cinq heures et demie“ a automaticky preložiť „šesť tridsať“ namiesto správnych „päť tridsať“ je klasika — daj si na to pozor.
+Toto je najčastejšia chyba slovenských študentov francúzštiny. Francúzske „cinq heures et demie“ pomenúva hodinu, ktorá **PREŠLA** (päť) a k nej pridáva minúty. Slovenské „pol šiestej“ pomenúva hodinu, ktorá **PRICHÁDZA** (šiesta), a odpočítava od nej. Obe vyjadrujú presne ten istý čas (5:30!), len francúzske číslo je vždy o jedno nižšie než by ti napovedala slovenská logika. Počuť „cinq heures et demie“, automaticky si pomyslieť „pol piatej“ a prísť o hodinu skôr (o štyri tridsať namiesto päť tridsať) je klasika — daj si na to pozor.
 
 ---
 
@@ -63,7 +63,7 @@ Toto je najčastejšia chyba slovenských študentov francúzštiny. Francúzske
 > Je pol šiestej.
 > Il est = je
 > cinq heures et demie = pol šiestej
-+ Pozor, toto je päť tridsať, nie šesť tridsať! (pozri gramatiku vyššie)
++ Pozor, toto je päť tridsať, nie štyri tridsať (pol piatej)! Pozri gramatiku vyššie.
 
 ! Il est deux heures et quart.
 > Je štvrť na tri.
@@ -80,12 +80,11 @@ Toto je najčastejšia chyba slovenských študentov francúzštiny. Francúzske
 > Je suis en retard = meškám
 > d'environ dix minutes = asi desať minút
 
-! J'arrive précisément à deux heures.
+! J'arrive à deux heures précises.
 > Prídem presne o druhej.
 > J'arrive = prídem
-> précisément = presne
-> à deux heures = o druhej
-+ „arriver“ znamená prísť, prichádzať: j'arrive, tu arrives, il arrive.
+> à deux heures précises = presne o druhej
++ „arriver“ znamená prísť, prichádzať: j'arrive, tu arrives, il arrive. Pri hodinách sa „presne“ povie „précises“ (za číslom) alebo hovorovo „pile“: „à deux heures pile“. Slovo „précisément“ sa používa skôr vo význame „práve, presne tak“.
 
 ---
 

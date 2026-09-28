@@ -2,7 +2,7 @@
 
 @ img/Gare_de_Lille-Flandres_by_night_IMG_1407_(15621951726).jpg | Francúzska stanica v noci, Lille-Flandres — Wikimedia Commons
 
-Žiadne nové slovo. Celá slovná zásoba série je tu zhrnutá a potom prekombinovaná do nových viet.
+Celá slovná zásoba série je tu zhrnutá a potom prekombinovaná do nových viet. Ak sa vo vete objaví pár slov navyše, sú vysvetlené v preklade pod ňou.
 
 ---
 
@@ -67,7 +67,7 @@
 
 ---
 
-## Les phrases
+## Vety
 
 ! Demain, c'est vendredi. Je suis libre.
 > Zajtra je piatok. Mám voľno.

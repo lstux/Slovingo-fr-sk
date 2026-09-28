@@ -14,7 +14,7 @@ Pýtať sa a nasledovať cestu. Tu sa objavuje **rozkazovací spôsob** (impéra
 | tout droit | rovno |
 | à gauche | vľavo |
 | à droite | vpravo |
-| après le coin | za rohom |
+| au coin de la rue | za rohom, na rohu ulice |
 | continuer | pokračovať |
 | juste | priamo |
 
@@ -37,7 +37,7 @@ Slovesá na -er strácajú v rozkazovacom spôsobe pre „tu“ koncové „s“
 
 | Francúzština | Slovenčina |
 |----------|----------|
-| C'est après le coin. | Je to za rohom. |
+| C'est au coin de la rue. | Je to za rohom. |
 | C'est à côté de la banque. | Je to vedľa banky. |
 | C'est devant l'église. | Je to pred kostolom. |
 | C'est près d'ici. | Je to blízko. |
@@ -58,9 +58,10 @@ Slovesá na -er strácajú v rozkazovacom spôsobe pre „tu“ koncové „s“
 > Allez tout droit = choďte rovno
 > puis à gauche = a potom vľavo
 
-! C'est après le coin.
-> Je to za rohom.
-> C'est après le coin = je to za rohom
+! C'est juste au coin de la rue.
+> Je to hneď za rohom.
+> C'est juste au coin de la rue = je to hneď za rohom
++ Doslova „na rohu ulice“. Francúzština nepovie „après le coin“ — slovenské „za rohom“ sa prekladá „au coin de la rue“.
 
 ! Va à droite, pas à gauche !
 > Choď vpravo, nie vľavo!
@@ -99,16 +100,16 @@ Slovesá na -er strácajú v rozkazovacom spôsobe pre „tu“ koncové „s“
 > Allez tout droit = choďte rovno
 > l'église est sur la place = kostol je na námestí
 
-! La banque est à côté du musée, après le coin.
+! La banque est à côté du musée, au coin de la rue.
 > Banka je vedľa múzea, za rohom.
 > La banque est à côté du musée = banka je vedľa múzea
-> après le coin = za rohom
+> au coin de la rue = za rohom
 
 ---
 
 ## 🇫🇷 Francúzsky kútik
 
-**Excusez-moi otvára všetky dvere.** Podobne ako slovenské {{prepáčte}}, aj toto slovko slúži na oslovenie cudzieho človeka, prepchanie sa davom, alebo skutočné ospravedlnenie. Jedno z najužitočnejších slov v turistickej slovnej zásobe.
+**Excusez-moi otvára všetky dvere.** Podobne ako slovenské prepáčte, aj toto slovko slúži na oslovenie cudzieho človeka, prepchanie sa davom, alebo skutočné ospravedlnenie. Jedno z najužitočnejších slov v turistickej slovnej zásobe.
 
 **Francúzi radi ukazujú cestu — aj s telefónom v ruke.** Na rozdiel od slovenského zvyku vysvetľovať cestu ústne s gestom rukou, vo Francúzsku je bežnejšie, že si ľudia rovno vytiahnu telefón a ukážu trasu na mape — rýchlejšie, ale menej osobné.
 

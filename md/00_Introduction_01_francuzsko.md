@@ -2,7 +2,7 @@
 
 @ img/Eiffel_Tower_from_the_Tour_Montparnasse_3,_Paris_May_2014.jpg | Eiffelova veža, symbol Paríža a Francúzska — Wikimedia Commons, CC BY-SA
 
-Predtým, než sa pustíme do samotného jazyka, trochu kontextu o krajine samotnej: kde leží, odkiaľ pochádza, a čo tvorí jej kultúru. Fiche na pokojné prelistovanie, s odkazmi na doplnkové čítanie, ak by ťa to zaujalo.
+Predtým, než sa pustíme do samotného jazyka, trochu kontextu o krajine samotnej: kde leží, odkiaľ pochádza, a čo tvorí jej kultúru. Kartička na pokojné prelistovanie, s odkazmi na doplnkové čítanie, ak by ťa to zaujalo.
 
 ---
 
@@ -18,7 +18,7 @@ Francúzsko je krajina v západnej Európe, s dlhým pobrežím na Atlantiku, v 
 | Mena | euro |
 | Reliéf | najmä nížiny a plošiny, na juhovýchode vysoké pohoria |
 
-Krajinu na juhovýchode lemujú {{Alpy}} s najvyšším vrcholom {{Mont Blanc}} (približne 4 810 m — presná výška mierne kolíše podľa množstva snehu a ľadu na vrchole), na juhozápade {{Pyreneje}} na hranici so Španielskom. Tri najväčšie mestá krajiny sú {{Paríž}}, {{Marseille}} a {{Lyon}}.
+Krajinu na juhovýchode lemujú Alpy ({{les Alpes}}) s najvyšším vrcholom {{Mont Blanc}} (približne 4 810 m — presná výška mierne kolíše podľa množstva snehu a ľadu na vrchole), na juhozápade Pyreneje ({{les Pyrénées}}) na hranici so Španielskom. Tri najväčšie mestá krajiny sú Paríž ({{Paris}}), {{Marseille}} a {{Lyon}}.
 
 Lyon, tretie najväčšie mesto, leží na sútoku riek Rhône a Saône. Marseille, druhé najväčšie mesto, je hlavným prístavom na Stredomorí a jedným z najstarších miest krajiny.
 
@@ -45,7 +45,7 @@ Nič vyčerpávajúce, len toľko, aby sa dala pochopiť niť:
 Niekoľko kultúrnych orientačných bodov:
 
 - **Náboženstvo**: historicky prevažne katolícka krajina, dnes je však jedným zo základných pilierov štátu prísna sekularita, {{laïcité}} — oddelenie štátu od akéhokoľvek náboženstva.
-- **Gastronómia**: {{bageta}}, syr a víno patria medzi symboly krajiny. Francúzske gastronomické stolovanie je od roku 2010 zapísané na zozname nehmotného kultúrneho dedičstva UNESCO.
+- **Gastronómia**: bageta ({{la baguette}}), syr a víno patria medzi symboly krajiny. Francúzske gastronomické stolovanie je od roku 2010 zapísané na zozname nehmotného kultúrneho dedičstva UNESCO.
 - **Umenie a móda**: Paríž je považovaný za jedno zo svetových centier módy a umenia — Louvre, Musée d'Orsay, a desiatky ďalších múzeí.
 - **Šport**: cyklistika (najmä {{Tour de France}}), futbal, a na juhu krajiny aj ragby.
 

@@ -2,7 +2,7 @@
 
 @ img/Morning_baguettes.jpg | Francúzske potraviny — Wikimedia Commons
 
-Základné potraviny, a dva slovesá, ktoré k nim patria: **manger** (jesť) a **boire** (piť). A hlavne: prvé stretnutie s partitívnym členom, jednou z čisto francúzskych vecí, ktoré slovenčina vôbec nepozná.
+Základné potraviny, a dve slovesá, ktoré k nim patria: **manger** (jesť) a **boire** (piť). A hlavne: prvé stretnutie s partitívnym členom, jednou z čisto francúzskych vecí, ktoré slovenčina vôbec nepozná.
 
 ---
 
@@ -112,11 +112,11 @@ Toto je úplne nová vec. Zatiaľ čo slovenčina mení koncovku slova (voda sa 
 
 ## 🇫🇷 Francúzsky kútik
 
-**Chlieb a soľ, aj tu, ale inak.** Vo Francúzsku sa tradične ponúkajú novomanželom alebo novým susedom {{le pain et le sel}} — chlieb a soľ, symbol hojnosti a priateľstva podobný slovenskému zvyku, len menej rozšírený v bežnom živote.
+**Chlieb na stole, nie na tanieri.** Slovenský zvyk privítať hostí chlebom a soľou vo Francúzsku nepoznajú. Chlieb má však pri francúzskom jedle svoje pevné miesto: kúsky bagety ({{la baguette}}) ležia priamo na obruse vedľa taniera a slúžia aj na vytieranie omáčky — {{saucer}}.
 
 **Syr, o ktorom sa dá rozprávať hodiny.** Francúzsko má povesť krajiny syrov — vyše štyristo druhov. Kým slovenská bryndza je jeden konkrétny fenomén, {{le fromage}} je vo Francúzsku celý svet sám osebe, s vlastným chodom na konci obeda.
 
-**„Des fruits“, „des légumes“ — vždy v množnom čísle.** Na rozdiel od slovenských zberných jednotných čísel {{ovocie}} a {{zelenina}}, francúzština hovorí o ovocí a zelenine v množnom čísle: des fruits, des légumes. Jedno jablko je „un fruit“, ale všeobecne sa hovorí v pluráli.
+**„Des fruits“, „des légumes“ — vždy v množnom čísle.** Na rozdiel od slovenských zberných jednotných čísel ovocie a zelenina, francúzština hovorí o ovocí a zelenine v množnom čísle: des fruits, des légumes. Jedno jablko je „un fruit“, ale všeobecne sa hovorí v pluráli.
 
 ---
 

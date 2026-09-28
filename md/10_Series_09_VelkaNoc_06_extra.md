@@ -2,7 +2,7 @@
 
 @ img/Easter-Eggs.jpg | Veľkonočný stôl — Wikimedia Commons
 
-Žiadne nové slovo. Celá slovná zásoba série je tu zhrnutá a potom prekombinovaná do nových viet. Posledná fiche celej cesty!
+Celá slovná zásoba série je tu zhrnutá a potom prekombinovaná do nových viet. Ak sa vo vete objaví pár slov navyše, sú vysvetlené v preklade pod ňou. Posledná kartička celej cesty!
 
 ---
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Les phrases
+## Vety
 
 ! Le samedi saint, nous avons décoré le panier et préparé le repas.
 > Na Bielu sobotu sme ozdobili košík a pripravili jedlo.
@@ -140,4 +140,4 @@
 
 ---
 
-Toto je posledná fiche série Veľká noc — a posledná fiche celej cesty francúzštiny pre slovenčinu! Gratulujeme, prešiel/prešla si všetkých deväť sérií.
+Toto je posledná kartička série Veľká noc — a posledná kartička celej cesty francúzštiny pre slovenčinu! Gratulujeme, prešiel/prešla si všetkých deväť sérií.

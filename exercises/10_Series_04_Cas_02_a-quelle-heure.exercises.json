@@ -161,54 +161,6 @@
       ]
     },
     {
-      "id": "qcm-cinq-heures-et-quart-5-15",
-      "type": "qcm",
-      "l1": "štvrť na šesť",
-      "l2": "cinq heures et quart (5:15)",
-      "choices_l1": [
-        "Je jedna hodina.",
-        "trištvrte na šesť",
-        "Stojí to päť eur."
-      ],
-      "choices_l2": [
-        "à cinq heures",
-        "Il y a quatre chaises.",
-        "Ça coûte cinq euros."
-      ]
-    },
-    {
-      "id": "qcm-cinq-heures-et-demie-5-30",
-      "type": "qcm",
-      "l1": "pol šiestej",
-      "l2": "cinq heures et demie (5:30)",
-      "choices_l1": [
-        "päť rokov",
-        "jedno euro",
-        "štyri"
-      ],
-      "choices_l2": [
-        "à deux heures",
-        "Ça coûte cinq euros.",
-        "six heures moins le quart (5:45)"
-      ]
-    },
-    {
-      "id": "qcm-six-heures-moins-le-quart-5-45",
-      "type": "qcm",
-      "l1": "trištvrte na šesť",
-      "l2": "six heures moins le quart (5:45)",
-      "choices_l1": [
-        "Je desať hodín.",
-        "Sú dve hodiny.",
-        "Stojí to päť eur."
-      ],
-      "choices_l2": [
-        "cinq heures et quart (5:15)",
-        "à deux heures",
-        "Il est dix heures."
-      ]
-    },
-    {
       "id": "qcm-d-j",
       "type": "qcm",
       "l1": "už",
@@ -424,11 +376,11 @@
       "id": "blank-j-arrive-pr-cis-ment-deux-heures",
       "type": "fill-blank",
       "l1": "Prídem presne o druhej.",
-      "l2": "J'arrive précisément à deux heures.",
+      "l2": "J'arrive à deux heures précises.",
       "missing_l1": "o",
       "missing_l2": "à",
       "blank_index_l1": 2,
-      "blank_index_l2": 2,
+      "blank_index_l2": 1,
       "choices_l1": [
         "meno",
         "na pošte",
@@ -656,7 +608,7 @@
       "id": "listen-j-arrive-pr-cis-ment-deux-heures",
       "type": "listen",
       "l1": "Prídem presne o druhej.",
-      "l2": "J'arrive précisément à deux heures.",
+      "l2": "J'arrive à deux heures précises.",
       "choices_l2": [
         "Le croissant est chaud et savoureux.",
         "Quel est ton prénom ?",
@@ -817,10 +769,10 @@
         "sept",
         "heures.",
         "J'arrive",
-        "précisément",
         "à",
         "deux",
-        "heures."
+        "heures",
+        "précises."
       ]
     },
     {
@@ -967,7 +919,7 @@
       "id": "order-j-arrive-pr-cis-ment-deux-heures",
       "type": "order",
       "l1": "Prídem presne o druhej.",
-      "l2": "J'arrive précisément à deux heures.",
+      "l2": "J'arrive à deux heures précises.",
       "tokens_l1": [
         "Prídem",
         "presne",
@@ -979,10 +931,10 @@
       ],
       "tokens_l2": [
         "J'arrive",
-        "précisément",
         "à",
         "deux",
-        "heures.",
+        "heures",
+        "précises.",
         "Il",
         "est",
         "déjà",
@@ -1145,6 +1097,54 @@
         "à",
         "sept",
         "heures."
+      ]
+    },
+    {
+      "id": "qcm-cinq-heures-et-quart",
+      "type": "qcm",
+      "l1": "štvrť na šesť (5:15)",
+      "l2": "cinq heures et quart",
+      "choices_l1": [
+        "pol šiestej (5:30)",
+        "trištvrte na šesť (5:45)",
+        "štvrť na sedem (6:15)"
+      ],
+      "choices_l2": [
+        "cinq heures et demie",
+        "six heures moins le quart",
+        "six heures et quart"
+      ]
+    },
+    {
+      "id": "qcm-cinq-heures-et-demie",
+      "type": "qcm",
+      "l1": "pol šiestej (5:30)",
+      "l2": "cinq heures et demie",
+      "choices_l1": [
+        "štvrť na šesť (5:15)",
+        "trištvrte na šesť (5:45)",
+        "pol siedmej (6:30)"
+      ],
+      "choices_l2": [
+        "cinq heures et quart",
+        "six heures moins le quart",
+        "six heures et demie"
+      ]
+    },
+    {
+      "id": "qcm-six-heures-moins-le-quart",
+      "type": "qcm",
+      "l1": "trištvrte na šesť (5:45)",
+      "l2": "six heures moins le quart",
+      "choices_l1": [
+        "štvrť na šesť (5:15)",
+        "pol šiestej (5:30)",
+        "trištvrte na sedem (6:45)"
+      ],
+      "choices_l2": [
+        "cinq heures et quart",
+        "cinq heures et demie",
+        "sept heures moins le quart"
       ]
     }
   ]

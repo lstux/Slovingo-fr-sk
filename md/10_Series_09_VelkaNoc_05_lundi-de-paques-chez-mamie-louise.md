@@ -2,7 +2,7 @@
 
 @ img/Luxembourg_Chocolate_Easter_Eggs.JPG | Čokoládové vajíčka na hľadanie v záhrade — Wikimedia Commons
 
-Veľkonočný pondelok u Mamie Louise: Karine a Eric prídu na hľadanie vajíčok, s malou Chloé. Prejde sa tu celá slovná zásoba série. Žiadne nové slovo, okrem tých označených v poznámkach.
+Veľkonočný pondelok u Mamie Louise: Karine a Eric prídu na hľadanie vajíčok, s malou Chloé. Prejde sa tu celá slovná zásoba série. Nové slová, ktoré sa v rozhovore objavia, nájdeš vysvetlené v preklade pod každou replikou.
 
 ---
 
@@ -13,7 +13,7 @@ Veľkonočný pondelok u Mamie Louise: Karine a Eric prídu na hľadanie vajíč
 - 👧 Chloé, malá sestra Karine
 - 👦 Eric
 
-Všetci si tykajú okrem vzťahu Eric–Mamie Louise, kde Eric vyká.
+Všetci si tykajú, okrem Erica, ktorý Mamie Louise z úcty stále vyká. Mamie Louise už Ericovi tyká — pozná ho z predchádzajúcich návštev.
 
 ---
 
@@ -76,9 +76,10 @@ Všetci si tykajú okrem vzťahu Eric–Mamie Louise, kde Eric vyká.
 > je te l'ai caché, celui-là = schovala som ti práve toto
 + „je te l'ai caché“ spája dve zámená — „te“ (tebe) a „l'“ (to) — trochu pokročilé, zatiaľ si len všimni, že sú dve.
 
-! 🧑 On lui a donné le plus bel œuf, elle l'a bien mérité.
-> Dali sme jej najkrajšie vajíčko, dobre si ho zaslúžila.
-> On lui a donné le plus bel œuf = dali sme jej najkrajšie vajíčko
+! 🧑 Et Chloé en a trouvé trois ! On lui donne le plus bel œuf, elle l'a bien mérité.
+> A Chloé našla tri! Dáme jej najkrajšie vajíčko, dobre si ho zaslúžila.
+> Et Chloé en a trouvé trois = a Chloé našla tri
+> On lui donne le plus bel œuf = dáme jej najkrajšie vajíčko
 > elle l'a bien mérité = dobre si ho zaslúžila
 
 ! 👵 Venez, j'ai préparé le gigot. On se réunit à table !
@@ -100,7 +101,7 @@ Všetci si tykajú okrem vzťahu Eric–Mamie Louise, kde Eric vyká.
 
 ## 🇫🇷 Francúzsky kútik
 
-**Hľadanie vajíčok namiesto pomlázky.** Zatiaľ čo slovenská Veľká noc má šibačku, francúzska tradícia je úplne iná — a nekladie žiadny dôraz na fyzický kontakt medzi mužmi a ženami. Hľadanie vajíčok je rodinná, detská zábava, bez rodového rozmeru.
+**Tykanie jedným smerom.** Mamie Louise už Ericovi tyká ({{Je te l'ai caché}}), no Eric jej ďalej vyká. Vo Francúzsku je to bežné: starší človek môže mladšiemu začať tykať, kým mladší zo zdvorilosti vyká ďalej — kým ho ten starší sám nepozve k tykaniu ({{On peut se tutoyer ?}}).
 
 **„Joyeuses Pâques“, nie jedna formulka na všetko.** Podobne ako „Bonjour“/„Au revoir“, aj francúzske veľkonočné pozdravy sú presné: {{Joyeuses Pâques}} sa hovorí len počas veľkonočného víkendu, nie inokedy.
 

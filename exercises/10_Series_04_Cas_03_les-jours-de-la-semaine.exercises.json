@@ -225,38 +225,6 @@
       ]
     },
     {
-      "id": "qcm-lundi-je-travaille-tento-konkr-tny-pondelok",
-      "type": "qcm",
-      "l1": "V pondelok pracujem.",
-      "l2": "Lundi, je travaille. (tento konkrétny pondelok)",
-      "choices_l1": [
-        "urobil / urobila (nepravidelné!)",
-        "Idem do práce.",
-        "chcel by som / chcela by som"
-      ],
-      "choices_l2": [
-        "le jeudi saint",
-        "Elle a fait le gigot, et elle est restée dans la cuisine tout l'après-midi.",
-        "Je suis arrivé tôt."
-      ]
-    },
-    {
-      "id": "qcm-le-lundi-je-travaille-ka-d-pondelok-zvy-ajne",
-      "type": "qcm",
-      "l1": "V pondelky (zvyčajne) pracujem.",
-      "l2": "Le lundi, je travaille. (každý pondelok, zvyčajne)",
-      "choices_l1": [
-        "Sú tam štyri stoličky.",
-        "Dám si pivo.",
-        "bolo by to"
-      ],
-      "choices_l2": [
-        "Elle a fait le gigot, et elle est restée dans la cuisine tout l'après-midi.",
-        "Lundi, je travaille. (tento konkrétny pondelok)",
-        "le jeudi saint"
-      ]
-    },
-    {
       "id": "qcm-la-semaine",
       "type": "qcm",
       "l1": "týždeň",
@@ -1491,6 +1459,38 @@
         "toujours",
         "en",
         "retard."
+      ]
+    },
+    {
+      "id": "qcm-lundi-je-travaille",
+      "type": "qcm",
+      "l1": "V pondelok pracujem. (tento konkrétny pondelok)",
+      "l2": "Lundi, je travaille.",
+      "choices_l1": [
+        "V pondelky (zvyčajne) pracujem. (každý pondelok)",
+        "V utorok pracujem. (tento konkrétny utorok)",
+        "V pondelok nepracujem. (tento konkrétny pondelok)"
+      ],
+      "choices_l2": [
+        "Le lundi, je travaille.",
+        "Mardi, je travaille.",
+        "Lundi, je ne travaille pas."
+      ]
+    },
+    {
+      "id": "qcm-le-lundi-je-travaille",
+      "type": "qcm",
+      "l1": "V pondelky (zvyčajne) pracujem. (každý pondelok)",
+      "l2": "Le lundi, je travaille.",
+      "choices_l1": [
+        "V pondelok pracujem. (tento konkrétny pondelok)",
+        "V utorky (zvyčajne) pracujem. (každý utorok)",
+        "V pondelky (zvyčajne) nepracujem. (každý pondelok)"
+      ],
+      "choices_l2": [
+        "Lundi, je travaille.",
+        "Le mardi, je travaille.",
+        "Le lundi, je ne travaille pas."
       ]
     }
   ]

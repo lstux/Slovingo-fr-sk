@@ -26,9 +26,9 @@ Miestnosti bytu, a jedna z prvých vecí, ktoré prekvapia Slováka na francúz�
 
 | Francúzština | Slovenčina |
 |----------|----------|
-| un salon (mužský rod) | obývačka (v slovenčine ženský rod) |
-| une chambre (ženský rod) | spálňa |
-| une salle de bain (ženský rod) | kúpeľňa |
+| un salon | obývačka (vo francúzštine mužský rod, v slovenčine ženský) |
+| une chambre | spálňa (ženský rod) |
+| une salle de bain | kúpeľňa (ženský rod) |
 
 Zlá správa hneď na úvod: francúzsky rod sa musí naučiť naspamäť spolu s každým slovom (najlepšie priamo s členom le/la). Neexistuje spoľahlivé pravidlo ako v slovenčine. Dobrá správa: rody sa medzi jazykmi vôbec nemusia zhodovať, a to je úplne normálne — netreba v tom hľadať logiku.
 
@@ -96,7 +96,7 @@ Zlá správa hneď na úvod: francúzsky rod sa musí naučiť naspamäť spolu 
 
 **Salon — „miestnosť, kde prijímame“.** Francúzske slovo {{salon}} pôvodne označovalo miestnosť na prijímanie hostí v zámkoch. Dnes je to jednoducho obývačka, ale slovo si podržalo nádych trochu formálnosti.
 
-**WC a kúpeľňa spolu, nie oddelene.** Na rozdiel od slovenského zvyku oddeľovať {{les toilettes}} od {{la salle de bain}}, vo francúzskych bytoch sú tieto dve miestnosti veľmi často spojené do jednej. Spýtať sa „kde sú toalety“ v byte teda často znamená tie isté dvere ako kúpeľňa.
+**WC zvlášť, kúpeľňa zvlášť.** Vo francúzskych bytoch je záchod ({{les toilettes}}) veľmi často samostatná miestnosť, oddelená od kúpeľne ({{la salle de bain}}). Francúzi to považujú za samozrejmosť a v inzerátoch sa „WC séparés“ uvádza ako výhoda. Keď sa teda opýtaš na {{la salle de bain}}, záchod tam nutne nenájdeš.
 
 **Domy s drevenou kostrou.** V Alsasku a Normandii nájdeš celé staré mestá postavené z domov s viditeľnou drevenou konštrukciou a farebnými fasádami, {{maisons à colombages}} — francúzsky ekvivalent slovenských maľovaných Čičmian, len v inom štýle.
 

@@ -113,26 +113,10 @@
       ]
     },
     {
-      "id": "qcm-un-salon-mu-sk-rod",
-      "type": "qcm",
-      "l1": "obývačka (v slovenčine ženský rod)",
-      "l2": "un salon (mužský rod)",
-      "choices_l1": [
-        "To sú izby.",
-        "To je izba.",
-        "Chcel by som izbu."
-      ],
-      "choices_l2": [
-        "une chambre (ženský rod)",
-        "Nous voudrions une chambre avec vue sur mer.",
-        "la maison de campagne"
-      ]
-    },
-    {
       "id": "qcm-une-chambre-ensk-rod",
       "type": "qcm",
       "l1": "spálňa",
-      "l2": "une chambre (ženský rod)",
+      "l2": "la chambre (à coucher)",
       "choices_l1": [
         "balkón",
         "obývačka",
@@ -148,7 +132,7 @@
       "id": "qcm-une-salle-de-bain-ensk-rod",
       "type": "qcm",
       "l1": "kúpeľňa",
-      "l2": "une salle de bain (ženský rod)",
+      "l2": "la salle de bain",
       "choices_l1": [
         "terasa",
         "kuchyňa",
@@ -1069,6 +1053,54 @@
         "C'est",
         "notre",
         "maison."
+      ]
+    },
+    {
+      "id": "qcm-un-salon",
+      "type": "qcm",
+      "l1": "obývačka (vo francúzštine mužský rod, v slovenčine ženský)",
+      "l2": "un salon",
+      "choices_l1": [
+        "spálňa (ženský rod)",
+        "kúpeľňa (ženský rod)",
+        "kuchyňa"
+      ],
+      "choices_l2": [
+        "une chambre",
+        "une salle de bain",
+        "un balcon"
+      ]
+    },
+    {
+      "id": "qcm-une-chambre",
+      "type": "qcm",
+      "l1": "spálňa (ženský rod)",
+      "l2": "une chambre",
+      "choices_l1": [
+        "obývačka (vo francúzštine mužský rod, v slovenčine ženský)",
+        "kúpeľňa (ženský rod)",
+        "kuchyňa"
+      ],
+      "choices_l2": [
+        "un salon",
+        "une salle de bain",
+        "une cuisine"
+      ]
+    },
+    {
+      "id": "qcm-une-salle-de-bain",
+      "type": "qcm",
+      "l1": "kúpeľňa (ženský rod)",
+      "l2": "une salle de bain",
+      "choices_l1": [
+        "obývačka (vo francúzštine mužský rod, v slovenčine ženský)",
+        "spálňa (ženský rod)",
+        "záchod"
+      ],
+      "choices_l2": [
+        "un salon",
+        "une chambre",
+        "les toilettes"
       ]
     }
   ]

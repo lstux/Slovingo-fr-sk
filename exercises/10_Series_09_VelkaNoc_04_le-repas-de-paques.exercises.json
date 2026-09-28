@@ -557,26 +557,6 @@
       ]
     },
     {
-      "id": "blank-la-table-est-sal-e-et-sucr-e-la-fois",
-      "type": "fill-blank",
-      "l1": "Stôl je slaný aj sladký zároveň.",
-      "l2": "La table est salée et sucrée à la fois.",
-      "missing_l1": "je",
-      "missing_l2": "est",
-      "blank_index_l1": 1,
-      "blank_index_l2": 2,
-      "choices_l1": [
-        "priamo",
-        "na",
-        "sa"
-      ],
-      "choices_l2": [
-        "aussi",
-        "en arrière",
-        "à Lyon"
-      ]
-    },
-    {
       "id": "listen-sur-la-table-il-y-a-le-gigot-des-ufs-et-des-haricots-verts",
       "type": "listen",
       "l1": "Na stole je jahňacie stehno, vajíčka a zelená fazuľka.",
@@ -814,22 +794,6 @@
         "V noci je ticho.",
         "Nachádzam mušľu na piesku.",
         "Vstávam a otváram okno."
-      ]
-    },
-    {
-      "id": "listen-la-table-est-sal-e-et-sucr-e-la-fois",
-      "type": "listen",
-      "l1": "Stôl je slaný aj sladký zároveň.",
-      "l2": "La table est salée et sucrée à la fois.",
-      "choices_l2": [
-        "Le train arrive à midi et quart.",
-        "Dans le couloir. Les toilettes sont là aussi.",
-        "La fenêtre est grande."
-      ],
-      "choices_l1": [
-        "Chladnička je v kuchyni.",
-        "Televízor je na polici.",
-        "Kde je lampa?"
       ]
     },
     {
@@ -1261,12 +1225,11 @@
         "pomohla",
         "pripraviť",
         "stôl.",
-        "Stôl",
-        "je",
-        "slaný",
-        "aj",
-        "sladký",
-        "zároveň."
+        "Máme",
+        "čokoládového",
+        "baránka,",
+        "nie",
+        "skutočného."
       ],
       "tokens_l2": [
         "Elle",
@@ -1281,15 +1244,15 @@
         "préparer",
         "la",
         "table.",
-        "La",
-        "table",
-        "est",
-        "salée",
-        "et",
-        "sucrée",
-        "à",
-        "la",
-        "fois."
+        "Nous",
+        "avons",
+        "un",
+        "agneau",
+        "en",
+        "chocolat,",
+        "pas",
+        "un",
+        "vrai."
       ]
     },
     {
@@ -1444,43 +1407,71 @@
       ]
     },
     {
-      "id": "order-la-table-est-sal-e-et-sucr-e-la-fois",
+      "id": "blank-sur-la-table-il-y-a-du-sal-et-du-sucr",
+      "type": "fill-blank",
+      "l1": "Na stole je slané aj sladké.",
+      "l2": "Sur la table, il y a du salé et du sucré.",
+      "missing_l1": "stole",
+      "missing_l2": "du",
+      "blank_index_l1": 1,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "stôl",
+        "stola",
+        "stolom"
+      ],
+      "choices_l2": [
+        "de",
+        "des",
+        "au"
+      ]
+    },
+    {
+      "id": "listen-sur-la-table-il-y-a-du-sal-et-du-sucr",
+      "type": "listen",
+      "l1": "Na stole je slané aj sladké.",
+      "l2": "Sur la table, il y a du salé et du sucré.",
+      "choices_l1": [
+        "Na stole je slané, nie sladké.",
+        "Na stole je syr aj chlieb.",
+        "Na stole je iba sladké."
+      ]
+    },
+    {
+      "id": "order-sur-la-table-il-y-a-du-sal-et-du-sucr",
       "type": "order",
-      "l1": "Stôl je slaný aj sladký zároveň.",
-      "l2": "La table est salée et sucrée à la fois.",
+      "l1": "Na stole je slané aj sladké.",
+      "l2": "Sur la table, il y a du salé et du sucré.",
       "tokens_l1": [
-        "Stôl",
+        "Na",
+        "stole",
         "je",
-        "slaný",
+        "slané",
         "aj",
-        "sladký",
-        "zároveň.",
-        "Nejedli",
-        "sme",
-        "mäso",
-        "na",
-        "Veľký",
-        "piatok."
+        "sladké.",
+        "Tento",
+        "dezert",
+        "je",
+        "veľmi",
+        "sladký."
       ],
       "tokens_l2": [
-        "La",
-        "table",
-        "est",
-        "salée",
-        "et",
-        "sucrée",
-        "à",
+        "Sur",
         "la",
-        "fois.",
-        "Nous",
-        "n'avons",
-        "pas",
-        "mangé",
-        "de",
-        "viande",
-        "le",
-        "vendredi",
-        "saint."
+        "table,",
+        "il",
+        "y",
+        "a",
+        "du",
+        "salé",
+        "et",
+        "du",
+        "sucré.",
+        "Ce",
+        "dessert",
+        "est",
+        "très",
+        "sucré."
       ]
     }
   ]
