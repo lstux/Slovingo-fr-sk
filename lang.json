@@ -175,5 +175,17 @@
     "character_headings": [
       "postavy"
     ]
+  },
+  "subgroup_themes": {
+    "kitsurvie": "basics",
+    "rodina": "family",
+    "doma": "house",
+    "jedlo": "food",
+    "cas": "time",
+    "nakupy": "shopping",
+    "mesto": "city",
+    "pocasie": "weather",
+    "more": "sea",
+    "velkanoc": "easter"
   }
 }
