@@ -169,6 +169,7 @@
     "streak_days": " dní",
     "voice_native": "Hlas ({lang})"
   },
+  "greeting": {"t": "Bonjour, [USER_NAME] !", "n": "Ahoj, [USER_NAME]!"},
   "cheers": {
     "perfect": [
       {"t": "Excellent !", "n": "Výborne!"},
