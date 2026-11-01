@@ -68,6 +68,24 @@ Height order, tallest first: Claire (ears included) and Michel, then Martine, th
 Style: hand-drawn 2D illustration for an original illustrated book, clean ink outlines, flat colours, soft cel shading, plain light background, front view and three-quarter view for each character plus a few facial expressions. No text, no letters, no speech bubbles, no logos, no watermark.
 ```
 
+### Retour sur la v2 (1er novembre) et passe 3
+
+La v2 est gardée dans `docs/illustrations/planche-personnages-2_v2.jpg`. **Retenus** : les visages et les tenues de Martine (de vraies têtes de renarde), Claire, Michel, la tête de Samo. **À corriger** : l'échelle. Gemini tire chaque personnage vers la même hauteur : Samo est encore trop grand et Martine encore trop petite. On ne touche donc qu'aux proportions, avec une ligne de sol commune et des repères de hauteur.
+
+À joindre : la v2 seulement.
+
+```
+Use the attached model sheet as the exact reference. Keep EVERYTHING the same: the same four characters, faces, expression heads, clothes, colours, drawing style and layout. Change ONLY the scale of the four full-body figures, which must stand on one common ground line, shown as a height line-up, with very faint thin horizontal guide lines (no text, no numbers, no labels) at the height of the top of Michel's cap, of his chest, and of his belt.
+
+Heights, with the top of Michel's flat cap = 100%:
+- Michel, the elderly fox with the cap: 100%.
+- Claire, the beige rabbit: her head (ears excluded) reaches 95% of Michel's height; her long ears go above him.
+- Martine, the elderly fox in the green cardigan: 90%. She is an adult, only slightly shorter than Michel: the tips of her ears reach the top of Michel's cap, her head reaches his chin. Bigger than she is now.
+- Samo, the 8-year-old grey hare: 62%. His head (ears excluded) reaches only Michel's chest and Claire's waist. Smaller than he is now. Keep his child proportions: a large round head, short arms and legs, a small red backpack.
+
+Keep the face and expression heads as drawn, only redistribute them around the line-up. Plain light background, no text, no letters, no logos, no watermark.
+```
+
 **Si Gemini dérive encore** (Martine surtout) : la faire seule, puis l'assembler à la main avec le reste.
 
 ```
