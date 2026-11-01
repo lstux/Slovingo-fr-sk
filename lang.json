@@ -17,6 +17,7 @@
     "css_class": "col-native"
   },
   "site": {
+    "status": "build",
     "title": "Dis bonjour!",
     "short_name": "Dis bonjour!",
     "description": "Učenie sa hovorovej francúzštiny — kartičky a cvičenia",
