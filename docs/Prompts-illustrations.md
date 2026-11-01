@@ -100,21 +100,39 @@ Single-character model sheet, plain light background: Martine, Michel's wife, an
 
 ---
 
-## Couverture — l'image d'intro
+## Couverture — l'image d'intro (retenue le 1er novembre)
 
-Pour l'introduction (`md/00_Introduction_01_francuzsko.md`) → image `img/illus_cover.jpg`.
+Image : `img/illus_cover.jpg` (1280 px de large), branchée sur la page de choix du cours (`site.cover` dans `lang.json`). Elle servira aussi à la fiche d'introduction « Le voyage », quand elle sera écrite.
 
-À joindre : les deux planches.
+Composition retenue : Lyon et la basilique de Fourvière au pied des Alpes à gauche, la campagne au centre, Paris (tour Eiffel, Sacré-Cœur) à l'horizon, Mont-Saint-Michel et la mer à droite ; la voiture est de face, volant à gauche, Eric conduit, Andrea tient la carte, Samo est derrière. Il a fallu plusieurs essais : les prompts trop chargés mélangeaient les lieux (flamants, deux Lyon).
+
+À joindre : les deux planches. Pas de photo de référence.
 
 ```
-Use the attached model sheets for the characters (keep them exactly as designed).
+Use the two attached model sheets for the characters: keep them exactly as designed (first sheet: the adult red fox and the adult grey hare; second sheet: Samo, the small grey hare child on the far right).
 
-Scene: Opening image of a family road-trip story across France. A small, slightly dusty light-blue car with a roof box drives along a winding country road through a patchwork of French summer landscapes, seen from slightly above and in front. The adult red fox is driving, smiling but already a little tired; next to him the adult grey hare sits holding an unfolded paper road map, amused; in the back seat, the small grey hare Samo leans out of the open window with wide, amazed eyes, his red backpack on his lap. Behind them, the road winds past, from the foreground to the horizon: a vineyard and lavender fields, a pond with pink flamingos and white horses, snowy Alpine peaks on the left, the Eiffel Tower small in the distance, a rocky island topped by a Gothic abbey (Mont-Saint-Michel) rising from the sand, and on the far right a blue sea with a lighthouse. Leave the upper third of the image fairly calm (sky with a few summer clouds), as a title may be added later.
+Create a wide panoramic illustration, 16:9 landscape (1920×1080), for the cover of an original illustrated book about a family road trip across France.
 
-Characters: Eric, an adult male red fox in his forties (bright orange fur, grey-black ear tips, cream muzzle and chest, a few grey hairs on the cheeks, friendly slightly tired eyes), wearing a blue zip hoodie over a white T-shirt; Andrea, an adult female grey hare in her forties (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down, calm amused look), wearing a mint-green top; Samo, an 8-year-old male grey hare, her nephew (same grey fur and white blaze, both ears standing up, big curious eyes), in a navy T-shirt and a red backpack, drawn with small child proportions (large round head, short body).
+FOREGROUND (lower centre): a small, slightly dusty light-blue family car with a roof box full of luggage, seen from the FRONT in a three-quarter view, driving towards the viewer on a winding country road. It is a French car with the steering wheel on the LEFT side of the car. Because we see the car from the front, the driver therefore sits on the RIGHT side of the picture. The driver is the adult red fox, both paws on the wheel, smiling but a little tired. Next to him, in the front passenger seat on the left of the picture, sits the adult grey hare, holding an unfolded paper road map, amused. In the back seat, between them, Samo the small grey hare child leans forward with wide, amazed eyes, his red backpack on his lap. All three faces are clearly visible through the windscreen. The car takes up about a quarter of the image height.
 
-Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, expressive faces. Backgrounds are detailed, realistic painted backdrops, true to the real landscapes and landmarks of France, arranged as a storybook collage along the road. Warm, gentle summer light. 16:9 landscape, 1920×1080. Anthropomorphic animals walk upright, wear clothes and live among ordinary humans, who are drawn in the same 2D style and find this normal. No text, no letters, no speech bubbles, no logos, no watermark.
+LEFT SIDE (background and middle ground): big snowy Alpine mountains. At their foot, one single city: Lyon, with the white Basilica of Notre-Dame de Fourvière on its hill, terracotta rooftops, and the Rhône and Saône rivers with a few bridges.
+
+CENTRE (far background, on the horizon): Paris, with the Eiffel Tower and the white-domed Sacré-Cœur on its hill, small and light in the haze.
+
+RIGHT SIDE (background): the tidal island of Mont-Saint-Michel with its Gothic abbey rising from the sand, and beyond it the blue sea with a beach, a lighthouse and two or three sailboats.
+
+BETWEEN THEM: peaceful green rolling countryside with fields, a vineyard and a few small villages with church steeples. The winding road leads from the car back across the countryside towards the horizon. The bottom-right area of the image is just countryside and road, with no city and no buildings except one or two small farmhouses.
+
+Leave a calm strip of sky across the top (a few summer clouds) for a title.
+
+Do NOT include: flamingos, horses, lavender fields, cable cars, a second copy of any city, or any other landmark.
+
+Characters: Eric, an adult male red fox in his forties (bright orange fur, grey-black ear tips, cream muzzle and chest, a few grey hairs on the cheeks, friendly slightly tired eyes), wearing a blue zip hoodie over a white T-shirt; Andrea, an adult female grey hare in her forties (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down, calm amused look), wearing a mint-green top; Samo, an 8-year-old male grey hare (same grey fur and white blaze as Andrea, both ears standing up, big curious eyes), in a navy T-shirt with a small mountain print, drawn with small child proportions (large round head, short body).
+
+Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, expressive faces, detailed realistic painted backdrops true to the real landmarks. Warm, gentle summer light. Anthropomorphic animals walk upright and wear clothes. No text, no letters, no speech bubbles, no logos, no watermark.
 ```
+
+**Crédit** : « Illustration générée avec Google Gemini ». Détail connu : l'oreille tombante d'Andrea n'est pas visible dans l'habitacle.
 
 ---
 
