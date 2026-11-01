@@ -137,7 +137,7 @@ L'introduction couvre les bases. On reprend un point quand un nom de lieu ou une
 **Gags et traits à noter dès qu'ils sont posés** (pour rester cohérent) :
 
 - **« On est arrivés ? »** : la première phrase de français de Samo, dès le chapitre 2 ; Hugo et Lola la reprennent à Cannes. La réponse d'Eric varie, celle de la navigation jamais.
-- **Le ronfleur** : gîte n° 1 (ch. 02), Andrea accuse Eric ; chalet n° 2 (ch. 04), tout le monde accuse Samo ; gîte n° 3 (ch. 08), c'est Eric, preuve enregistrée par Lola.
+- **Le ronfleur** : gîte n° 1 (ch. 02), Andrea accuse Eric ; chalet n° 2 (ch. 04), tout le monde accuse Samo ; gîte n° 3 (ch. 08), c'est Eric, preuve enregistrée par Samo.
 - **La navigation** : *Recalcul de l'itinéraire…* chaque fois que Eric n'écoute pas ; *Signal perdu* au camping de Chamonix, à Pontrieux et chez Claire.
 - **Eric connaît tout**, sauf le chemin qu'il a toujours pris sans regarder.
 - **Le *vous* d'Andrea** : chapitres 1 à 3, Andrea retombe dans le *vous* avec Eric par habitude (*Vous savez, Eric…*) et il la reprend (*On se tutoie, Andrea !*). Ensuite, retours ponctuels quand elle est fatiguée ou stressée. Toujours signalé par un `+`. Coin français associé : *tutoyer / vouvoyer*, la formule *On peut se tutoyer ?*, et la gêne qu'il y a à revenir en arrière.

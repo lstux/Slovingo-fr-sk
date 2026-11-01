@@ -76,7 +76,7 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
 
 ## Ton et gags
 - Les gags viennent des situations, jamais de moqueries sur des personnes réelles.
-- **Le *vous* d'Andrea** : Andrea et Eric se tutoient depuis longtemps, mais elle retombe dans le *vous* par habitude, par politesse ou par fatigue (« Vous pouvez… »), et Eric la reprend : « On se tutoie, Andrea ! ». Chaque *vous* d'Andrea envers Eric est signalé par un `+`. Qui propose le *tu* au chapitre 1 reste à trancher à l'écriture ; le tutoiement se **propose**, il ne s'impose pas.
+- **Le *vous* d'Andrea** : Andrea et Eric se tutoient depuis longtemps, mais elle retombe dans le *vous* par habitude, par politesse ou par fatigue (« Vous pouvez… »), et Eric la reprend : « On se tutoie, Andrea ! ». Chaque *vous* d'Andrea envers Eric est signalé par un `+`. C'est **Andrea qui propose** de se tutoyer (au chapitre 1) ; le tutoiement se **propose**, il ne s'impose pas.
 - **Le kit de survie devient le souvenir de leur rencontre à Villeurbanne** : ils se vouvoient encore, Andrea apprend ses premiers mots de français, Eric est aussi poli qu'un inconnu. La réécriture reste légère (les avatars changent, le dialogue garde l'essentiel).
 - **Eric connaît tout, mais pas toujours ce qu'il y a derrière** : « C'est joli mais t'as pas de montagnes ! » (Angers), « il y a trop de monde ! » (Paris).
 - **« On est arrivés ? »** : la première phrase de français de Samo, répétée toutes les dix minutes ; Hugo et Lola la reprennent à Cannes.
@@ -86,6 +86,14 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
 ## Cadre
 - **Niveau** : on part du niveau atteint après l'introduction et le kit de survie, vers un **bon A2 avec des incursions vers le B1**, aligné sur ce que le cours fr-sk enseignait déjà (jusqu'au passé composé).
 - **Volume** : le même que sk-fr, soit 12 chapitres pour environ **9 000 à 10 000 mots français** au total, avec des chapitres qui grossissent.
+
+## Décisions d'écriture (1er novembre, soir)
+
+- **Arrivée** : Samo et Andrea atterrissent à l'**aéroport de Lyon Saint-Exupéry**. Eric vient les chercher. Ils vont ensuite à Lyon en **tram**, ce qui fait passer par **Meyzieu** (où Eric a longtemps habité) et **Villeurbanne** (où Eric et Andrea se sont connus). Le trajet exact (Rhônexpress, métro) est à vérifier ; la façon dont la voiture entre dans l'histoire est à régler à l'écriture.
+- **Le *vous*** : c'est Andrea qui propose le *tu* à Eric (le gag est donc d'abord le sien : elle retombe dans le *vous*, il la reprend).
+- **Samo** ne parle pas plus français qu'Andrea au départ, mais il **apprend plus vite**.
+- **La navigation est piquante** (remarques sèches, ironie, rancune quand Eric ne l'écoute pas), comme dans sk-fr.
+- **Fil conducteur** : Eric connaît à peu près chaque lieu, et chaque étape a une anecdote personnelle. Fournies : **Paris** (ses grands-parents y ont habité, il y allait à Noël enfant) ; **La Rosière** (il y faisait du snowboard quand il était étudiant à Lyon) ; **Angers** (il y a habité) ; **Pontrieux** (la maison du grand-père, où il allait enfant ; avant lui, celle des arrière-grands-parents) ; **Meyzieu** (il y a longtemps habité) ; **Villeurbanne** (rencontre avec Andrea) ; **Saint-Marc-sur-Mer** (il y a grandi) ; **Cannes** (sa sœur Claire y habite). Les autres anecdotes (Lyon, Camargue, Nice, Chamonix, Annecy, Dijon, Lille, Étretat, Mont-Saint-Michel, Bréhat) sont à fournir ou à inventer, marquées comme telles dans l'histoire.
 
 ## Points à valider
 1. **Tranché le 1er novembre** : Hugo et Lola vivent avec Claire à Cannes (chapitre 3) et la retrouvent à Saint-Marc (chapitre 12) ; seul Samo voyage avec Eric et Andrea.
