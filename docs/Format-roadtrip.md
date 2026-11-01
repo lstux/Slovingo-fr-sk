@@ -11,10 +11,10 @@ La base reste le **SMD (Slovingo Markdown)** : voir `docs/Format-SMD.txt` dans l
 | Langue apprise | slovaque | **français** |
 | Langue des explications | français | **slovaque** |
 | « Toi » (`[USER_NAME]`) | Gab, le Français | **Andrea**, la Slovaque (formes **féminines**) |
-| Guide | Andrea | **Gab** |
+| Guide | Andrea | **Eric** |
 | Parcours | Bratislava → Košice | **Lyon → Saint-Marc-sur-Mer** |
 | Narrateur | la navigation, en slovaque | la navigation, **en français** |
-| Enfants | Hugo, Lola (Français) | Hugo, Lola (Français) **et Samo (Slovaque)** |
+| Enfants | Hugo, Lola (Français), en voyage | **Samo** (Slovaque), en voyage ; Hugo et Lola avec Claire, aux chapitres 3 et 12 |
 | Gag de registre | le *vy* de Gab | le **vous** d'Andrea |
 | Heures, jours, nombres | les nombres slovaques | les nombres français (*soixante-dix, quatre-vingts*) |
 
@@ -23,9 +23,9 @@ Ce qui ne change pas : une série = un chapitre ; 6 fiches par série ; micro-di
 ## 1. Ton et rédaction
 
 - Phrases courtes, répliques vives. L'humour vient des situations de voyage (la valise, la pause pipi, le ronfleur, « on est arrivés ? »), jamais d'une moquerie sur des personnes réelles.
-- Ton d'adulte : second degré, autodérision de Gab, étonnements d'Andrea, logique implacable des enfants.
+- Ton d'adulte : second degré, autodérision d'Eric, étonnements d'Andrea, logique implacable des enfants.
 - Une idée à la fois, pas de jargon grammatical dans le texte (« partitif », « imparfait »…) avant que la fiche l'ait expliqué en quelques mots simples.
-- Le guide touristique passe par les personnages : Gab raconte, les enfants demandent, la navigation annonce. Pas de paragraphe encyclopédique dans les dialogues ; les faits détaillés vont dans le **coin français**.
+- Le guide touristique passe par les personnages : Eric raconte, les enfants demandent, la navigation annonce. Pas de paragraphe encyclopédique dans les dialogues ; les faits détaillés vont dans le **coin français**.
 - Le français est celui d'un natif, naturel, **sans calque du slovaque**. Le slovaque des explications est à faire relire par un locuteur natif.
 
 ## 2. Une série = 6 fiches = un chapitre = un lieu
@@ -43,12 +43,12 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 | Avatar | Personnage | Notes |
 |---|---|---|
 | 🐰 | **Andrea** (toi) | `[USER_NAME]`, par défaut *Andrea* ; formes **féminines** (*je suis allée, contente, fatiguée*) |
-| 🦊 | **Gab** | Français, guide, formes **masculines** |
-| 🧢 | **Hugo** | renardeau, 9 ans, neveu de Gab *(avatar et âge proposés)* |
-| 🐇 | **Lola** | petite hase, 6 ans, nièce de Gab *(avatar et âge proposés)* |
-| 🎒 | **Samo** | petit lièvre gris, 8 ans, neveu d'Andrea *(avatar et âge proposés)* |
-| 📱 / 🐰🌴 | **Claire** | sœur de Gab : voix au téléphone (📱), et en vrai à Nice puis à Saint-Marc (🐰🌴, à tester dans le moteur) |
-| 🦊⚓ / 🦊🧶 | **Michel** et **Martine** | les parents de Gab, chapitre 12 *(avatars proposés)* |
+| 🦊 | **Eric** | Français, guide, formes **masculines** |
+| 🧢 | **Hugo** | renardeau, 9 ans, neveu d'Eric, chapitres 3 et 12 *(avatar et âge proposés)* |
+| 🐇 | **Lola** | petite hase, 6 ans, nièce d'Eric, chapitres 3 et 12 *(avatar et âge proposés)* |
+| 🎒 | **Samo** | petit lièvre gris, 8 ans, neveu d'Andrea, voyage avec Eric et Andrea *(avatar et âge proposés)* |
+| 📱 / 🐰🌴 | **Claire** | sœur d'Eric : voix au téléphone (📱), et en vrai à Nice puis à Saint-Marc (🐰🌴, à tester dans le moteur) |
+| 🦊⚓ / 🦊🧶 | **Michel** et **Martine** | les parents d'Eric, chapitre 12 *(avatars proposés)* |
 | 🧭 | **La navigation** (le GPS) | narratrice par défaut, voir §6 |
 | 💬 | Le narrateur neutre | repli, voir §6 |
 | 🧑‍… | Les humains | désignés par leur **fonction**, un emoji par fonction (voir ci-dessous) |
@@ -56,20 +56,20 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 **Humains** : ils parlent normalement aux animaux et personne ne s'en étonne. Un même emoji ne peut pas servir à deux fonctions (le moteur leur donnerait le même nom). Propositions : 🧑‍💼 la réception, 🧑‍🍳 le serveur, 🧓 l'hôte du gîte, 🧑‍🏫 le guide, 🧑‍🔧 le gardien du camping, 🧑‍🦰 la vendeuse, 👵 une vieille dame, 👷 le préposé de la remontée. On complète la liste au fil de l'écriture et on la tient à jour ici.
 
 **Tutoiement et vouvoiement** :
-- *tu* entre Andrea, Gab et les enfants, et en famille (chez Claire, chez Michel et Martine) ;
-- **exception voulue : le *vous* d'Andrea envers Gab** (voir `Concept-adulte.md`). Chaque réplique où Andrea vouvoie Gab porte une remarque `+` qui le signale, pour que l'apprenant ne prenne pas cette forme pour la bonne ;
+- *tu* entre Andrea, Eric et les enfants, et en famille (chez Claire, chez Michel et Martine) ;
+- **exception voulue : le *vous* d'Andrea envers Eric** (voir `Concept-adulte.md`). Chaque réplique où Andrea vouvoie Eric porte une remarque `+` qui le signale, pour que l'apprenant ne prenne pas cette forme pour la bonne ;
 - *vous* avec tous les adultes inconnus (réception, serveurs, guides) ; les enfants vouvoient aussi les adultes qu'ils ne connaissent pas ;
 - la navigation vouvoie le conducteur (*Tournez à droite*), comme une vraie navigation.
 
 **Prénom** :
 - `[ASK_USER_NAME]` est dans la première fiche de l'introduction, une seule fois. Ensuite, `[USER_NAME]` dans les répliques et la narration.
 - Le nom par défaut (`site.user_name_default` dans `lang.json`) est *Andrea*. Le prénom n'est jamais écrit en dur dans les remarques : toujours `[USER_NAME]`, ou la 2e personne (« tvoja chyba »). Pas de `[USER_NAME]` dans une voix `{{…}}`.
-- Dans le kit (souvenir de Villeurbanne), toi et Gab vous présentez au vouvoiement.
+- Dans le kit (souvenir de Villeurbanne), toi et Eric vous présentez au vouvoiement.
 - Le marqueur va **après** le `!` : `! 🐰 Bonjour !`.
 
 ## 4. Genre
 
-- Gab est un homme : formes masculines (*je suis parti, content*). Andrea et Lola : féminines (*je suis partie, contente*). Hugo et Samo : masculines.
+- Eric est un homme : formes masculines (*je suis parti, content*). Andrea et Lola : féminines (*je suis partie, contente*). Hugo et Samo : masculines.
 - Le cours est écrit pour une apprenante (Andrea) : les accords au féminin des participes sont donc un sujet permanent, présenté dans les fiches de passé composé.
 - La navigation se dit **la navigation** (féminin) et parle au féminin quand elle parle d'elle-même (*Je recalcule l'itinéraire*).
 
@@ -83,7 +83,7 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 
 ## 6. La navigation 🧭 et le narrateur neutre 💬
 
-La navigation parle un français net, lent, en **phrases très courtes**, et **vouvoie** Gab :
+La navigation parle un français net, lent, en **phrases très courtes**, et **vouvoie** Eric :
 
 ```
 ! 🧭 Dans deux cents mètres, tournez à droite.
@@ -268,8 +268,8 @@ Les erreurs de fait repérées dans l'ancienne version (coutumes slaves présent
 - [ ] Aucun mot inconnu sans explication, navigation et narrateur compris
 - [ ] Aucun slovaque dans `{{…}}`
 - [ ] Un marqueur unique par personnage, `! 🐰 …` après le `!`
-- [ ] Formes féminines pour Andrea, Lola et la navigation ; masculines pour Gab, Hugo et Samo
-- [ ] *tu / vous* respectés ; tout *vous* d'Andrea envers Gab est signalé par un `+`
+- [ ] Formes féminines pour Andrea, Lola et la navigation ; masculines pour Eric, Hugo et Samo
+- [ ] *tu / vous* respectés ; tout *vous* d'Andrea envers Eric est signalé par un `+`
 - [ ] Coin français : faits vérifiés sur le lieu du jour
 - [ ] Fiche extra : tableau complet, suite de l'épisode, 3 mots nouveaux au plus
 - [ ] Nom de fichier et titre selon le schéma, sous-groupe déclaré dans `lang.json`

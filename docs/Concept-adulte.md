@@ -1,11 +1,11 @@
 # Concept « Tour de France » — cours adulte fr-sk, miroir du roadtrip sk-fr
 
-*Version 0.1, 1er novembre 2026. Série-voyage du cours fr-sk : un guide touristique de la France, mis en histoire, de Lyon à Saint-Marc-sur-Mer. Miroir du roadtrip du cours sk-fr (Bratislava–Košice) : mêmes personnages, même format, mais le point de vue s'inverse. Ici, c'est **Andrea, slovaque, qui apprend le français**, et Gab, le Français, qui joue les guides. Les lieux sont réels, les souvenirs des personnages sont fictifs. Le français est celui d'un natif ; c'est le slovaque des explications qui est à faire relire par un locuteur natif.*
+*Version 0.1, 1er novembre 2026. Série-voyage du cours fr-sk : un guide touristique de la France, mis en histoire, de Lyon à Saint-Marc-sur-Mer. Miroir du roadtrip du cours sk-fr (Bratislava–Košice) : mêmes personnages, même format, mais le point de vue s'inverse. Ici, c'est **Andrea, slovaque, qui apprend le français**, et Eric, le Français, qui joue les guides. Les lieux sont réels, les souvenirs des personnages sont fictifs. Le français est celui d'un natif ; c'est le slovaque des explications qui est à faire relire par un locuteur natif.*
 
 ## En bref
 - **Un guide touristique, mis en histoire.** On traverse la France en trois semaines : les **incontournables** sont obligatoires, et chaque étape ajoute un **détour** plus connu des locaux que des touristes étrangers.
 - **Des régions sacrifiées, assumé** : l'Auvergne, le Grand Est, le Sud-Ouest. Le GPS peut en faire un gag (« Recalcul : évitez l'Auvergne »).
-- **Un voyage qui teste les hébergements** : appartement, gîte, chalet, camping, chambre d'hôtes, la petite maison du grand-père, et la maison des parents de Gab.
+- **Un voyage qui teste les hébergements** : appartement, gîte, chalet, camping, chambre d'hôtes, la petite maison du grand-père, et la maison des parents d'Eric.
 - **Le ton** : gags de vacances en famille que tous les parents reconnaissent. La valise qui déborde, le GPS qui s'obstine, « on est arrivés ? » toutes les dix minutes, la pause pipi au pire moment. Une touche d'autodérision française (« il y a trop de monde ! »).
 - **Aucun enjeu de fond.** De bonnes vacances, de bons souvenirs, et une famille réunie à la fin.
 - **Format identique au roadtrip sk-fr** : une série = un chapitre, fiches 01-04 avec micro-dialogues, fiches 05 et 06 avec l'épisode et la navigation 🧭 en narratrice. Voir `Format-roadtrip.md` et `Progression-roadtrip.md`.
@@ -14,14 +14,14 @@
 ## Personnages
 Planche de référence : `docs/illustrations/planche-personnages.jpg`, reprise telle quelle du roadtrip sk-fr. Le petit **Samo** n'y figure pas : à dessiner plus tard, sans bloquer l'écriture.
 
-- 🦊 **Gab**, le renard, **français**, qui a grandi à Saint-Marc-sur-Mer, a vécu à Angers (« c'est joli mais t'as pas de montagnes ! ») et s'est installé à Lyon. Il connaît tout, conduit, joue les guides. Il n'a rien à apprendre : c'est lui qui corrige.
-- 🐰 **Andrea**, la hase, **slovaque**, née à Prešov. C'est « toi » : `[USER_NAME]`, par défaut *Andrea*, formes **féminines** (*je suis allée*). Elle a passé une année à Villeurbanne il y a quelques années, où elle a connu Gab : son français de l'époque, c'est le **kit de survie**. Elle revient en France pour la première fois depuis.
-- 🧢 **Hugo** (9 ans, renardeau) et 🐇 **Lola** (6 ans, petite hase) : les neveu et nièce de Gab, enfants de sa sœur **Claire**. Ils parlent un français d'enfants, vif et plein de mots d'oral, idéal pour l'écoute.
-- 🎒 **Samo** (8 ans, petit lièvre gris, avatar proposé) : le neveu d'Andrea, fils de sa sœur **Lucia**, restée à Prešov (qu'on appelle en visio). Il arrive sans un mot de français, apprend plus vite que sa tante, et finit par la corriger. Avec Andrea, il parle slovaque (hors-champ, rendu au narrateur) ; avec les autres, il parle français, d'abord par mots, puis par phrases.
-- 📱 **Claire**, la sœur de Gab, une lapine. Elle habite **Nice** : le chapitre 3 la fait exister en vrai (avatar proposé 🐰🌴, à tester dans le moteur), avant qu'elle ne redevienne une voix au téléphone (📱), puis qu'elle **arrive à Saint-Marc** avec toute la famille pour la fin.
-- 🦊⚓ **Michel** et 🦊🧶 **Martine** : les parents de Gab, à Saint-Marc-sur-Mer. « Papi Michel » et « Mamie Martine » pour les enfants. Avatars proposés.
-- **Papi Yvon** : le grand-père de Gab, évoqué, absent. Sa petite maison de Pontrieux est restée dans la famille.
-- 🧭 **La navigation**, la voix du voyage, qui vouvoie Gab et parle un français net et lent (voir « Le narrateur »).
+- 🦊 **Eric**, le renard (nommé *Gab* dans le roadtrip sk-fr ; on verra plus tard si on aligne les deux), **français**, qui a grandi à Saint-Marc-sur-Mer, a vécu à Angers (« c'est joli mais t'as pas de montagnes ! ») et s'est installé à Lyon. Il connaît tout, conduit, joue les guides. Il n'a rien à apprendre : c'est lui qui corrige.
+- 🐰 **Andrea**, la hase, **slovaque**, née à Prešov. C'est « toi » : `[USER_NAME]`, par défaut *Andrea*, formes **féminines** (*je suis allée*). Elle a passé une année à Villeurbanne il y a quelques années, où elle a connu Eric : son français de l'époque, c'est le **kit de survie**. Elle revient en France pour visiter des coins qu'elle n'a pas encore vus et faire découvrir le pays à son neveu Samo.
+- 🧢 **Hugo** (9 ans, renardeau) et 🐇 **Lola** (6 ans, petite hase) : les neveu et nièce d'Eric, enfants de sa sœur **Claire**. Ils **ne voyagent pas avec eux** (ça ferait serré dans la voiture) : ils vivent avec Claire, qu'on retrouve à Cannes (chapitre 3), puis à Saint-Marc (chapitre 12). Ils parlent un français d'enfants, vif et plein de mots d'oral, idéal pour l'écoute.
+- 🎒 **Samo** (8 ans, petit lièvre gris, avatar proposé) : le neveu d'Andrea, **le seul enfant du voyage** avec Eric et Andrea, fils de sa sœur **Lucia**, restée à Prešov (qu'on appelle en visio). Il arrive sans un mot de français, apprend plus vite que sa tante, et finit par la corriger. Avec Andrea, il parle slovaque (hors-champ, rendu au narrateur) ; avec les autres, il parle français, d'abord par mots, puis par phrases.
+- 📱 **Claire**, la sœur d'Eric, une lapine. Elle habite **Cannes** avec Hugo et Lola : le chapitre 3 la fait exister en vrai (avatar proposé 🐰🌴, à tester dans le moteur), avant qu'elle ne redevienne une voix au téléphone (📱), puis qu'elle **arrive à Saint-Marc** avec Hugo et Lola pour la fin.
+- 🦊⚓ **Michel** et 🦊🧶 **Martine** : les parents d'Eric, à Saint-Marc-sur-Mer. « Papi Michel » et « Mamie Martine » pour les enfants. Avatars proposés.
+- **Papi Yvon** : le grand-père d'Eric, évoqué, absent. Sa petite maison de Pontrieux est restée dans la famille.
+- 🧭 **La navigation**, la voix du voyage, qui vouvoie Eric et parle un français net et lent (voir « Le narrateur »).
 - Personnages de passage (hôte de gîte, serveur, guide, voisin de camping) : une émoticône unique par rôle, sans récurrence obligatoire.
 
 ## Route
@@ -31,17 +31,17 @@ L'ordre évite les allers-retours : on descend le Rhône jusqu'à la Camargue, o
 
 | Ch. | Étape | Jours | Incontournables | Détour (plus local) | Nuit |
 |---|---|---|---|---|---|
-| 01 | **Lyon** et **Villeurbanne** | 2 | Fourvière, Vieux-Lyon et ses traboules, Croix-Rousse | Villeurbanne et ses Gratte-ciel, un bouchon lyonnais, là où Gab et Andrea se sont connus | **Appartement de Gab** à Lyon |
+| 01 | **Lyon** et **Villeurbanne** | 2 | Fourvière, Vieux-Lyon et ses traboules, Croix-Rousse | Villeurbanne et ses Gratte-ciel, un bouchon lyonnais, là où Eric et Andrea se sont connus | **Appartement d'Eric** à Lyon |
 | 02 | **Camargue** | 2 | Flamants roses, chevaux blancs et taureaux, Saintes-Maries-de-la-Mer | Course camarguaise (sans mise à mort), Aigues-Mortes et ses salins | **Gîte** (mas) : ronfleur n° 1 |
-| 03 | **Nice** et **Cannes** | 2 | Promenade des Anglais, Vieux-Nice, Croisette, îles de Lérins | Marché du cours Saleya, la socca, le Suquet de Cannes | **Chez Claire**, à Nice |
-| 04 | **Alpes** : La Rosière, Chamonix, Annecy | 3 | Col du Petit-Saint-Bernard et **saut en Italie**, Aiguille du Midi et Mer de Glace, vieille ville et lac d'Annecy | La Rosière « chez Gab » (il y skiait), le jardin alpin du col (à confirmer) | **Chalet** à La Rosière (ronfleur n° 2), **camping** à Chamonix, chambre d'hôtes à Annecy |
+| 03 | **Nice** et **Cannes** | 2 | Promenade des Anglais, Vieux-Nice, Croisette, îles de Lérins | Marché du cours Saleya, la socca, le Suquet de Cannes | **Chez Claire**, à Cannes |
+| 04 | **Alpes** : La Rosière, Chamonix, Annecy | 3 | Col du Petit-Saint-Bernard et **saut en Italie**, Aiguille du Midi et Mer de Glace, vieille ville et lac d'Annecy | La Rosière « chez Eric » (il y skiait), le jardin alpin du col (à confirmer) | **Chalet** à La Rosière (ronfleur n° 2), **camping** à Chamonix, chambre d'hôtes à Annecy |
 | 05 | **Dijon** | 1 | Palais des ducs, la chouette de Notre-Dame, les Halles | Beaune et les Hospices | **Hôtel** |
 | 06 | **Paris** | 2 | Tour Eiffel, Arc de triomphe, Montmartre | Un coin de Paris loin des foules (canal Saint-Martin, à choisir) | **Petite chambre** sous les toits |
 | 07 | **Lille** | 1 | Grand-Place, Vieille Bourse, beffroi, gaufres | Marché de Wazemmes, le parler ch'ti | **Chambre d'hôtes** |
-| 08 | **Normandie** : Étretat ou Honfleur | 1 | Les falaises d'Étretat, ou le Vieux Bassin d'Honfleur (à choisir) | La plage de galets, le port | **Gîte** : ronfleur n° 3 (c'est Gab) |
+| 08 | **Normandie** : Étretat | 1 | Les falaises et l'arche d'Étretat | La plage de galets, le sentier des falaises | **Gîte** : ronfleur n° 3 (c'est Eric) |
 | 09 | **Mont-Saint-Michel** | 1 | L'abbaye, la baie, la marée | Cancale et ses huîtres (à confirmer) | **Chambre d'hôtes** dans la baie |
-| 10 | **Pontrieux** | 2 | La petite Venise du Trégor, port et lavoirs (à confirmer) | Côte de Granit rose ou île de Bréhat (à choisir) | **La petite maison du grand-père Yvon** |
-| 11 | **Angers** | 1 | Château, Tenture de l'Apocalypse, bords de Maine | Le vieil Angers de Gab : « c'est joli mais t'as pas de montagnes ! » | **Hôtel** |
+| 10 | **Pontrieux** | 2 | La petite Venise du Trégor, port et lavoirs (à confirmer) | **Île de Bréhat** (embarquement à confirmer) | **La petite maison du grand-père Yvon** |
+| 11 | **Angers** | 1 | Château, Tenture de l'Apocalypse, bords de Maine | Le vieil Angers d'Eric : « c'est joli mais t'as pas de montagnes ! » | **Hôtel** |
 | 12 | **Saint-Marc-sur-Mer** | 3 | La plage, Saint-Nazaire (base sous-marine, sous-marin *Espadon*, à confirmer) | Marais salants de Guérande, La Baule | **Chez Michel et Martine**, avec toute la famille |
 
 Total : **21 jours** (2 + 2 + 2 + 3 + 1 + 2 + 1 + 1 + 1 + 2 + 1 + 3). Saint-Marc-sur-Mer est un quartier balnéaire de Saint-Nazaire (à confirmer).
@@ -55,11 +55,11 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
 ## Hébergements : le fil rouge du voyage
 - **Gîte, chalet, chambre d'hôtes** : trois nuits avec un **ronfleur** différent à chaque fois (le gag qui revient, adapté de sk-fr). Vocabulaire : chambre, lit, clé, petit-déjeuner, bruit.
 - **Camping** à Chamonix : tente, sac de couchage, froid, étoiles, et la navigation qui perd le signal.
-- **Chez Claire, chez les parents de Gab, la maison d'Yvon** : l'accueil en famille, la table, la grand-mère qui ressert.
-- **L'appartement de Gab** à Lyon, ouverture et premier test des meubles et des pièces (vocabulaire de la maison).
+- **Chez Claire (Cannes), chez les parents d'Eric, la maison d'Yvon** : l'accueil en famille, la table, la grand-mère qui ressert.
+- **L'appartement d'Eric** à Lyon, ouverture et premier test des meubles et des pièces (vocabulaire de la maison).
 
 ## Le narrateur : la navigation
-- **Par défaut, le narrateur 💬 est la navigation 🧭**, la voix du GPS de la voiture. Elle annonce les étapes et donne des directions, ce qui sert le vocabulaire (*tournez à gauche*, *continuez tout droit*), et elle **vouvoie** Gab.
+- **Par défaut, le narrateur 💬 est la navigation 🧭**, la voix du GPS de la voiture. Elle annonce les étapes et donne des directions, ce qui sert le vocabulaire (*tournez à gauche*, *continuez tout droit*), et elle **vouvoie** Eric.
 - **Elle n'est pas toujours là** : camping de Chamonix, Pontrieux, la nuit, les endroits sans réseau. Elle annonce « Signal perdu », boude, puis revient avec « Recalcul de l'itinéraire ». Le gag fait partie du charme.
 - **Repli possible sur un narrateur neutre** (💬) pour un chapitre ou pour toute la série.
 - Les formules de la navigation s'apprennent **en bloc** avant que l'impératif soit expliqué (chapitre 06).
@@ -76,9 +76,10 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
 
 ## Ton et gags
 - Les gags viennent des situations, jamais de moqueries sur des personnes réelles.
-- **Le *vous* d'Andrea** : Andrea et Gab se tutoient depuis longtemps, mais elle retombe dans le *vous* par habitude, par politesse ou par fatigue (« Vous pouvez… »), et Gab la reprend : « On se tutoie, Andrea ! ». Chaque *vous* d'Andrea envers Gab est signalé par un `+`. Qui propose le *tu* au chapitre 1 reste à trancher à l'écriture ; le tutoiement se **propose**, il ne s'impose pas.
-- **Le kit de survie devient le souvenir de leur rencontre à Villeurbanne** : ils se vouvoient encore, Andrea apprend ses premiers mots de français, Gab est aussi poli qu'un inconnu. La réécriture reste légère (les avatars changent, le dialogue garde l'essentiel).
-- **Gab connaît tout, mais pas toujours ce qu'il y a derrière** : « C'est joli mais t'as pas de montagnes ! » (Angers), « il y a trop de monde ! » (Paris).
+- **Le *vous* d'Andrea** : Andrea et Eric se tutoient depuis longtemps, mais elle retombe dans le *vous* par habitude, par politesse ou par fatigue (« Vous pouvez… »), et Eric la reprend : « On se tutoie, Andrea ! ». Chaque *vous* d'Andrea envers Eric est signalé par un `+`. Qui propose le *tu* au chapitre 1 reste à trancher à l'écriture ; le tutoiement se **propose**, il ne s'impose pas.
+- **Le kit de survie devient le souvenir de leur rencontre à Villeurbanne** : ils se vouvoient encore, Andrea apprend ses premiers mots de français, Eric est aussi poli qu'un inconnu. La réécriture reste légère (les avatars changent, le dialogue garde l'essentiel).
+- **Eric connaît tout, mais pas toujours ce qu'il y a derrière** : « C'est joli mais t'as pas de montagnes ! » (Angers), « il y a trop de monde ! » (Paris).
+- **« On est arrivés ? »** : la première phrase de français de Samo, répétée toutes les dix minutes ; Hugo et Lola la reprennent à Cannes.
 - **Samo apprend plus vite qu'Andrea** : à partir du chapitre 4 ou 5, il la corrige (*Ce n'est pas « un fromage », tata, c'est « du fromage » !*).
 - Les incontournables sont racontés comme un guide, les détours comme des confidences.
 
@@ -87,10 +88,10 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
 - **Volume** : le même que sk-fr, soit 12 chapitres pour environ **9 000 à 10 000 mots français** au total, avec des chapitres qui grossissent.
 
 ## Points à valider
-1. **Claire et les enfants** : lecture retenue ici : Hugo et Lola voyagent avec Gab depuis Lyon ; Claire, à Nice, les retrouve en vrai au chapitre 3 ; elle arrive à Saint-Marc pour la réunion finale. À confirmer.
-2. **Passé d'Andrea** : une année à Villeurbanne, où elle a connu Gab (le kit de survie en garde le souvenir). Raison du séjour à inventer.
+1. **Tranché le 1er novembre** : Hugo et Lola vivent avec Claire à Cannes (chapitre 3) et la retrouvent à Saint-Marc (chapitre 12) ; seul Samo voyage avec Eric et Andrea.
+2. **Tranché** : Andrea a passé une année à Villeurbanne, où elle a connu Eric (le kit de survie en garde le souvenir) ; le voyage sert à visiter des coins qu'elle n'a pas vus et à faire découvrir le pays à Samo.
 3. **Prénoms et avatars** : Samo, Lucia, Michel, Martine, Yvon ; 🎒, 🐰🌴, 🦊⚓, 🦊🧶. Un nom par emoji dans le moteur : l'emploi de deux marqueurs pour Claire est à tester.
-4. **Normandie** : Étretat ou Honfleur ? **Pontrieux** : Côte de Granit rose ou île de Bréhat ?
+4. **Tranché** : Étretat pour la Normandie, île de Bréhat depuis Pontrieux (embarquement à confirmer).
 5. **Faits à vérifier avant d'écrire les fiches** : ouvertures saisonnières (Aiguille du Midi, col du Petit-Saint-Bernard, jardin alpin), détails de Pontrieux, base sous-marine et *Espadon* à Saint-Nazaire, Cancale, trajets et durées de conduite (aucune distance chiffrée dans le texte).
 6. **Détours « connus des locaux »** : choisis à partir de sources touristiques, à confirmer avec un habitant de chaque région.
 

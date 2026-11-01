@@ -19,7 +19,7 @@ Les pièges du français pour un slovaquophone sont le fil conducteur : **pas d'
 ## Structure générale
 
 - **Introduction** (4 fiches, inchangée sauf relecture) : la France, la langue, la prononciation, compter. Les salutations sont dans le kit de survie.
-- **Kit de survie** (4 fiches) : saluer, politesse, premier dialogue. Il devient le **souvenir de la rencontre à Villeurbanne** de Gab et Andrea : ils s'y vouvoient encore. Réécriture légère, avec le chapitre 1 (l'ancienne version dérivait d'une adaptation à l'envers du cours sk-fr : à refaire proprement).
+- **Kit de survie** (4 fiches) : saluer, politesse, premier dialogue. Il devient le **souvenir de la rencontre à Villeurbanne** d'Eric et Andrea : ils s'y vouvoient encore. Réécriture légère, avec le chapitre 1 (l'ancienne version dérivait d'une adaptation à l'envers du cours sk-fr : à refaire proprement).
 - **Chapitres 1 à 12** : un lieu chacun, de Lyon à Saint-Marc-sur-Mer.
 - Puis, inchangés : le **vocabulaire** et la page **Merci**.
 
@@ -41,14 +41,14 @@ Clés et noms **provisoires** (clé = sous-groupe de `lang.json`, minuscules, sa
 
 | N° | Clé | Nom affiché | Jours | Nuit | Ce qu'on sait dire à la fin |
 |---|---|---|---|---|---|
-| 01 | `lyon` | Lyon | 2 | Appartement de Gab | Se présenter, présenter sa famille, dire sa nationalité et son âge, nommer les pièces |
+| 01 | `lyon` | Lyon | 2 | Appartement d'Eric | Se présenter, présenter sa famille, dire sa nationalité et son âge, nommer les pièces |
 | 02 | `camargue` | Camargue | 2 | Gîte (ronfleur n° 1) | Décrire un lieu et un animal, dire où on est, parler de la chambre et des objets |
-| 03 | `nice` | Nice a Cannes | 2 | Chez Claire | Dire ce qu'on veut, acheter, demander un prix, couleurs et vêtements |
+| 03 | `nice` | Nice a Cannes | 2 | Chez Claire, à Cannes | Dire ce qu'on veut, acheter, demander un prix, couleurs et vêtements |
 | 04 | `alpes` | Alpy | 3 | Chalet, camping, chambre d'hôtes | Parler du temps, de ce qu'il faut emporter, de ce qu'on va faire, faire une condition |
 | 05 | `dijon` | Dijon | 1 | Hôtel | Commander au restaurant, avoir faim ou soif, dire ce qu'on aime manger |
 | 06 | `paris` | Paríž | 2 | Chambre sous les toits | Dire l'heure et les jours, fixer un rendez-vous, prendre le métro, comprendre la navigation |
 | 07 | `lille` | Lille | 1 | Chambre d'hôtes | Demander son chemin, se repérer en ville, se perdre sans panique |
-| 08 | `normandie` | Normandia | 1 | Gîte (ronfleur n° 3 : Gab) | Parler de la mer, de ses affaires, de ce qu'on peut ou sait faire, parler d'un hôtel |
+| 08 | `normandie` | Normandia | 1 | Gîte (ronfleur n° 3 : Eric) | Parler de la mer, de ses affaires, de ce qu'on peut ou sait faire, parler d'un hôtel |
 | 09 | `montsaintmichel` | Mont-Saint-Michel | 1 | Chambre d'hôtes | Raconter ce qu'on a visité, dire l'histoire d'un lieu |
 | 10 | `pontrieux` | Pontrieux | 2 | Maison du grand-père Yvon | Raconter ce qu'on a fait, dire où on est allé, évoquer les souvenirs |
 | 11 | `angers` | Angers | 1 | Hôtel | Raconter comment c'était, comparer, relier deux idées |
@@ -96,7 +96,7 @@ La dernière colonne indique quelle partie de l'ancien cours (branche `original`
 - **le logement** : *chambre, lit, clé, petit-déjeuner, réception, tente, sac de couchage* ;
 - **la table** : *carte, entrée, plat, dessert, eau, addition* ;
 - **la visite** : *château, église, place, billet, ouvert / fermé, guide* ;
-- **la famille** : *oncle, neveu, nièce, sœur, mère, grand-père*. Gab est le **frère** de la mère des enfants. En slovaque on distingue *ujo* et *strýko* ; en français, *oncle* suffit, et c'est un petit soulagement à signaler dans un coin français.
+- **la famille** : *oncle, neveu, nièce, sœur, mère, grand-père*. Eric est le **frère** de la mère des enfants. En slovaque on distingue *ujo* et *strýko* ; en français, *oncle* suffit, et c'est un petit soulagement à signaler dans un coin français.
 
 ### Apprentissage cumulatif
 
@@ -123,27 +123,27 @@ L'introduction couvre les bases. On reprend un point quand un nom de lieu ou une
 
 | Avatar | Personnage | Arrive au chapitre |
 |---|---|---|
-| 🦊 | Gab, le guide (français) | kit de survie / 1 |
+| 🦊 | Eric, le guide (français) | kit de survie / 1 |
 | 🐰 | Andrea (toi), `[USER_NAME]` | kit de survie / 1 |
-| 🧢 | Hugo, 9 ans | 1 |
-| 🐇 | Lola, 6 ans | 1 |
+| 🧢 | Hugo, 9 ans | 3 (puis 12) |
+| 🐇 | Lola, 6 ans | 3 (puis 12) |
 | 🎒 | Samo, 8 ans, neveu d'Andrea | 1 |
 | 🧭 | La navigation | 1 (l'arrivée à Lyon), vraiment à partir du 2 |
 | 🐰🌴 / 📱 | Claire, en vrai à Nice puis au téléphone | 3 (en vrai), 1 (téléphone) |
-| 🦊⚓ 🦊🧶 | Michel et Martine, les parents de Gab (proposés) | 12 (évoqués avant) |
+| 🦊⚓ 🦊🧶 | Michel et Martine, les parents d'Eric (proposés) | 12 (évoqués avant) |
 | 💬 | Le narrateur neutre | quand la navigation n'est pas là |
 | 🧑‍… | Les humains, par fonction | dès le 1 |
 
 **Gags et traits à noter dès qu'ils sont posés** (pour rester cohérent) :
 
-- **« On est arrivés ? »** : la question des enfants, dès le chapitre 2. La réponse de Gab varie, celle de la navigation jamais.
-- **Le ronfleur** : gîte n° 1 (ch. 02), Andrea accuse Gab ; chalet n° 2 (ch. 04), tout le monde accuse Hugo ; gîte n° 3 (ch. 08), c'est Gab, preuve enregistrée par Lola.
-- **La navigation** : *Recalcul de l'itinéraire…* chaque fois que Gab n'écoute pas ; *Signal perdu* au camping de Chamonix, à Pontrieux et chez Claire.
-- **Gab connaît tout**, sauf le chemin qu'il a toujours pris sans regarder.
-- **Le *vous* d'Andrea** : chapitres 1 à 3, Andrea retombe dans le *vous* avec Gab par habitude (*Vous savez, Gab…*) et il la reprend (*On se tutoie, Andrea !*). Ensuite, retours ponctuels quand elle est fatiguée ou stressée. Toujours signalé par un `+`. Coin français associé : *tutoyer / vouvoyer*, la formule *On peut se tutoyer ?*, et la gêne qu'il y a à revenir en arrière.
+- **« On est arrivés ? »** : la première phrase de français de Samo, dès le chapitre 2 ; Hugo et Lola la reprennent à Cannes. La réponse d'Eric varie, celle de la navigation jamais.
+- **Le ronfleur** : gîte n° 1 (ch. 02), Andrea accuse Eric ; chalet n° 2 (ch. 04), tout le monde accuse Samo ; gîte n° 3 (ch. 08), c'est Eric, preuve enregistrée par Lola.
+- **La navigation** : *Recalcul de l'itinéraire…* chaque fois que Eric n'écoute pas ; *Signal perdu* au camping de Chamonix, à Pontrieux et chez Claire.
+- **Eric connaît tout**, sauf le chemin qu'il a toujours pris sans regarder.
+- **Le *vous* d'Andrea** : chapitres 1 à 3, Andrea retombe dans le *vous* avec Eric par habitude (*Vous savez, Eric…*) et il la reprend (*On se tutoie, Andrea !*). Ensuite, retours ponctuels quand elle est fatiguée ou stressée. Toujours signalé par un `+`. Coin français associé : *tutoyer / vouvoyer*, la formule *On peut se tutoyer ?*, et la gêne qu'il y a à revenir en arrière.
 - **Samo apprend plus vite qu'Andrea** : à partir du chapitre 4 ou 5, il la corrige (*Ce n'est pas « un fromage », tata, c'est « du fromage » !*).
 - **La pause pipi** : *Je dois aller aux toilettes !* au pire moment, au moins une fois par trajet long.
-- **Claire au téléphone** : *Comment vont les enfants ?*, et Gab qui répond toujours *Très bien !*, même quand c'est faux. À la fin, elle arrive à Saint-Marc en vrai.
+- **Claire au téléphone** : *Comment vont les enfants ?*, et Eric qui répond toujours *Très bien !*, même quand c'est faux. À la fin, elle arrive à Saint-Marc en vrai.
 
 ---
 
