@@ -15,7 +15,7 @@
 Planche de référence : `docs/illustrations/planche-personnages.jpg`, reprise telle quelle du roadtrip sk-fr. Le petit **Samo** n'y figure pas : à dessiner plus tard, sans bloquer l'écriture.
 
 - 🦊 **Eric**, le renard (nommé *Gab* dans le roadtrip sk-fr ; on verra plus tard si on aligne les deux), **français**, qui a grandi à Saint-Marc-sur-Mer, a vécu à Angers (« c'est joli mais t'as pas de montagnes ! ») et s'est installé à Lyon. Il connaît tout, conduit, joue les guides. Il n'a rien à apprendre : c'est lui qui corrige.
-- 🐰 **Andrea**, la hase, **slovaque**, née à Prešov. C'est « toi » : `[USER_NAME]`, par défaut *Andrea*, formes **féminines** (*je suis allée*). Elle a passé une année à Villeurbanne il y a quelques années, où elle a connu Eric : son français de l'époque, c'est le **kit de survie**. Elle revient en France pour visiter des coins qu'elle n'a pas encore vus et faire découvrir le pays à son neveu Samo.
+- 🐰 **Andrea**, la hase, **slovaque**, née à Prešov. C'est « toi » : `[USER_NAME]`, par défaut *Andrea*, formes **féminines** (*je suis allée*). Elle a **un peu habité à Lyon et à Villeurbanne**, où elle a rencontré Eric (la rencontre n'est pas détaillée) : son français de l'époque, c'est le **kit de survie**. Elle connaît aussi **Vienne** (au sud de Lyon), **La Rochelle** et **Annecy**, qu'elle a adorée. Elle revient en France pour visiter des coins qu'elle n'a pas encore vus et faire découvrir le pays à son neveu Samo.
 - 🧢 **Hugo** (9 ans, renardeau) et 🐇 **Lola** (6 ans, petite hase) : les neveu et nièce d'Eric, enfants de sa sœur **Claire**. Ils **ne voyagent pas avec eux** (ça ferait serré dans la voiture) : ils vivent avec Claire, qu'on retrouve à Cannes (chapitre 3), puis à Saint-Marc (chapitre 12). Ils parlent un français d'enfants, vif et plein de mots d'oral, idéal pour l'écoute.
 - 🎒 **Samo** (8 ans, petit lièvre gris, avatar proposé) : le neveu d'Andrea, **le seul enfant du voyage** avec Eric et Andrea, fils de sa sœur **Lucia**, restée à Prešov (qu'on appelle en visio). Il arrive sans un mot de français, apprend plus vite que sa tante, et finit par la corriger. Avec Andrea, il parle slovaque (hors-champ, rendu au narrateur) ; avec les autres, il parle français, d'abord par mots, puis par phrases.
 - 📱 **Claire**, la sœur d'Eric, une lapine. Elle habite **Cannes** avec Hugo et Lola : le chapitre 3 la fait exister en vrai (avatar proposé 🐰🌴, à tester dans le moteur), avant qu'elle ne redevienne une voix au téléphone (📱), puis qu'elle **arrive à Saint-Marc** avec Hugo et Lola pour la fin.
@@ -93,11 +93,21 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
 - **Le *vous*** : c'est Andrea qui propose le *tu* à Eric (le gag est donc d'abord le sien : elle retombe dans le *vous*, il la reprend).
 - **Samo** ne parle pas plus français qu'Andrea au départ, mais il **apprend plus vite**.
 - **La navigation est piquante** (remarques sèches, ironie, rancune quand Eric ne l'écoute pas), comme dans sk-fr.
-- **Fil conducteur** : Eric connaît à peu près chaque lieu, et chaque étape a une anecdote personnelle. Fournies : **Paris** (ses grands-parents y ont habité, il y allait à Noël enfant) ; **La Rosière** (il y faisait du snowboard quand il était étudiant à Lyon) ; **Angers** (il y a habité) ; **Pontrieux** (la maison du grand-père, où il allait enfant ; avant lui, celle des arrière-grands-parents) ; **Meyzieu** (il y a longtemps habité) ; **Villeurbanne** (rencontre avec Andrea) ; **Saint-Marc-sur-Mer** (il y a grandi) ; **Cannes** (sa sœur Claire y habite). Les autres anecdotes (Lyon, Camargue, Nice, Chamonix, Annecy, Dijon, Lille, Étretat, Mont-Saint-Michel, Bréhat) sont à fournir ou à inventer, marquées comme telles dans l'histoire.
+- **Fil conducteur** : Eric connaît à peu près chaque lieu, et chaque étape a une anecdote personnelle. Fournies : **Paris** (ses grands-parents y ont habité, il y allait à Noël enfant) ; **La Rosière** (il y faisait du snowboard quand il était étudiant à Lyon) ; **Angers** (il y a habité) ; **Pontrieux** (la maison du grand-père, où il allait enfant ; avant lui, celle des arrière-grands-parents) ; **Meyzieu** (il y a longtemps habité) ; **Villeurbanne** (rencontre avec Andrea) ; **Saint-Marc-sur-Mer** (il y a grandi) ; **Cannes** (sa sœur Claire y habite). Les autres, fournies à 22 h 30 :
+  - **Lyon** : il y a fait ses études et y a habité presque 20 ans ;
+  - **Camargue** : il a déjà visité Aigues-Mortes, qu'il avait beaucoup aimée ; il a déjà fait du cheval, mais ne se débrouille pas très bien ;
+  - **Nice** : il la connaît un peu, pour y être passé en allant voir sa sœur à Cannes ;
+  - **Chamonix** : il a déjà fait la descente de la Vallée Blanche en snowboard ;
+  - **Annecy** : il y est déjà allé, rien de particulier pour lui ; c'est **Andrea** qui y était déjà allée et l'avait beaucoup aimée ;
+  - **Dijon** : il aime bien la moutarde et le vin ;
+  - **Lille** : il y allait de temps en temps pour le travail, et il aime bien la bière ;
+  - **Étretat** : **il ne connaît pas** ! (le seul lieu nouveau pour lui) ;
+  - **Mont-Saint-Michel** et **Bréhat** : déjà visités, simplement.
+- **Ce qu'Andrea connaît de la France** : Vienne, La Rochelle, Annecy (adorée), Lyon et Villeurbanne. Elle peut en parler quand le voyage passe près de ces lieux.
 
 ## Points à valider
 1. **Tranché le 1er novembre** : Hugo et Lola vivent avec Claire à Cannes (chapitre 3) et la retrouvent à Saint-Marc (chapitre 12) ; seul Samo voyage avec Eric et Andrea.
-2. **Tranché** : Andrea a passé une année à Villeurbanne, où elle a connu Eric (le kit de survie en garde le souvenir) ; le voyage sert à visiter des coins qu'elle n'a pas vus et à faire découvrir le pays à Samo.
+2. **Tranché** : Andrea a un peu habité à Lyon et à Villeurbanne, où elle a rencontré Eric (sans détailler la rencontre ; le kit de survie en garde le souvenir) ; le voyage sert à visiter des coins qu'elle n'a pas vus et à faire découvrir le pays à Samo.
 3. **Prénoms et avatars** : Samo, Lucia, Michel, Martine, Yvon ; 🎒, 🐰🌴, 🦊⚓, 🦊🧶. Un nom par emoji dans le moteur : l'emploi de deux marqueurs pour Claire est à tester.
 4. **Tranché** : Étretat pour la Normandie, île de Bréhat depuis Pontrieux (embarquement à confirmer).
 5. **Faits à vérifier avant d'écrire les fiches** : ouvertures saisonnières (Aiguille du Midi, col du Petit-Saint-Bernard, jardin alpin), détails de Pontrieux, base sous-marine et *Espadon* à Saint-Nazaire, Cancale, trajets et durées de conduite (aucune distance chiffrée dans le texte).
