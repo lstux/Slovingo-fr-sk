@@ -17,12 +17,12 @@
     "css_class": "col-native"
   },
   "site": {
-    "status": "build",
+    "status": "draft",
     "title": "Dis bonjour!",
     "short_name": "Dis bonjour!",
-    "description": "Učenie sa hovorovej francúzštiny — kartičky a cvičenia",
-    "cover": "img/A_Paris_Street_Scene.jpg",
-    "pitch": "Hovorová francúzština krok za krokom: kartičky, dialógy a cvičenia na každodenné situácie.",
+    "description": "Francúzština na ceste: z Lyonu do Saint-Marc-sur-Mer",
+    "cover": "img/illus_cover.jpg",
+    "pitch": "Roadtrip po Francúzsku z Lyonu až k Atlantiku, etapu po etape. Francúzštinu sa učíš cestou: dialógy z bežného života, slovná zásoba, gramatika a trochu miestnej kultúry.",
     "audience": "Dospelí",
     "theme_color": "#ee1c25",
     "storage_prefix": "fr-sk",
