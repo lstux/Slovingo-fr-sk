@@ -105,6 +105,9 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
   - **Mont-Saint-Michel** et **Bréhat** : déjà visités, simplement.
 - **Ce qu'Andrea connaît de la France** : Vienne, La Rochelle, Annecy (adorée), Lyon et Villeurbanne. Elle peut en parler quand le voyage passe près de ces lieux.
 
+- **Saint-Marc-sur-Mer** : la maison de Michel et Martine est à **700 m de la plage de Monsieur Hulot**. On y va à pied, comme à la boulangerie.
+- **Un petit côté tendre** : Eric et Andrea s'aiment **beaucoup**, mais comme dans les autres séries, on ne les voit jamais en couple. Un sous-texte léger (regards, complicité, attentions), jamais de scène ni de déclaration.
+
 ## Points à valider
 1. **Tranché le 1er novembre** : Hugo et Lola vivent avec Claire à Cannes (chapitre 3) et la retrouvent à Saint-Marc (chapitre 12) ; seul Samo voyage avec Eric et Andrea.
 2. **Tranché** : Andrea a un peu habité à Lyon et à Villeurbanne, où elle a rencontré Eric (sans détailler la rencontre ; le kit de survie en garde le souvenir) ; le voyage sert à visiter des coins qu'elle n'a pas vus et à faire découvrir le pays à Samo.
