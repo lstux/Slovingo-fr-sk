@@ -86,6 +86,10 @@ Heights, with the top of Michel's flat cap = 100%:
 Keep the face and expression heads as drawn, only redistribute them around the line-up. Plain light background, no text, no letters, no logos, no watermark.
 ```
 
+### Planche n° 2 retenue (v3, 1er novembre)
+
+Les échelles sont bonnes. La planche retenue est `docs/illustrations/planche-personnages-2.jpg` : la v3 de Gemini, **sans les repères de hauteur ni leurs étiquettes, et sans la colonne de visages de droite**, retirés par script. Ordre : Michel, Claire (avec ses deux têtes d'esquisse), Martine, Samo. À joindre avec la planche n° 1 pour la couverture et les scènes.
+
 **Si Gemini dérive encore** (Martine surtout) : la faire seule, puis l'assembler à la main avec le reste.
 
 ```
