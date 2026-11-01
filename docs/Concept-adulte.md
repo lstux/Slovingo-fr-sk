@@ -108,6 +108,8 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
 - **Saint-Marc-sur-Mer** : la maison de Michel et Martine est à **700 m de la plage de Monsieur Hulot**. On y va à pied, comme à la boulangerie.
 - **Un sous-texte très léger** entre Eric et Andrea : ils s'aiment beaucoup, mais **on se demande seulement**. Comme dans les autres séries, on ne les voit jamais en couple. Un regard qui dure une seconde de trop, une attention, un silence complice, jamais plus ; aucune scène ni déclaration, et le narrateur ou la navigation n'insistent pas.
 
+- **Pontrieux** : on peut y prendre le **train pour Paimpol**. La halte de Pontrieux est de l'autre côté de la rue de la maison, et la ligne longe le Trieux jusqu'à Paimpol : une belle balade (horaires et trajet à vérifier). Les deux jours de Pontrieux peuvent donc être : jour 1, la maison de papi Yvon et le village ; jour 2, le train jusqu'à Paimpol, puis **l'île de Bréhat** si la journée le permet (l'embarquement pour Bréhat se fait près de Paimpol, à confirmer). À voir à l'écriture si Bréhat tient dans une journée.
+
 ## Points à valider
 1. **Tranché le 1er novembre** : Hugo et Lola vivent avec Claire à Cannes (chapitre 3) et la retrouvent à Saint-Marc (chapitre 12) ; seul Samo voyage avec Eric et Andrea.
 2. **Tranché** : Andrea a un peu habité à Lyon et à Villeurbanne, où elle a rencontré Eric (sans détailler la rencontre ; le kit de survie en garde le souvenir) ; le voyage sert à visiter des coins qu'elle n'a pas vus et à faire découvrir le pays à Samo.
