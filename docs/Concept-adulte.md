@@ -14,7 +14,7 @@
 ## Personnages
 Planche de référence : `docs/illustrations/planche-personnages.jpg`, reprise telle quelle du roadtrip sk-fr. Le petit **Samo** n'y figure pas : à dessiner plus tard, sans bloquer l'écriture.
 
-- 🦊 **Eric**, le renard (nommé *Gab* dans le roadtrip sk-fr ; on verra plus tard si on aligne les deux), **français**, qui a grandi à Saint-Marc-sur-Mer, a vécu à Angers (« c'est joli mais t'as pas de montagnes ! ») et s'est installé à Lyon. Il connaît tout, conduit, joue les guides. Il n'a rien à apprendre : c'est lui qui corrige.
+- 🦊 **Eric**, le renard (nommé *Gab* dans le roadtrip sk-fr ; on verra plus tard si on aligne les deux), **français**, qui a grandi à Saint-Marc-sur-Mer, a vécu à Angers (« c'est joli mais t'as pas de montagnes ! ») et vit aujourd'hui à **Villeurbanne**, près de l'arrêt de tram *Reconnaissance-Balzac*. Il connaît tout, conduit, joue les guides. Il n'a rien à apprendre : c'est lui qui corrige.
 - 🐰 **Andrea**, la hase, **slovaque**, née à Prešov. C'est « toi » : `[USER_NAME]`, par défaut *Andrea*, formes **féminines** (*je suis allée*). Elle a **un peu habité à Lyon et à Villeurbanne**, où elle a rencontré Eric (la rencontre n'est pas détaillée) : son français de l'époque, c'est le **kit de survie**. Elle connaît aussi **Vienne** (au sud de Lyon), **La Rochelle** et **Annecy**, qu'elle a adorée. Elle revient en France pour visiter des coins qu'elle n'a pas encore vus et faire découvrir le pays à son neveu Samo.
 - 🧢 **Hugo** (9 ans, renardeau) et 🐇 **Lola** (6 ans, petite hase) : les neveu et nièce d'Eric, enfants de sa sœur **Claire**. Ils **ne voyagent pas avec eux** (ça ferait serré dans la voiture) : ils vivent avec Claire, qu'on retrouve à Cannes (chapitre 3), puis à Saint-Marc (chapitre 12). Ils parlent un français d'enfants, vif et plein de mots d'oral, idéal pour l'écoute.
 - 🎒 **Samo** (8 ans, petit lièvre gris, avatar proposé) : le neveu d'Andrea, **le seul enfant du voyage** avec Eric et Andrea, fils de sa sœur **Lucia**, restée à Prešov (qu'on appelle en visio). Il arrive sans un mot de français, apprend plus vite que sa tante, et finit par la corriger. Avec Andrea, il parle slovaque (hors-champ, rendu au narrateur) ; avec les autres, il parle français, d'abord par mots, puis par phrases.
@@ -31,7 +31,7 @@ L'ordre évite les allers-retours : on descend le Rhône jusqu'à la Camargue, o
 
 | Ch. | Étape | Jours | Incontournables | Détour (plus local) | Nuit |
 |---|---|---|---|---|---|
-| 01 | **Lyon** et **Villeurbanne** | 2 | Fourvière, Vieux-Lyon et ses traboules, Croix-Rousse | Villeurbanne et ses Gratte-ciel, un bouchon lyonnais, là où Eric et Andrea se sont connus | **Appartement d'Eric** à Lyon |
+| 01 | **Lyon** et **Villeurbanne** | 2 | Fourvière, Vieux-Lyon et ses traboules, Croix-Rousse | Villeurbanne et ses Gratte-ciel, un bouchon lyonnais, là où Eric et Andrea se sont connus | **Appartement d'Eric** à Villeurbanne |
 | 02 | **Camargue** | 2 | Flamants roses, chevaux blancs et taureaux, Saintes-Maries-de-la-Mer | Course camarguaise (sans mise à mort), Aigues-Mortes et ses salins | **Gîte** (mas) : ronfleur n° 1 |
 | 03 | **Nice** et **Cannes** | 2 | Promenade des Anglais, Vieux-Nice, Croisette, îles de Lérins | Marché du cours Saleya, la socca, le Suquet de Cannes | **Chez Claire**, à Cannes |
 | 04 | **Alpes** : La Rosière, Chamonix, Annecy | 3 | Col du Petit-Saint-Bernard et **saut en Italie**, Aiguille du Midi et Mer de Glace, vieille ville et lac d'Annecy | La Rosière « chez Eric » (il y skiait), le jardin alpin du col (à confirmer) | **Chalet** à La Rosière (ronfleur n° 2), **camping** à Chamonix, chambre d'hôtes à Annecy |
@@ -56,7 +56,7 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
 - **Gîte, chalet, chambre d'hôtes** : trois nuits avec un **ronfleur** différent à chaque fois (le gag qui revient, adapté de sk-fr). Vocabulaire : chambre, lit, clé, petit-déjeuner, bruit.
 - **Camping** à Chamonix : tente, sac de couchage, froid, étoiles, et la navigation qui perd le signal.
 - **Chez Claire (Cannes), chez les parents d'Eric, la maison d'Yvon** : l'accueil en famille, la table, la grand-mère qui ressert.
-- **L'appartement d'Eric** à Lyon, ouverture et premier test des meubles et des pièces (vocabulaire de la maison).
+- **L'appartement d'Eric** à Villeurbanne, ouverture et premier test des meubles et des pièces (vocabulaire de la maison).
 
 ## Le narrateur : la navigation
 - **Par défaut, le narrateur 💬 est la navigation 🧭**, la voix du GPS de la voiture. Elle annonce les étapes et donne des directions, ce qui sert le vocabulaire (*tournez à gauche*, *continuez tout droit*), et elle **vouvoie** Eric.
@@ -89,7 +89,7 @@ Strasbourg et l'Alsace, Bordeaux et le Sud-Ouest, Toulouse, l'Auvergne, les châ
 
 ## Décisions d'écriture (1er novembre, soir)
 
-- **Arrivée** : Samo et Andrea atterrissent à l'**aéroport de Lyon Saint-Exupéry**. Eric vient les chercher. Ils vont ensuite à Lyon en **tram**, ce qui fait passer par **Meyzieu** (où Eric a longtemps habité) et **Villeurbanne** (où Eric et Andrea se sont connus). Le trajet exact (Rhônexpress, métro) est à vérifier ; la façon dont la voiture entre dans l'histoire est à régler à l'écriture.
+- **Arrivée** : Samo et Andrea atterrissent à l'**aéroport de Lyon Saint-Exupéry**. Eric est venu les accueillir **en Rhônexpress**, sans la voiture. Le Rhônexpress passe par **Meyzieu** (où Eric a longtemps habité) et par Villeurbanne. À **Carré de Soie**, ils changent pour le **tram T3** vers la Part-Dieu. Eric habite à Villeurbanne, à côté de l'arrêt **Reconnaissance-Balzac**. **La voiture n'entre dans l'histoire qu'au départ de l'appartement** (début du voyage). Les arrêts et correspondances sont donnés par l'utilisateur, à vérifier à l'écriture.
 - **Le *vous*** : c'est Andrea qui propose le *tu* à Eric (le gag est donc d'abord le sien : elle retombe dans le *vous*, il la reprend).
 - **Samo** ne parle pas plus français qu'Andrea au départ, mais il **apprend plus vite**.
 - **La navigation est piquante** (remarques sèches, ironie, rancune quand Eric ne l'écoute pas), comme dans sk-fr.
