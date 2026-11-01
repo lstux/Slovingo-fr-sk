@@ -43,7 +43,7 @@
   },
   "subgroups": {
     "kitsurvie": "Kit prežitia",
-    "rodina": "Rodina",
+    "lyon": "Lyon",
     "doma": "Doma",
     "jedlo": "Jedlo",
     "cas": "Čas",
@@ -248,7 +248,7 @@
   },
   "subgroup_themes": {
     "kitsurvie": "basics",
-    "rodina": "family",
+    "lyon": "city",
     "doma": "house",
     "jedlo": "food",
     "cas": "time",

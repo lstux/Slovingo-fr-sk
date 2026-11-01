@@ -2,7 +2,7 @@
 
 @ img/Hall_gare_Lyon-Part-Dieu.JPG | Stanica Lyon-Part-Dieu — Wikimedia Commons
 
-Andrea, Slovenka, ktorá sa učí po francúzsky, stretne v Lyone Erica. Prvé predstavenie sa, a hlavne tri vety, ktoré ťa zachránia, keď nerozumieš: **Je ne comprends pas**, **Répétez, s'il vous plaît** a **Plus lentement !**
+Spomienka z Villeurbanne: pred pár rokmi sa Andrea, Slovenka, ktorá sa práve učila po francúzsky, zoznámila s Ericom. Prvé predstavenie sa, a hlavne tri vety, ktoré ťa zachránia, keď nerozumieš: **Je ne comprends pas**, **Répétez, s'il vous plaît** a **Plus lentement !**
 
 ---
 
@@ -24,68 +24,68 @@ Andrea, Slovenka, ktorá sa učí po francúzsky, stretne v Lyone Erica. Prvé p
 
 ## Postavy
 
-- 👩 Andrea, Slovenka, ktorá sa učí po francúzsky
-- 👦 Eric, Francúz z Lyonu
+- 🐰 Andrea, Slovenka, ktorá sa učí po francúzsky
+- 🦊 Eric, Francúz, ktorý býva vo Villeurbanne
 
-Eric a Andrea sa vidia prvýkrát, takže si vykajú.
+V tejto spomienke sa Eric a Andrea vidia prvýkrát, takže si vykajú. Dnes si tykajú, ale Andrea sa občas zo zvyku vráti k vykaniu.
 
 ---
 
 ## Dialóg
 
-! 👦 Bonjour, Madame !
+! 🦊 Bonjour, Madame !
 > Dobrý deň!
 > Bonjour = dobrý deň
 > Madame = pani
 
-! 👩 Bonjour, Monsieur.
+! 🐰 Bonjour, Monsieur.
 > Dobrý deň.
 > Bonjour = dobrý deň
 > Monsieur = pán
 
-! 👦 Je m'appelle Eric. Et vous, vous vous appelez comment ?
+! 🦊 Je m'appelle Eric. Et vous, vous vous appelez comment ?
 > Volám sa Eric. A vy, ako sa voláte?
 > Je m'appelle = volám sa
 > Et vous = a vy
 > vous vous appelez comment = ako sa voláte
 + Toto je hovorová verzia otázky. Formálnejšie by znela „Comment vous appelez-vous ?“ — význam je rovnaký.
 
-! 👩 Je m'appelle Andrea. Enchantée !
+! 🐰 Je m'appelle Andrea. Enchantée !
 > Volám sa Andrea. Teší ma!
 > Je m'appelle = volám sa
 > Enchantée = teší ma
 + „Enchantée“ s -e na konci, lebo hovorí žena. Eric by napísal „Enchanté“. Výslovnosť je rovnaká.
 
-! 👦 Enchanté ! Vous êtes italienne ?
+! 🦊 Enchanté ! Vous êtes italienne ?
 > Teší ma! Ste Talianka?
 > Enchanté = teší ma
 > Vous êtes = ste
 > italienne = Talianka
 
-! 👩 Non, je suis slovaque.
+! 🐰 Non, je suis slovaque.
 > Nie, som Slovenka.
 > Non = nie
 > je suis = som
 > slovaque = Slovenka
 + „slovaque“ končí na -e už v mužskom tvare, takže sa nemení: muž aj žena povedia „je suis slovaque“. Národnosti sa vo francúzštine píšu s malým písmenom, keď stoja za „je suis“.
 
-! 👦 Ah, la Slovaquie ! Vous parlez français ?
+! 🦊 Ah, la Slovaquie ! Vous parlez français ?
 > Aha, Slovensko! Hovoríte po francúzsky?
 > la Slovaquie = Slovensko
 > Vous parlez français = hovoríte po francúzsky
 
-! 👩 Un peu.
+! 🐰 Un peu.
 > Trochu.
 > Un peu = trochu
 
-! 👦 Et vous habitez à Lyon depuis longtemps ?
+! 🦊 Et vous habitez à Lyon depuis longtemps ?
 > A bývate v Lyone už dlho?
 > vous habitez = bývate
 > à Lyon = v Lyone
 > depuis longtemps = už dlho
 + Eric hovorí rýchlo a Andrea tejto vete nerozumie. Nevadí — nasledujúce tri vety sú presne na to.
 
-! 👩 Pardon ? Je ne comprends pas. Répétez, s'il vous plaît. Plus lentement !
+! 🐰 Pardon ? Je ne comprends pas. Répétez, s'il vous plaît. Plus lentement !
 > Prosím? Nerozumiem. Zopakujte to, prosím. Pomalšie!
 > Pardon ? = prosím?
 > Je ne comprends pas = nerozumiem
@@ -94,25 +94,25 @@ Eric a Andrea sa vidia prvýkrát, takže si vykajú.
 > Plus lentement = pomalšie
 + Zápor „ne … pas“ obopína sloveso: je NE comprends PAS. V hovorovej reči sa „ne“ často vynecháva: „je comprends pas“.
 
-! 👦 Vous… habitez… à Lyon ?
+! 🦊 Vous… habitez… à Lyon ?
 > Bývate… v Lyone?
 > Vous habitez = bývate
 > à Lyon = v Lyone
 
-! 👩 Ah ! Oui, j'habite à Lyon. Merci !
+! 🐰 Ah ! Oui, j'habite à Lyon. Merci !
 > Aha! Áno, bývam v Lyone. Ďakujem!
 > Oui = áno
 > j'habite = bývam
 > à Lyon = v Lyone
 > Merci = ďakujem
 
-! 👦 De rien ! Au revoir, Andrea. À bientôt !
+! 🦊 De rien ! Au revoir, Andrea. À bientôt !
 > Nie je za čo! Dovidenia, Andrea. Čoskoro sa uvidíme!
 > De rien = nie je za čo
 > Au revoir = dovidenia
 > À bientôt = čoskoro sa uvidíme
 
-! 👩 Au revoir, Eric !
+! 🐰 Au revoir, Eric !
 > Dovidenia, Eric!
 > Au revoir = dovidenia
 
