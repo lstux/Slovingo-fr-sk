@@ -1,6 +1,6 @@
 # Séria Lyon (2/5) — Dans le Rhônexpress
 
-@ TODO_img/rhonexpress.jpg | TODO : choisir une fotku Rhônexpress alebo Meyzieu na Wikimedia Commons
+@ img/Tramway_de_Lyon_T3_Station_Meyzieu_gare.jpg | Stanica Meyzieu gare, linka T3 a koľaje Rhônexpressu — Claude villetaneuse, CC BY-SA 4.0, Wikimedia Commons
 
 Eric vás vezie vlakom do mesta. Za oknom ubiehajú predmestia a on ukazuje na mesto, kde bol dlho doma. Dnes sa naučíš popísať miesto: „je tam park“, „je to pokojné“.
 

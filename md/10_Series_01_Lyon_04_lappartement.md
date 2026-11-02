@@ -1,6 +1,6 @@
 # Séria Lyon (4/5) — L'appartement
 
-@ TODO_img/appartement-salon.jpg | TODO : choisir une fotku obývačky alebo kuchyne na Wikimedia Commons
+@ img/Villeurbanne_Gratte-Ciel_Logement_2014.jpg | Budova Gratte-Ciel vo Villeurbanne — Xavier Caré, CC BY-SA 3.0, Wikimedia Commons
 
 Eric vás vedie do svojho bytu vo Villeurbanne. Je malý, ale svetlý. Dnes sa naučíš pomenovať izby, povedať „tu je moja izba“ a ospravedlniť sa, keď je niečo malé.
 

@@ -1,6 +1,6 @@
 # Lyon (extra) — Un soir dans un bouchon
 
-@ TODO_img/bouchon-lyonnais.jpg | TODO : choisir une fotku interiéru bouchonu lyonnais na Wikimedia Commons
+@ img/Bouchon_Restaurant_Lyon_001_Trishhhh.jpg | Interiér lyonského bouchonu — Trishhhh, CC BY 2.0, Wikimedia Commons
 
 Žiadne nové slovo okrem troch označených. Celý prvý deň a večer v Lyone je zhrnutý v tabuľke, a potom prežiješ večer v bouchone: večera, prípitok a telefonát od Claire.
 

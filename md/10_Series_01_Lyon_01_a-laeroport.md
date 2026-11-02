@@ -1,6 +1,6 @@
 # Séria Lyon (1/5) — À l'aéroport
 
-@ TODO_img/aeroport-lyon-saint-exupery.jpg | TODO : choisir une fotku letiska Lyon-Saint-Exupéry na Wikimedia Commons
+@ img/Lyon_saint-exupery_aeroport_airport.jpg | Letisko Lyon-Saint-Exupéry — StéfanLD, CC BY-SA 3.0, Wikimedia Commons
 
 %~ Deň 1 : z letiska do Villeurbanne
 % 45.7256, 5.0811 | {{Aéroport Lyon Saint-Exupéry}}

@@ -136,6 +136,26 @@ Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not 
 
 ---
 
+## 01. Lyon — Fourvière
+
+Fiche : `md/10_Series_01_Lyon_05_fourviere.md` → image `img/illus_01.jpg`
+
+**À joindre** : la planche n° 1, la planche n° 2, et la photo de référence : [Lyon vu depuis la Basilique Notre-Dame de Fourvières.jpg](https://commons.wikimedia.org/wiki/File:Lyon_vu_depuis_la_Basilique_Notre-Dame_de_Fourvi%C3%A8res.jpg) (Celeda, CC BY-SA 4.0), déjà dans `img/` sous le nom `Lyon_vu_depuis_la_Basilique_Notre-Dame_de_Fourvieres.jpg`.
+
+```
+Use the attached model sheets for the characters (keep them exactly as designed): the first sheet for the adult red fox and the adult grey hare, the second sheet for Samo, the small grey hare child. Use the attached photo as the reference for the place: the view of Lyon from the Fourvière hill, with the Saône river and a red footbridge in the lower part, the old city with its orange roofs, and tall modern towers in the far distance, under a light summer haze.
+
+Scene: A hand-drawn illustration for an original illustrated book. On the terrace of Fourvière above the city of Lyon, late morning in summer. In the lower left of the picture, seen from slightly behind in three-quarter view, the three travellers stand at a stone railing and look down at the city. The adult red fox, Eric, stretches one arm toward the view like a proud guide, with a big smile. Next to him, the adult grey hare, Andrea, amused and a little tired, rests one hand on the shoulder of Samo. The small grey hare child, Samo, on tiptoe, with his red backpack, points with wide eyes at the two rivers far below. The whole city of Lyon fills the rest of the picture, faithful to the reference photo. Leave the upper area fairly calm.
+
+Characters: Eric, an adult male red fox in his forties (bright orange fur, grey-black ear tips, cream muzzle and chest, a few grey hairs on the cheeks, friendly slightly tired eyes), wearing a blue zip hoodie over a white T-shirt; Andrea, an adult female grey hare in her forties (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down, calm amused look), wearing a mint-green top; Samo, an 8-year-old male grey hare (same grey fur and white blaze as Andrea, both ears standing up, big curious eyes), in a navy T-shirt with a small mountain print and a red backpack, drawn with small child proportions (large round head, short body).
+
+Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, expressive faces. Detailed realistic painted background faithful to the reference photo. Warm, gentle summer light. 16:9 landscape, 1920×1080. Anthropomorphic animals walk upright and wear clothes. No text, no letters, no speech bubbles, no logos, no watermark.
+```
+
+**Crédit** : « Illustration générée avec Google Gemini, d'après une photo de Celeda (Wikimedia Commons, CC BY-SA 4.0) ». Une illustration faite d'après une photo CC BY-SA en est une œuvre dérivée : elle reste sous CC BY-SA 4.0, avec le nom du photographe (voir `img/credits.md`).
+
+---
+
 ## Ensuite
 
 Une illustration par chapitre pour la fiche 05, sur le même principe : planches jointes, photo de référence du lieu (lien Commons), prompt complet par scène. À préparer quand l'histoire sera écrite et relue.

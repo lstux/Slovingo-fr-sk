@@ -1,6 +1,6 @@
 # Séria Lyon (5/5) — Fourvière
 
-@ img/Une_façade_Vieux-Lyon.JPG | Vieux-Lyon pod Fourvière — Wikimedia Commons
+@ img/Lyon_vu_depuis_la_Basilique_Notre-Dame_de_Fourvieres.jpg | Lyon z Fourvière — Celeda, CC BY-SA 4.0, Wikimedia Commons
 
 Na druhý deň Eric vezme Andreu a Sama na Fourvière, kopec nad mestom, kde stojí veľká biela bazilika. Prejde sa tu celá slovná zásoba série. Nové slová, ktoré sa v rozhovore objavia, nájdeš vysvetlené v preklade pod každou replikou.
 

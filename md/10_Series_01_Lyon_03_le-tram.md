@@ -1,6 +1,6 @@
 # Séria Lyon (3/5) — Le tram
 
-@ TODO_img/tram-t3-villeurbanne.jpg | TODO : choisir une fotku električky T3 vo Villeurbanne na Wikimedia Commons
+@ img/Rhonexpress_et_T3_Part-Dieu.jpg | Rhônexpress (vľavo) a električka T3 na Part-Dieu — Allan69330, verejná doména, Wikimedia Commons
 
 Na stanici Carré de Soie prestupujete na električku T3. Dnes sa naučíš povedať, odkiaľ si, koľko máš rokov, kto je kto, a hlavne sloveso **avoir** (mať), ktoré budeš potrebovať všade.
 
