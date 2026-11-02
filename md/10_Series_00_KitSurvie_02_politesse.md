@@ -1,6 +1,6 @@
 # Kit prežitia (2/4) — Merci, s'il vous plaît
 
-@ img/Vincent_van_Gogh_-_Cafe_Terrace_at_Night_(1888).jpg | Kaviareň s terasou (Van Gogh) — Wikimedia Commons
+@ img/Verdon_Gorge_1.jpg | Gorges du Verdon v Provence — kallerna, CC BY-SA 4.0, Wikimedia Commons
 
 Čarovné slovíčka: ďakujem, prosím, prepáčte. A otázka, ktorú budeš počuť desaťkrát denne: **Ça va ?** Dobrá správa: odpoveď je často presne to isté slovo.
 

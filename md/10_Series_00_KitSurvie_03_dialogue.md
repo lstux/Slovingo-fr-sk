@@ -1,6 +1,6 @@
 # Kit prežitia (3/4) — Enchanté !
 
-@ img/Hall_gare_Lyon-Part-Dieu.JPG | Stanica Lyon-Part-Dieu — Wikimedia Commons
+@ img/Route_des_vins_Alsace.jpg | Alsaská vínna cesta — Nicolas Torquet, CC BY-SA 2.0, Wikimedia Commons
 
 Spomienka z Villeurbanne: pred pár rokmi sa Andrea, Slovenka, ktorá sa práve učila po francúzsky, zoznámila s Ericom. Prvé predstavenie sa, a hlavne tri vety, ktoré ťa zachránia, keď nerozumieš: **Je ne comprends pas**, **Répétez, s'il vous plaît** a **Plus lentement !**
 

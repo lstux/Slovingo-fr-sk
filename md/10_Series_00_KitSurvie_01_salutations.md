@@ -1,6 +1,6 @@
 # Kit prežitia (1/4) — Bonjour !
 
-@ img/A_Paris_Street_Scene.jpg | Ulica vo francúzskom meste — Wikimedia Commons
+@ img/Calanche_Piana.jpg | Calanche de Piana na Korzike — Myrabella, CC BY-SA 3.0, Wikimedia Commons
 
 Prvá kartička, prvé slová: ako pozdraviť pri príchode, ako sa rozlúčiť, a hlavne kedy použiť zdvorilý a kedy kamarátsky tvar. S týmito pár slovami už vieš vojsť do francúzskej pekárne bez toho, aby si pôsobil/a neslušne.
 

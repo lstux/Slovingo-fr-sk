@@ -1,6 +1,6 @@
 # 🇫🇷 Memo — Francúzština, románsky jazyk
 
-@ img/Map-Francophonie_organisation_fr.svg | Mapa krajín Frankofónie (La Francophonie) vo svete — Wikimedia Commons
+@ img/Champs_de_lavande_a_Valensole.jpg | Lavendové polia na plošine Valensole v Provence — ADT 04, CC BY 2.0, Wikimedia Commons
 
 Predtým, než sa ponoríme do slovnej zásoby a gramatiky: kto hovorí po francúzsky, odkiaľ tento jazyk pochádza, a do akej rodiny patrí?
 

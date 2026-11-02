@@ -1,6 +1,6 @@
 # 🇫🇷 Memo — Počítanie po francúzsky
 
-@ img/Boulier1.JPG | Boulier, pomôcka na počítanie — Wikimedia Commons
+@ img/La_Roque-Gageac_-_02.jpg | Dedinka La Roque-Gageac medzi riekou Dordogne a skalou — Benjamin Smith, CC BY-SA 4.0, Wikimedia Commons
 
 Čísla sa hodia všade: vek, čas, ceny, množstvá. Tu je základ na rozbeh — kompletná tabuľka (až do milióna!) zostáva v knižnici, ak chceš vidieť všetko naraz. A áno, francúzske čísla majú od 70 vyššie svoje slávne zvláštnosti — priprav sa.
 

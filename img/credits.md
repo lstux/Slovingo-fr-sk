@@ -4,6 +4,12 @@ Photos de Wikimedia Commons. Une image est sous la licence de son auteur : à ci
 
 | Fiche | Fichier | Photo | Auteur | Licence |
 |---|---|---|---|---|
+| Intro 02 | `Champs_de_lavande_a_Valensole.jpg` | Champs de lavande à Valensole.jpg | ADT 04 | CC BY 2.0 |
+| Intro 03 | `Cirque_de_Gavarnie_-_panorama.jpg` | Cirque de Gavarnie - panorama.jpg | Eusebius | CC BY 3.0 |
+| Intro 04 | `La_Roque-Gageac_-_02.jpg` | La Roque-Gageac - 02.jpg | Benjamin Smith | CC BY-SA 4.0 |
+| Kit 01 | `Calanche_Piana.jpg` | 01 Calanche Piana.jpg | Myrabella | CC BY-SA 3.0 |
+| Kit 02 | `Verdon_Gorge_1.jpg` | Verdon Gorge 1.jpg | kallerna | CC BY-SA 4.0 |
+| Kit 03 | `Route_des_vins_Alsace.jpg` | Route des vins, Alsace.jpg | Nicolas Torquet | CC BY-SA 2.0 |
 | Lyon 01 | `Lyon_saint-exupery_aeroport_airport.jpg` | Lyon saint-exupery aeroport airport.JPG | StéfanLD | CC BY-SA 3.0 (aussi GFDL) |
 | Lyon 02 | `Tramway_de_Lyon_T3_Station_Meyzieu_gare.jpg` | Tramway de Lyon - T3 - Station Meyzieu gare -.JPG | Claude villetaneuse | CC BY-SA 4.0 |
 | Lyon 03 | `Rhonexpress_et_T3_Part-Dieu.jpg` | Rhonexpress.JPG | Allan69330 | domaine public |
