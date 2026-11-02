@@ -176,6 +176,26 @@ Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not 
 
 ---
 
+## 03. Nice et Cannes — Chez Claire
+
+Fiche : `md/10_Series_03_Nice_05_chez-claire.md` → image `img/illus_03.jpg`
+
+**À joindre** : la planche n° 1 (Eric, Hugo, Lola), la planche n° 2 (Claire, Samo, Andrea n'y est pas : elle est sur la planche n° 1) et la photo de référence [Cannes - Villa Rothschild -03.JPG](https://commons.wikimedia.org/wiki/File:Cannes_-_Villa_Rothschild_-03.JPG) (MOSSOT, CC BY-SA 3.0, `Cannes_-_Villa_Rothschild_-03.JPG`) (déjà dans `img/`).
+
+```
+Use the attached model sheets for the characters (keep them exactly as designed): the first sheet for the adult red fox Eric, the adult grey hare Andrea, Hugo the 9-year-old young fox with the red cap and striped T-shirt, and Lola the 6-year-old sandy hare in the yellow dress; the second sheet for Claire, the beige rabbit with sunglasses pushed up between her ears, and for Samo, the small grey hare child. Use the attached photo only as a loose reference for the mood and the vegetation (white Belle-Époque villa, palm trees, lawn). Draw a smaller, more modest white Mediterranean family house with shutters and a small sunny courtyard instead of the grand villa.
+
+Scene: A hand-drawn illustration for an original illustrated book. Late afternoon on the Côte d'Azur, warm golden light. In the small sunny courtyard of Claire's house, the front door has just opened. Hugo and Lola run out towards the adult red fox, Eric, with open arms, Hugo shouting, Lola jumping. Claire stands in the doorway, laughing, one hand on the door frame, waving the guests in. Andrea, the adult grey hare, stands a little behind Eric with her travel bag, amused. Samo, the small grey hare child, holds the strap of his red backpack with both hands and looks shyly at Hugo and Lola, who are already waving at him. The little light-blue car with its roof box is visible parked outside the gate. Ordinary humans are not needed in this scene.
+
+Characters: keep each exactly as on the attached sheets. Respect the relative heights: Claire and Eric are adults, Andrea slightly shorter than Claire, Hugo reaches Eric's chest, Lola is smaller than Hugo, Samo is a child between Hugo and Lola in height.
+
+Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, expressive faces. Detailed realistic painted background faithful to the reference photo. Warm, gentle light. 16:9 landscape, 1920×1080. No text, no letters, no speech bubbles, no logos, no watermark.
+```
+
+**Crédit** : « Illustration générée avec Google Gemini, d'après une photo de MOSSOT (Wikimedia Commons, CC BY-SA 3.0) » ; elle reste sous la même licence avec le nom du photographe.
+
+---
+
 ## Ensuite
 
 Une illustration par chapitre pour la fiche 05, sur le même principe : planches jointes, photo de référence du lieu (lien Commons), prompt complet par scène. À préparer quand l'histoire sera écrite et relue.

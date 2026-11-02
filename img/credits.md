@@ -16,5 +16,11 @@ Photos de Wikimedia Commons. Une image est sous la licence de son auteur : à ci
 | Camargue 04 | `Aigues-Mortes_Tour_de_Constance_sunset.jpg` | Aigues-Mortes - Ramparts at sunset - 04.jpg | Benjamin Smith | CC BY-SA 4.0 |
 | Camargue 05 | `Mas_camarguais_rehabilite.jpg` | 51 Mas camarguais réhabilité.jpg | Deuxtroy | CC BY-SA 3.0 |
 | Camargue 06 | `Camargue_coucher_de_soleil_flamants_roses.jpg` | Camargue - Coucher de soler et flamants roses.JPG | Ryk Florence | CC BY-SA 3.0 |
+| Nice 01 | `Nice_from_Castle_Hill_01.jpg` | Nice from Castle Hill 01.jpg | Spike | CC BY-SA 4.0 |
+| Nice 02 | `Nice_Promenade_des_Anglais_Plage_1.jpg` | Nice Promenade des Anglais Plage 1.jpg | Zairon | CC BY-SA 4.0 |
+| Nice 03 | `Nice-Saleya2-20071102.jpg` | Nice-Saleya2-20071102.jpg | Patrice Semeria | Domaine public |
+| Nice 04 | `Cannes_-_La_Croisette.jpg` | Cannes - La Croisette.jpg | Christophe Finot | CC BY-SA 2.5 |
+| Nice 05 | `Cannes_-_Villa_Rothschild_-03.JPG` | Cannes - Villa Rothschild -03.JPG | MOSSOT | CC BY-SA 3.0 |
+| Nice 06 | `Vieux_Port_de_Cannes_(50519003762).jpg` | Vieux Port de Cannes (50519003762).jpg | Jorge Láscar | CC BY 2.0 |
 
 Les images sont réduites à 960 px de large. Source : <https://commons.wikimedia.org/wiki/File:> suivi du nom de la photo.
