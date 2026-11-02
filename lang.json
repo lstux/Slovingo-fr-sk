@@ -56,7 +56,25 @@
     "saintmarc": "Saint-Marc-sur-Mer",
     "merci": "Ďakujem"
   },
+  "story": {
+    "title": "Celý príbeh",
+    "intro": "Všetky dialógy kurzu jeden za druhým, s prekladmi. Ťuknite na bublinu a počúvajte, alebo na tlačidlo „Počúvať kapitolu“ si prečítajte celú kapitolu!",
+    "headings": [
+      "Dialóg"
+    ],
+    "chapter_label": "Kapitola",
+    "show_translations": "Zobraziť preklady",
+    "hide_translations": "Skryť preklady",
+    "translations_default": true,
+    "back": "Späť na kurz",
+    "listen_line": "Počúvať",
+    "listen_chapter": "Počúvať kapitolu",
+    "stop_listening": "Pauza"
+  },
   "ui": {
+    "change_course": "Zmeniť kurz",
+    "read_story": "📖 Prečítať celý príbeh",
+    "voice_other": "Ďalšie hlasy",
     "home": "Domov",
     "exercises": "Cvičenia",
     "sheet": "Kartička",
