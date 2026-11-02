@@ -17,7 +17,6 @@
     "css_class": "col-native"
   },
   "site": {
-    "status": "build",
     "title": "Dis bonjour!",
     "short_name": "Dis bonjour!",
     "description": "Francúzština na ceste: z Lyonu do Saint-Marc-sur-Mer",
@@ -44,14 +43,17 @@
   "subgroups": {
     "kitsurvie": "Kit prežitia",
     "lyon": "Lyon",
-    "doma": "Doma",
-    "jedlo": "Jedlo",
-    "cas": "Čas",
-    "nakupy": "Nákupy",
-    "mesto": "Mesto",
-    "pocasie": "Počasie",
-    "more": "More",
-    "velkanoc": "Veľká noc",
+    "camargue": "Camargue",
+    "nice": "Nice a Cannes",
+    "alpes": "Alpy",
+    "dijon": "Dijon",
+    "paris": "Paríž",
+    "lille": "Lille",
+    "normandie": "Normandia",
+    "montsaintmichel": "Mont-Saint-Michel",
+    "pontrieux": "Pontrieux",
+    "angers": "Angers",
+    "saintmarc": "Saint-Marc-sur-Mer",
     "merci": "Ďakujem"
   },
   "ui": {
@@ -249,13 +251,16 @@
   "subgroup_themes": {
     "kitsurvie": "basics",
     "lyon": "city",
-    "doma": "house",
-    "jedlo": "food",
-    "cas": "time",
-    "nakupy": "shopping",
-    "mesto": "city",
-    "pocasie": "weather",
-    "more": "sea",
-    "velkanoc": "easter"
+    "camargue": "sea",
+    "nice": "sea",
+    "alpes": "mountains",
+    "dijon": "food",
+    "paris": "city",
+    "lille": "city",
+    "normandie": "sea",
+    "montsaintmichel": "sea",
+    "pontrieux": "house",
+    "angers": "city",
+    "saintmarc": "sea"
   }
 }
