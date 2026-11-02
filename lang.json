@@ -280,5 +280,40 @@
     "pontrieux": "house",
     "angers": "city",
     "saintmarc": "sea"
+  },
+  "map": {
+    "icons": {
+      "lyon": "⛪",
+      "camargue": "🦩",
+      "nice": "🌴",
+      "alpes": "🚠",
+      "dijon": "🍇",
+      "paris": "🗼",
+      "lille": "🔔",
+      "normandie": "🌊",
+      "montsaintmichel": "🏰",
+      "pontrieux": "🚂",
+      "angers": "🏯",
+      "saintmarc": "🏖️",
+      "final": "🏁"
+    },
+    "final_title": "Šťastnú cestu!",
+    "positions": {
+      "intro": [22, 7],
+      "series-kitsurvie": [46, 5],
+      "series-lyon": [68, 11],
+      "series-camargue": [38, 17],
+      "series-nice": [66, 25],
+      "series-alpes": [35, 29],
+      "series-dijon": [69, 36],
+      "series-paris": [45, 42],
+      "series-lille": [77, 47],
+      "series-normandie": [35, 54],
+      "series-montsaintmichel": [79, 59],
+      "series-pontrieux": [40, 69],
+      "series-angers": [71, 76],
+      "series-saintmarc": [52, 82],
+      "final-exam": [82, 90]
+    }
   }
 }

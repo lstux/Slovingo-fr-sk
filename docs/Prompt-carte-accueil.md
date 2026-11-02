@@ -61,6 +61,12 @@ Connect everything: the same rivers run through several places and widen into th
 9:16 portrait (1080×1920). No text, no letters, no labels, no signs, no flags, no logos, no map legend, no compass, no frame or border, no people in the foreground, no animal characters.
 ```
 
+## Choix retenu (2 novembre 2026)
+
+`img/map_background.jpg` = la version ChatGPT « carte continue » (vue plongeante), générée à partir de la v1 Gemini et du prompt v2 ci-dessus. Positions et icônes réglées dans `lang.json` (`map`). Rendu testé : les pastilles restent lisibles grâce au voile de l'appli.
+
+Une version simplifiée (moins de détails, même composition) est gardée en réserve dans `docs/illustrations/carte-accueil-simplifiee.jpg`, au cas où la carte paraîtrait trop chargée.
+
 ## Remarques pour les retouches
 
 - Si Gemini fait un vrai plan de la France avec contour de côtes : insister sur « no country outline, no coastline map, one single continuous road from top to bottom ».

@@ -30,3 +30,5 @@ Photos de Wikimedia Commons. Une image est sous la licence de son auteur : à ci
 | Nice 06 | `Vieux_Port_de_Cannes_(50519003762).jpg` | Vieux Port de Cannes (50519003762).jpg | Jorge Láscar | CC BY 2.0 |
 
 Les images sont réduites à 960 px de large. Source : <https://commons.wikimedia.org/wiki/File:> suivi du nom de la photo.
+
+`img/map_background.jpg` : illustration générée avec ChatGPT, à partir d'une première version Gemini (prompts dans `docs/Prompt-carte-accueil.md`).
