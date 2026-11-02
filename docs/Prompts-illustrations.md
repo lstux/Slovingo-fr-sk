@@ -156,6 +156,26 @@ Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not 
 
 ---
 
+## 02. Camargue — Le gîte
+
+Fiche : `md/10_Series_02_Camargue_05_le-gite.md` → image `img/illus_02.jpg`
+
+**À joindre** : la planche n° 1, la planche n° 2, et la photo de référence : [51 Mas camarguais réhabilité.jpg](https://commons.wikimedia.org/wiki/File:51_Mas_camarguais_r%C3%A9habilit%C3%A9.jpg) (Deuxtroy, CC BY-SA 3.0), déjà dans `img/` sous le nom `Mas_camarguais_rehabilite.jpg`.
+
+```
+Use the attached model sheets for the characters (keep them exactly as designed): the first sheet for the adult red fox and the adult grey hare, the second sheet for Samo, the small grey hare child. Use the attached photo as the reference for the place: a low traditional Camargue house with a thick reed-thatch roof and white-painted gable ends, a hedge in front, trees behind.
+
+Scene: A hand-drawn illustration for an original illustrated book. Evening in the Camargue, golden light, a few rose-coloured clouds. The little light-blue car with its roof box is parked in front of the thatched house, in the fields; in the distance, a white horse and a few pink flamingos in a pond. At the door of the house an elderly human host in a cardigan hands the key to the adult red fox, Eric, who thanks him with a tired smile and holds a small bag. The adult grey hare, Andrea, stands behind him, tired, her travel bag on her shoulder, a hand on her back. The small grey hare child, Samo, already runs towards the door, red backpack bouncing, arms in the air. Ordinary humans are drawn in the same 2D style and find the animals completely normal.
+
+Characters: Eric, an adult male red fox in his forties (bright orange fur, grey-black ear tips, cream muzzle and chest, a few grey hairs on the cheeks, friendly slightly tired eyes), wearing a blue zip hoodie over a white T-shirt; Andrea, an adult female grey hare in her forties (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down, calm amused look), wearing a mint-green top; Samo, an 8-year-old male grey hare (same grey fur and white blaze as Andrea, both ears standing up, big curious eyes), in a navy T-shirt with a small mountain print and a red backpack, drawn with small child proportions (large round head, short body).
+
+Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, expressive faces. Detailed realistic painted background faithful to the reference photo. Warm, gentle evening light. 16:9 landscape, 1920×1080. No text, no letters, no speech bubbles, no logos, no watermark.
+```
+
+**Crédit** : « Illustration générée avec Google Gemini, d'après une photo de Deuxtroy (Wikimedia Commons, CC BY-SA 3.0) » ; elle reste sous CC BY-SA 3.0 avec le nom du photographe.
+
+---
+
 ## Ensuite
 
 Une illustration par chapitre pour la fiche 05, sur le même principe : planches jointes, photo de référence du lieu (lien Commons), prompt complet par scène. À préparer quand l'histoire sera écrite et relue.
