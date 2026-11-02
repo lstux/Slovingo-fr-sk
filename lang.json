@@ -23,7 +23,7 @@
     "cover": "img/illus_cover.jpg",
     "pitch": "Roadtrip po Francúzsku z Lyonu až k Atlantiku, etapu po etape. Francúzštinu sa učíš cestou: dialógy z bežného života, slovná zásoba, gramatika a trochu miestnej kultúry.",
     "audience": "Dospelí",
-    "status": "draft",
+    "status": "build",
     "theme_color": "#ee1c25",
     "storage_prefix": "fr-sk",
     "url_path": "/slovingo/fr-sk/",
