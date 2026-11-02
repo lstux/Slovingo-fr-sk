@@ -81,9 +81,9 @@ Claire a Andrea si tykajú. Navigácia Ericovi vyká.
 > Alors = tak
 > Le voyage = cesta
 
-! 🐰 C'est très bien. Eric est très gentil.
-> Je to veľmi dobré. Eric je veľmi milý.
-> C'est très bien = je to veľmi dobré
+! 🐰 Ça se passe très bien. Eric est très gentil.
+> Ide to veľmi dobre. Eric je veľmi milý.
+> Ça se passe très bien = ide to veľmi dobre
 > Eric est très gentil = Eric je veľmi milý
 
 ! 🐰🌴 Eric est toujours gentil. Il a un défaut : il ne lit jamais les cartes.

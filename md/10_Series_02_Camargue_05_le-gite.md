@@ -107,8 +107,8 @@ Vo Francúzsku sa čas hovorí **à huit heures**, **à neuf heures**: s predlo�
 > une réservation = rezerváciu
 > pour deux chambres = na dve izby
 
-! 🦊 Le petit-déjeuner est à huit heures. On dort bien !
-> Raňajky sú o ôsmej. Spíme dobre!
+! 🦊 Le petit-déjeuner est à huit heures. Ici, on dort bien !
+> Raňajky sú o ôsmej. Tu sa dobre spí!
 > Le petit-déjeuner = raňajky
 > est à huit heures = sú o ôsmej
-> On dort bien = spíme dobre
+> Ici, on dort bien = tu sa dobre spí

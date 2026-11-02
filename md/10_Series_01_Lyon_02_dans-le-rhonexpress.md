@@ -63,9 +63,8 @@ V slovenčine člen nie je. Vo francúzštine ho nájdeš pred takmer každým p
 > Meyzieu?
 > Meyzieu = mesto Meyzieu
 
-! 🦊 Oui. C'est ma ville d'avant. J'ai habité ici très longtemps.
-> Áno. To je moje bývalé mesto. Býval som tu veľmi dlho.
-> C'est ma ville d'avant = to je moje mesto spred (bývalé)
+! 🦊 Oui. J'ai habité ici très longtemps.
+> Áno. Býval som tu veľmi dlho.
 > J'ai habité = býval som
 > ici = tu
 > très longtemps = veľmi dlho

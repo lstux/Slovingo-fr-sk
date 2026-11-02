@@ -63,11 +63,11 @@ Ako po slovensky sa **mon / ma** riadi rodom toho, čo vlastníš, nie rodom toh
 > Villeurbanne! Poznám!
 > Je connais = poznám
 
-! 🦊 Je sais. Tu as habité ici un peu.
+! 🦊 Je sais. Tu as un peu habité ici.
 > Viem. Chvíľu si tu bývala.
 > Je sais = viem
-> Tu as habité = bývala si
-> un peu = trochu, chvíľu
+> Tu as un peu habité = chvíľu si tu bývala
+> ici = tu
 
 ! 🐰 Oui. J'aime bien Villeurbanne.
 > Áno. Mám rada Villeurbanne.

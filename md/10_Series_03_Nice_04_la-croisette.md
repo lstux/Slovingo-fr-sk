@@ -104,9 +104,10 @@ Je to zvratné sloveso: pred slovesom je malé slovo **se**, ktoré sa mení pod
 > souvent = často
 + **Nové slovo:** {{souvent}} = často.
 
-! 🦊 Chez ma sœur, oui. Allons-y. Elle habite à dix minutes.
-> U sestry, áno. Poďme tam. Býva desať minút odtiaľto.
-> Chez ma sœur = u mojej sestry
+! 🦊 Oui, quand je viens chez ma sœur. Allons-y. Elle habite à dix minutes.
+> Áno, keď prichádzam k sestre. Poďme tam. Býva desať minút odtiaľto.
+> quand = keď
+> je viens chez ma sœur = prichádzam k sestre
 > oui = áno
 > Allons-y = poďme tam
 > Elle habite = býva

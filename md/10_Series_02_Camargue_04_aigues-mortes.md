@@ -48,10 +48,11 @@ Už známe, na zopakovanie: {{la ville}}, {{un marais}}, {{rose}}, {{c'est joli}
 
 ## Dialóg
 
-! 💬 Aigues-Mortes. Une petite ville entourée de grands murs. Il y a du sel rose dans les marais.
-> Aigues-Mortes. Malé mesto obklopené vysokými múrmi. V močiaroch je ružová soľ.
+! 💬 Aigues-Mortes. Une petite ville entourée de remparts. Il y a du sel rose dans les marais.
+> Aigues-Mortes. Malé mesto obklopené hradbami. V močiaroch je ružová soľ.
 > Une petite ville = malé mesto
-> entourée de grands murs = obklopené veľkými múrmi
+> entourée de remparts = obklopené hradbami
++ {{Les remparts}} sú mestské hradby. V bežnej reči sa o nich dá povedať aj {{les murs}}.
 > Il y a du sel rose = je tam ružová soľ
 > dans les marais = v močiaroch
 

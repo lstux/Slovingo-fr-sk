@@ -8,11 +8,12 @@ Na druhý deň Eric vezme Andreu a Sama na Fourvière, kopec nad mestom, kde sto
 
 ## Slovná zásoba dialógu
 
-Nové slová na zapamätanie (päť):
+Nové slová na zapamätanie (šesť):
 
 | Francúzština | Slovenčina |
 |--------------|------------|
 | un fleuve | veľká rieka |
+| une rivière | menšia rieka |
 | la vue | výhľad |
 | gratuit | zadarmo |
 | presque | takmer |
@@ -57,21 +58,21 @@ Eric a Andrea si tykajú, Eric a Samo tiež.
 > Vingt ans = dvadsať rokov
 > C'est long = je to dlho
 
-! 🦊 Oui. Regardez : en bas, il y a deux fleuves. Le Rhône et la Saône.
-> Áno. Pozrite: dolu sú dve veľké rieky. Rhôna a Saona.
+! 🦊 Oui. Regardez : en bas, il y a un fleuve et une rivière. Le Rhône et la Saône.
+> Áno. Pozrite: dolu je veľká rieka a menšia rieka. Rhôna a Saona.
 > Regardez = pozrite
 > en bas = dolu
-> il y a deux fleuves = sú tam dve veľké rieky
+> il y a un fleuve et une rivière = je tam veľká rieka a menšia rieka
 > Le Rhône et la Saône = Rhôna a Saona
-+ **Nové slovo:** {{un fleuve}} = veľká rieka, ktorá tečie až do mora (Rhôna). Malá rieka sa hovorí {{une rivière}}.
++ **Nové slová:** {{un fleuve}} = veľká rieka, ktorá tečie až do mora (Rhôna). {{Une rivière}} = menšia rieka, ktorá sa vlieva do inej rieky (Saôna).
 
-! 🎒 Deux fleuves !
-> Dve rieky!
-> Deux fleuves = dve veľké rieky
+! 🎒 Un fleuve et une rivière !
+> Veľká rieka a menšia rieka!
+> Un fleuve et une rivière = veľká rieka a menšia rieka
 
-! 🐰 Un fleuve, deux fleuves. Moi, je connais Lyon un peu. Mais ici, la vue est magnifique.
-> Jedna rieka, dve rieky. Ja poznám Lyon trochu. Ale odtiaľto je výhľad nádherný.
-> Un fleuve, deux fleuves = jedna rieka, dve rieky
+! 🐰 Un fleuve, une rivière. Moi, je connais Lyon un peu. Mais ici, la vue est magnifique.
+> Jedna veľká rieka, jedna menšia. Ja poznám Lyon trochu. Ale odtiaľto je výhľad nádherný.
+> Un fleuve, une rivière = veľká rieka, menšia rieka
 > je connais Lyon un peu = poznám Lyon trochu
 > Mais = ale
 > la vue = výhľad
@@ -91,17 +92,17 @@ Eric a Andrea si tykajú, Eric a Samo tiež.
 
 Hore na Fourvière sa dá vyjsť pešo po strmých schodoch, alebo ísť **funiculaire**, lanovkou, ktorú v Lyone nazývajú „la ficelle“ (povrázok). Hore stojí biela bazilika Notre-Dame de Fourvière, z ktorej je vidno celé mesto. V dobrom počasí sa vraj dajú zahliadnuť aj Alpy.
 
-Lyon leží na sútoku dvoch veľkých riek: **le Rhône** a **la Saône**. Staré mesto (le Vieux-Lyon) leží na brehu Saôny, pod Fourvière. Je zapísané v zozname svetového dedičstva UNESCO.
+Lyon leží na sútoku dvoch riek: **le Rhône** (veľká rieka, {{un fleuve}}) a **la Saône** (menšia rieka, {{une rivière}}). Staré mesto (le Vieux-Lyon) leží na brehu Saôny, pod Fourvière. Je zapísané v zozname svetového dedičstva UNESCO.
 
 ---
 
 ## Ešte pár viet
 
-! 🦊 Lyon, c'est une ville entre deux fleuves.
-> Lyon je mesto medzi dvoma riekami.
+! 🦊 Lyon, c'est une ville entre un fleuve et une rivière.
+> Lyon je mesto medzi veľkou a menšou riekou.
 > c'est une ville = je to mesto
 > entre = medzi
-> deux fleuves = dve veľké rieky
+> un fleuve et une rivière = veľká rieka a menšia rieka
 
 ! 🐰 La vue est belle, mais je suis fatiguée.
 > Výhľad je pekný, ale som unavená.

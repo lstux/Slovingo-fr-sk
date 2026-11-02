@@ -46,6 +46,7 @@
 | petit / petite | malý / malá |
 | désolé / désolée | prepáč |
 | un fleuve | veľká rieka |
+| une rivière | menšia rieka |
 | la vue | výhľad |
 | gratuit | zadarmo |
 | presque | takmer |
