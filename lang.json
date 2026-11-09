@@ -74,6 +74,8 @@
   "ui": {
     "change_course": "Zmeniť kurz",
     "read_story": "📖 Prečítať celý príbeh",
+    "review_button": "🔁 Opakovanie",
+    "reset_review_mistakes": "🧹 Zabudnúť moje chybné otázky ({m})",
     "voice_other": "Ďalšie hlasy",
     "home": "Domov",
     "exercises": "Cvičenia",
