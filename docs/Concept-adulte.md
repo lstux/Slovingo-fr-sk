@@ -5,7 +5,7 @@
 *Série-voyage du cours fr-sk : un guide touristique de la France, mis en histoire. Miroir du roadtrip du cours sk-fr (Bratislava–Košice) : mêmes personnages principaux, même format, mais c'est **Andrea, slovaque, qui apprend le français**, et Eric, le Français, qui sert de guide. Les lieux sont réels, l'histoire est fictive. Le français est celui d'un natif ; le slovaque des explications est à faire relire par un locuteur natif.*
 
 ## En bref
-- **Pourquoi ce voyage** : les parents d'Eric, Michel et Martine, fêtent leurs **40 ans de mariage** dans la maison familiale de **Pontrieux**, en Bretagne. Eric y invite Andrea et son neveu Samo. Plutôt que d'y aller tout droit, il propose de prendre « le chemin des écoliers » pour leur montrer la France.
+- **Pourquoi ce voyage** : Andrea vient passer ses vacances en France avec son neveu Samo, chez Eric. Ça tombe en même temps que les **40 ans de mariage** des parents d'Eric, Michel et Martine, fêtés dans la maison familiale de **Pontrieux**, en Bretagne (pourquoi ces dates-là, on n'en sait rien). L'invitation date de plusieurs mois, et Michel et Martine sont ravis de **rencontrer enfin Andrea**, dont Eric parle depuis longtemps. Au chapitre 1, Eric propose d'aller en Bretagne par « le chemin des écoliers » ; la date de la fête donne le rythme du voyage : il ne faut pas arriver en retard.
 - **Le désir de Samo** : il veut voir **la tour Eiffel**. On la garde pour la fin, et la question revient en running gag (« Et la tour Eiffel, c'est quand ? »).
 - **Une boucle sans retour en arrière** : on descend vers le sud par les Alpes, on longe la Méditerranée, on traverse vers l'Atlantique, on remonte vers la Bretagne et la Normandie, on finit à Paris.
 - **Un guide sans frime** : Eric est français, donc il sert de guide, mais il ne connaît pas tout. Certains lieux sont nouveaux pour lui aussi, il se trompe, il découvre avec eux. Pas de « là, je connais » à chaque étape.
@@ -51,7 +51,7 @@ Voyage d'été (juillet) : la montagne sans neige mais les remontées ouvertes, 
 Dijon, Lille, Angers, Strasbourg, Bordeaux, Toulouse, l'Auvergne. Ils peuvent être cités au passage (« La prochaine fois, Strasbourg ! »), sans chapitre dédié.
 
 ## Fils rouges
-- **La fête des 40 ans** : le but du voyage. Une invitation au chapitre 1, le cadeau qu'on cherche en route (Andrea veut trouver quelque chose de bien, Samo propose n'importe quoi), Martine au téléphone, puis la fête au chapitre 7.
+- **La fête des 40 ans** : le but du voyage. Martine qui appelle pour vérifier au chapitre 1, le cadeau qu'on cherche en route (Andrea veut trouver quelque chose de bien, Samo propose n'importe quoi), Martine au téléphone, puis la fête au chapitre 7.
 - **« Et la tour Eiffel ? »** : la question de Samo, à chaque étape. Réponse finale au chapitre 10.
 - **Annecy** : le coup de cœur d'Andrea. Elle compare tout le reste à Annecy (« C'est joli, mais Annecy… ») ; Eric la taquine.
 - **Les hébergements** : appartement, chalet, chez Claire, gîte, camping, chambre d'hôtes, maison de famille, petit hôtel. Trois nuits avec un **ronfleur** (chalet, gîte, chambre d'hôtes) : le gag qui revient.

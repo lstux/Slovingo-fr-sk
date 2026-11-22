@@ -33,16 +33,16 @@
 
 # Chapitre 1 — Lyon
 
-*Andrea et Samo arrivent à Lyon. Eric les accueille à l'aéroport et les emmène chez lui, à Villeurbanne, en Rhônexpress puis en tram. Le soir, l'invitation : les parents d'Eric fêtent leurs 40 ans de mariage en Bretagne, et Eric propose de les y emmener par le chemin des écoliers.*
+*Andrea et Samo arrivent à Lyon pour leurs vacances. Eric les accueille à l'aéroport et les emmène chez lui, à Villeurbanne, en Rhônexpress puis en tram. Ils sont invités depuis longtemps aux 40 ans de mariage des parents d'Eric, en Bretagne. Le soir, Eric dévoile son idée : y aller par le chemin des écoliers.*
 
 1. **À l'aéroport** : Saint-Exupéry. Eric les attend. Andrea le vouvoie par réflexe (*Comment allez-vous ?*) ; il rit (*On se tutoyait, Andrea !*). Présentations : *Voici Samo, mon neveu. Il a huit ans.*
 2. **Dans le Rhônexpress** : le train file vers la ville. Samo regarde par la fenêtre, Eric explique simplement : *On change à Vaulx-en-Velin La Soie. Après, on prend le tram.* Samo répète *tram*, son premier mot. *(L'ancien passage sur Meyzieu disparaît.)*
 3. **Le tram T3, Villeurbanne** : Andrea reconnaît Villeurbanne. Un seul clin d'œil, léger : *Ici, c'est là qu'on s'est rencontrés.* — *Je sais.* (un sourire, pas plus). Arrêt Reconnaissance-Balzac.
 4. **L'appartement** : petit appartement, visite des pièces. Samo a la petite chambre, Andrea le canapé. *Désolé, c'est petit.* — *C'est parfait.*
 5. **Fourvière** : la basilique, la vue sur la ville. Eric montre le Rhône et la Saône sans en faire un cours. Samo : *Et la tour Eiffel ?* — *Pas ici, Samo. À Paris. À la fin du voyage.* Le fil est posé.
-6. **Le soir, dans un bouchon** : le téléphone sonne, c'est Martine. Elle invite tout le monde pour les 40 ans de mariage, à Pontrieux. Eric propose : *On peut y aller tout droit… ou faire le tour.* Andrea : *Le tour !* Elle lève son verre et propose de se tutoyer « encore ». Samo s'endort sur la table.
+6. **Le soir, dans un bouchon** : le téléphone sonne, c'est Martine, un peu inquiète : *Vous arrivez toujours pour le samedi 15 ? Andrea aime le poisson ?* Elle a hâte de rencontrer Andrea, enfin. Eric raccroche et dévoile son idée : *On a deux semaines et demie. On peut aller en Bretagne tout droit… ou faire le tour.* Andrea : *Le tour !* Samo : *Et la tour Eiffel ?* Andrea lève son verre et propose de se tutoyer « encore ». Samo s'endort sur la table.
 
-**Reprise des fiches existantes** : scènes 1, 3, 4 et 6 en grande partie ; scène 2 à réécrire (sans Meyzieu) ; scène 5 à alléger (Eric ne « connaît pas tout ») ; scène 6 à adapter (Martine au lieu de Claire, l'invitation).
+**Reprise des fiches existantes** : scènes 1, 3, 4 et 6 en grande partie ; scène 2 à réécrire (sans Meyzieu) ; scène 5 à alléger (Eric ne « connaît pas tout ») ; scène 6 à adapter (Martine au lieu de Claire, qui vérifie la date ; l'idée du tour).
 
 ---
 
@@ -121,7 +121,7 @@
 
 *L'arrivée dans la maison de famille, et la fête des 40 ans. Le passé composé arrive avec les histoires de la famille.*
 
-1. **La maison** : une vieille maison de pierre, au bord du Trieux. Michel et Martine accueillent tout le monde. Andrea les vouvoie (c'est juste) ; Martine l'embrasse quand même.
+1. **La maison** : une vieille maison de pierre, au bord du Trieux. Michel et Martine accueillent tout le monde. Martine : *Andrea ! Enfin ! Eric nous a tellement parlé de vous.* Eric, soudain très occupé avec les valises. Andrea les vouvoie (c'est juste) ; Martine l'embrasse quand même.
 2. **Les souvenirs** : Martine montre les photos ; Michel raconte : *On s'est mariés ici, il y a quarante ans.* Le passé composé, par petites phrases.
 3. **Le port et les lavoirs** : promenade dans Pontrieux, les lavoirs fleuris le long de la rivière. *Il y a des fleurs partout.*
 4. **Claire arrive** : Claire, Hugo et Lola débarquent. Les trois enfants se retrouvent comme s'ils s'étaient quittés hier. *On est arrivés !*, crie Lola.
