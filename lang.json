@@ -197,31 +197,82 @@
   },
   "cheers": {
     "perfect": [
-      {"t": "Excellent !", "n": "Výborne!"},
-      {"t": "Incroyable !", "n": "Neuveriteľné!"},
-      {"t": "Génial !", "n": "Úžasné!"},
-      {"t": "Cent pour cent !", "n": "Sto percent!"},
-      {"t": "C'est trop facile pour toi ?!", "n": "Je to pre teba príliš ľahké?!"}
+      {
+        "t": "Excellent !",
+        "n": "Výborne!"
+      },
+      {
+        "t": "Incroyable !",
+        "n": "Neuveriteľné!"
+      },
+      {
+        "t": "Génial !",
+        "n": "Úžasné!"
+      },
+      {
+        "t": "Cent pour cent !",
+        "n": "Sto percent!"
+      },
+      {
+        "t": "C'est trop facile pour toi ?!",
+        "n": "Je to pre teba príliš ľahké?!"
+      }
     ],
     "great": [
-      {"t": "Super !", "n": "Super!"},
-      {"t": "Presque parfait !", "n": "Takmer dokonalé!"},
-      {"t": "Très bien !", "n": "Veľmi dobre!"}
+      {
+        "t": "Super !",
+        "n": "Super!"
+      },
+      {
+        "t": "Presque parfait !",
+        "n": "Takmer dokonalé!"
+      },
+      {
+        "t": "Très bien !",
+        "n": "Veľmi dobre!"
+      }
     ],
     "good": [
-      {"t": "Beau travail !", "n": "Dobrá práca!"},
-      {"t": "Joli !", "n": "Pekné!"},
-      {"t": "Tu t'en sors bien !", "n": "Darí sa ti!"}
+      {
+        "t": "Beau travail !",
+        "n": "Dobrá práca!"
+      },
+      {
+        "t": "Joli !",
+        "n": "Pekné!"
+      },
+      {
+        "t": "Tu t'en sors bien !",
+        "n": "Darí sa ti!"
+      }
     ],
     "ok": [
-      {"t": "Pas mal !", "n": "Nie je to zlé!"},
-      {"t": "Continue comme ça !", "n": "Pokračuj tak!"},
-      {"t": "Ça s'améliore !", "n": "Zlepšuje sa to!"}
+      {
+        "t": "Pas mal !",
+        "n": "Nie je to zlé!"
+      },
+      {
+        "t": "Continue comme ça !",
+        "n": "Pokračuj tak!"
+      },
+      {
+        "t": "Ça s'améliore !",
+        "n": "Zlepšuje sa to!"
+      }
     ],
     "retry": [
-      {"t": "Essaie encore !", "n": "Skús znova!"},
-      {"t": "Ne lâche pas !", "n": "Nevzdávaj sa!"},
-      {"t": "Courage !", "n": "Hlavu hore!"}
+      {
+        "t": "Essaie encore !",
+        "n": "Skús znova!"
+      },
+      {
+        "t": "Ne lâche pas !",
+        "n": "Nevzdávaj sa!"
+      },
+      {
+        "t": "Courage !",
+        "n": "Hlavu hore!"
+      }
     ]
   },
   "generator": {
@@ -295,19 +346,58 @@
     },
     "final_title": "Šťastnú cestu!",
     "positions": {
-      "intro": [22, 7],
-      "series-kitsurvie": [46, 5],
-      "series-lyon": [68, 11],
-      "series-alpes": [35, 29],
-      "series-nice": [66, 25],
-      "series-camargue": [38, 17],
-      "series-dordogne": [69, 36],
-      "series-saintmarc": [52, 82],
-      "series-pontrieux": [40, 69],
-      "series-brehat": [18, 72],
-      "series-montsaintmichel": [79, 59],
-      "series-paris": [45, 42],
-      "final-exam": [82, 90]
+      "intro": [
+        12,
+        7
+      ],
+      "series-kitsurvie": [
+        50,
+        4
+      ],
+      "series-lyon": [
+        32,
+        9
+      ],
+      "series-alpes": [
+        65,
+        12
+      ],
+      "series-nice": [
+        70,
+        27
+      ],
+      "series-camargue": [
+        20,
+        38
+      ],
+      "series-dordogne": [
+        75,
+        43
+      ],
+      "series-saintmarc": [
+        40,
+        51
+      ],
+      "series-pontrieux": [
+        82,
+        57
+      ],
+      "series-brehat": [
+        80,
+        68
+      ],
+      "series-montsaintmichel": [
+        36,
+        77
+      ],
+      "series-paris": [
+        62,
+        83
+      ],
+      "final-exam": [
+        16,
+        92
+      ]
     }
   }
 }

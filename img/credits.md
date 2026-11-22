@@ -37,4 +37,4 @@ Photos de Wikimedia Commons. Une image est sous la licence de son auteur : à ci
 
 Les images sont réduites à 960 px de large. Source : <https://commons.wikimedia.org/wiki/File:> suivi du nom de la photo.
 
-`img/map_background.jpg` : illustration générée avec ChatGPT, à partir d'une première version Gemini (prompts dans `docs/Prompt-carte-accueil.md`).
+`img/map_background.jpg` : illustration générée avec ChatGPT (version 3 simplifiée, parcours « Tour de France » en 10 étapes ; prompts dans `docs/Prompt-carte-accueil.md`).
