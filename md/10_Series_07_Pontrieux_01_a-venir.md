@@ -2,4 +2,4 @@
 
 Táto séria sa ešte pripravuje.
 
-À venir : la petite maison du grand-père Yvon.
+À venir : la maison de famille et la fête des 40 ans.

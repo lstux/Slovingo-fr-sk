@@ -1,14 +1,13 @@
-# Séria Camargue (1/5) — En voiture
+# Séria Alpy (1/5) — En voiture
 
-@ img/Autoroute_A7_Valence_Rhone.jpg | Diaľnica A7 popri Rhône pri Valence — Florian Pépellin, CC BY-SA 3.0, Wikimedia Commons
+@ img/Mont-Blanc_depuis_Autoroute_Blanche.jpg | Diaľnica do Chamonix a masív Mont Blanc — Tangopaso, verejná doména, Wikimedia Commons
 
-%~ Deň 3 : z Villeurbanne do Camargue
+%~ Deň 3 : z Villeurbanne do Chamonix
 % 45.7660, 4.8830 | {{Villeurbanne}}
-% 43.6768, 4.6278 | {{Arles}}
-% 43.4525, 4.4285 | {{Saintes-Maries-de-la-Mer}}
-% 43.5659, 4.1912 | {{Aigues-Mortes}}
+% 45.5646, 5.9178 | {{Chambéry}}
+% 45.9237, 6.8694 | {{Chamonix}}
 
-Ráno vyrážate z Villeurbanne. Eric šoféruje, Andrea sedí vedľa neho a Samo vzadu. Prvýkrát sa ozve navigácia a Samo povie svoju prvú francúzsku vetu. Dnes sa naučíš, ako povedať „ideme tadiaľto“ a „ešte nie sme tam“.
+Ráno vyrážate z Villeurbanne do Álp. Eric šoféruje, Andrea sedí vedľa neho a Samo vzadu. Prvýkrát sa ozve navigácia a Samo povie svoju prvú francúzsku vetu. Dnes sa naučíš, ako povedať „ideme tadiaľto“ a „ešte nie sme tam“.
 
 ---
 
@@ -64,8 +63,8 @@ V hovorenej francúzštine sa namiesto **nous** (my) hovorí takmer vždy **on**
 > à côté de lui = vedľa neho
 > derrière = vzadu
 
-! 🧭 Bonjour. Je suis votre navigation. Votre destination est la Camargue.
-> Dobrý deň. Som vaša navigácia. Váš cieľ je Camargue.
+! 🧭 Bonjour. Je suis votre navigation. Votre destination est Chamonix.
+> Dobrý deň. Som vaša navigácia. Váš cieľ je Chamonix.
 > Je suis votre navigation = som vaša navigácia
 > Votre destination = váš cieľ
 > est = je
@@ -85,6 +84,10 @@ V hovorenej francúzštine sa namiesto **nous** (my) hovorí takmer vždy **on**
 > Tout droit = rovno
 > D'accord = dobre, súhlasím
 
+! 💬 Dix minutes plus tard.
+> O desať minút neskôr.
+> Dix minutes plus tard = o desať minút neskôr
+
 ! 🎒 On est arrivés ?
 > Sme už tam?
 > On est arrivés = sme tam, dorazili sme
@@ -95,14 +98,14 @@ V hovorenej francúzštine sa namiesto **nous** (my) hovorí takmer vždy **on**
 > Tu parles = hovoríš
 > français = po francúzsky
 
-! 🦊 Bravo, Samo ! Mais non, on n'est pas arrivés. On est partis il y a deux minutes.
-> Bravo, Samo! Ale nie, nie sme tam. Vyrazili sme pred dvoma minútami.
+! 🦊 Bravo, Samo ! Mais non, on n'est pas arrivés. On est partis il y a dix minutes.
+> Bravo, Samo! Ale nie, nie sme tam. Vyrazili sme pred desiatimi minútami.
 > Bravo = bravo
 > Mais non = ale nie
 > on n'est pas arrivés = nie sme tam
 > On est partis = vyrazili sme
-> il y a deux minutes = pred dvoma minútami
-+ **Il y a** + čas znamená „pred“: {{il y a deux minutes}} = pred dvoma minútami.
+> il y a dix minutes = pred desiatimi minútami
++ **Il y a** + čas znamená „pred“: {{il y a dix minutes}} = pred desiatimi minútami.
 
 ! 🧭 Continuez tout droit. Et soyez patients.
 > Pokračujte rovno. A buďte trpezliví.

@@ -2,7 +2,7 @@
 
 *22 novembre 2026. Plan du nouveau parcours (voir `Concept-adulte.md` v0.2), avant l'écriture du texte complet. La version précédente de l'histoire (12 chapitres, de Lyon à Saint-Marc) est archivée dans `docs/archive/Histoire-v1.md` : on y reprend ce qui marche encore (Lyon, la Côte d'Azur, la Camargue, le Trieux, Bréhat).*
 
-**État** : plan des 10 chapitres, 6 scènes chacun. Pour chaque scène : ce qui se passe, et une ou deux répliques qui donnent le ton. Le texte complet viendra ensuite, chapitre par chapitre.
+**État** : chapitres 1 à 3 écrits en entier ; plan des chapitres 4 à 10, 6 scènes chacun. Pour chaque scène : ce qui se passe, et une ou deux répliques qui donnent le ton. Le texte complet viendra ensuite, chapitre par chapitre.
 
 ## Conventions
 
@@ -35,29 +35,363 @@
 
 *Andrea et Samo arrivent à Lyon pour leurs vacances. Eric les accueille à l'aéroport et les emmène chez lui, à Villeurbanne, en Rhônexpress puis en tram. Ils sont invités depuis longtemps aux 40 ans de mariage des parents d'Eric, en Bretagne. Le soir, Eric dévoile son idée : y aller par le chemin des écoliers.*
 
-1. **À l'aéroport** : Saint-Exupéry. Eric les attend. Andrea le vouvoie par réflexe (*Comment allez-vous ?*) ; il rit (*On se tutoyait, Andrea !*). Présentations : *Voici Samo, mon neveu. Il a huit ans.*
-2. **Dans le Rhônexpress** : le train file vers la ville. Samo regarde par la fenêtre, Eric explique simplement : *On change à Vaulx-en-Velin La Soie. Après, on prend le tram.* Samo répète *tram*, son premier mot. *(L'ancien passage sur Meyzieu disparaît.)*
-3. **Le tram T3, Villeurbanne** : Andrea reconnaît Villeurbanne. Un seul clin d'œil, léger : *Ici, c'est là qu'on s'est rencontrés.* — *Je sais.* (un sourire, pas plus). Arrêt Reconnaissance-Balzac.
-4. **L'appartement** : petit appartement, visite des pièces. Samo a la petite chambre, Andrea le canapé. *Désolé, c'est petit.* — *C'est parfait.*
-5. **Fourvière** : la basilique, la vue sur la ville. Eric montre le Rhône et la Saône sans en faire un cours. Samo : *Et la tour Eiffel ?* — *Pas ici, Samo. À Paris. À la fin du voyage.* Le fil est posé.
-6. **Le soir, dans un bouchon** : le téléphone sonne, c'est Martine, un peu inquiète : *Vous arrivez toujours pour le samedi 15 ? Andrea aime le poisson ?* Elle a hâte de rencontrer Andrea, enfin. Eric raccroche et dévoile son idée : *On a deux semaines et demie. On peut aller en Bretagne tout droit… ou faire le tour.* Andrea : *Le tour !* Samo : *Et la tour Eiffel ?* Andrea lève son verre et propose de se tutoyer « encore ». Samo s'endort sur la table.
+*Texte complet, 22 novembre 2026.*
 
-**Reprise des fiches existantes** : scènes 1, 3, 4 et 6 en grande partie ; scène 2 à réécrire (sans Meyzieu) ; scène 5 à alléger (Eric ne « connaît pas tout ») ; scène 6 à adapter (Martine au lieu de Claire, qui vérifie la date ; l'idée du tour).
+## Scène 1 — À l'aéroport
+
+💬 Aéroport de Lyon Saint-Exupéry. Eric attend, une pancarte à la main : « Bienvenue ».
+
+🦊 Andrea ! Samo ! Par ici !
+
+🐰 Eric ! Bonjour ! Comment allez-vous ?
+
+🦊 « Allez-vous » ? On se tutoie, Andrea !
+
+🐰 Pardon. Bonjour. Comment vas-tu ?
+
+🦊 Très bien. Et toi ?
+
+🐰 Ça va. Je suis un peu fatiguée.
+
+🦊 Et voici ton neveu ?
+
+🐰 Oui. Voici Samo. Il a huit ans.
+
+🦊 Bonjour, Samo. Moi, c'est Eric.
+
+🎒 Bonjour.
+
+💬 Samo chuchote à Andrea, en slovaque, que le renard est très grand.
+
+🦊 Oui, je suis un renard. Andrea est une hase. Et toi, tu es un lièvre.
+
+🎒 Un lièvre ! Oui !
+
+## Scène 2 — Dans le Rhônexpress
+
+💬 Le Rhônexpress est un petit train rouge. Il roule vite vers la ville. Samo colle son nez à la fenêtre.
+
+🐰 C'est loin, chez toi ?
+
+🦊 Non. Trente minutes, à peu près.
+
+🐰 On reste dans le train ?
+
+🦊 Non. On change à Vaulx-en-Velin La Soie. Après, on prend le tram.
+
+🎒 Tram ?
+
+🦊 Oui, Samo. Le tram.
+
+🎒 Tram ! Tram !
+
+💬 Samo ne connaît encore qu'un mot de français. Il le répète jusqu'à la station.
+
+## Scène 3 — Le tram
+
+💬 À La Soie, ils descendent du train. Le tram T3 arrive.
+
+🦊 Allez, vite ! C'est le T3. On va à Villeurbanne.
+
+🐰 Villeurbanne… Je connais !
+
+🦊 Je sais. Tu as un peu habité ici.
+
+🐰 Oui. C'est ici qu'on s'est rencontrés.
+
+🦊 Je sais aussi.
+
+💬 Ils se regardent une seconde. Puis Andrea regarde par la fenêtre.
+
+🎒 Tram !
+
+🦊 Voilà notre arrêt : Reconnaissance-Balzac. Mon appartement est tout près.
+
+🐰 C'est loin ?
+
+🦊 Non. Deux minutes à pied.
+
+## Scène 4 — L'appartement
+
+💬 L'appartement d'Eric est au deuxième étage. Il est petit, mais il est clair.
+
+🦊 Voici la cuisine. Voici le salon. Et là, la salle de bain.
+
+🐰 C'est très joli.
+
+🦊 Merci. Et voici la chambre de Samo.
+
+🎒 Ma chambre ?
+
+🦊 Oui. Ton lit est là, près de la fenêtre.
+
+💬 Samo saute sur le lit. Il adore sa chambre.
+
+🐰 Et ma chambre ?
+
+🦊 Dans le salon, sur le canapé. Désolé : l'appartement est petit.
+
+🐰 Pas de problème. Le canapé est très grand.
+
+## Scène 5 — Fourvière
+
+💬 Le lendemain, ils montent à Fourvière. En haut, il y a une grande basilique blanche, et toute la ville en bas.
+
+🐰 Oh… C'est magnifique.
+
+🦊 Oui. Regardez : en bas, il y a un fleuve et une rivière. Le Rhône et la Saône.
+
+🎒 Un fleuve !
+
+🐰 Et là, c'est quoi ? La grande tour ?
+
+🦊 C'est… Euh… Je ne sais pas. Une tour de bureaux, je crois.
+
+🐰 Tu ne sais pas ? Tu habites ici !
+
+🦊 J'habite à Villeurbanne. Ce n'est pas pareil.
+
+💬 Samo regarde partout. Puis il demande quelque chose à Andrea, en slovaque.
+
+🐰 Il demande : « Et la tour Eiffel ? »
+
+🦊 Ha ! Pas ici, Samo. La tour Eiffel, c'est à Paris.
+
+🎒 Paris ?
+
+🦊 Oui. Paris, c'est à la fin du voyage. Promis.
+
+## Scène 6 — Un soir dans un bouchon
+
+💬 Le soir, dans un petit restaurant lyonnais, un « bouchon ». La salle est pleine. Il fait chaud.
+
+🧑‍🍳 Bonsoir. Vous êtes trois ?
+
+🦊 Oui, trois. Une table pour trois, s'il vous plaît.
+
+🧑‍🍳 Par ici. Voilà la carte.
+
+💬 Samo mange déjà un morceau de pain. Le téléphone d'Eric sonne. C'est sa mère, Martine.
+
+📱 Allô, Eric ? C'est maman. Vous arrivez toujours pour samedi 15 ?
+
+🦊 Oui, maman. Samedi 15.
+
+📱 Et Andrea aime le poisson ?
+
+🦊 Oui, maman. Andrea aime le poisson.
+
+📱 Et Samo ?
+
+🦊 Samo aime le pain.
+
+📱 Bon. On a hâte de la rencontrer, tu sais. Enfin !
+
+🦊 Oui, maman. Bisous.
+
+💬 Eric raccroche. Andrea sourit.
+
+🐰 Ta mère est gentille.
+
+🦊 Ma mère est inquiète. C'est différent.
+
+🐰 Alors, la Bretagne : on y va directement ?
+
+🦊 On a deux semaines et demie. On peut aller tout droit… ou faire le tour.
+
+🐰 Le tour ?
+
+🦊 Le tour de la France. Les montagnes, la mer, la campagne. Et la Bretagne pour la fête.
+
+🐰 Le tour ! Oui !
+
+🎒 Et la tour Eiffel ?
+
+🦊 Et la tour Eiffel à la fin, Samo.
+
+💬 Andrea lève son verre.
+
+🐰 Merci, Eric. Merci pour tout. On se tutoie ? Encore ?
+
+🦊 Oui, encore. À ta santé, Andrea !
+
+🐰 À ta santé !
+
+🎒 À ta santé !
+
+💬 Un peu plus tard, Samo dort sur la table, la tête à côté du pain.
+
+**Faits à vérifier (chapitre 1)**
+- Rhônexpress : aéroport → Part-Dieu, arrêt à Vaulx-en-Velin La Soie, correspondance avec le tram T3 ; environ 30 minutes jusqu'à Part-Dieu (à confirmer).
+- L'arrêt *Reconnaissance-Balzac* est sur le T3, à Villeurbanne (à confirmer).
+- Fourvière : basilique blanche, vue sur la ville, le Rhône et la Saône ; la grande tour visible de Fourvière est la tour Part-Dieu (la « tour Incity » ou « le crayon » ; Eric ne sait pas, c'est voulu).
+- Un « bouchon » : petit restaurant traditionnel lyonnais.
 
 ---
 
 # Chapitre 2 — Les Alpes
 
-*Le vrai départ, en voiture. La navigation entre en scène. Deux jours en montagne, puis Annecy, où Andrea tombe sous le charme.*
+*Le vrai départ, en voiture. La navigation entre en scène, Samo dit sa première phrase. Deux jours à la montagne, près de Chamonix, puis Annecy, où Andrea tombe sous le charme.*
 
-1. **En voiture** : la navigation se présente (*Je suis votre navigation.*). Samo, au bout de dix minutes : *On est arrivés ?* — sa première phrase complète. Eric : *Non, Samo. On est partis il y a dix minutes.*
-2. **Le chalet** : un chalet en bois, l'hôte donne les clés. Il fait frais le soir, même en été. La nuit, quelqu'un ronfle : tout le monde accuse Samo. Samo, outré : *Pas moi !* On ne saura jamais.
-3. **Là-haut** : téléphérique jusqu'à un sommet ; il fait froid, il y a de la neige en juillet. Samo n'en revient pas. Eric aussi, un peu : *Je ne suis jamais monté ici.* Météo, vêtements, *il fait froid*.
-4. **Les alpages** : vaches, cloches, un berger, du fromage. Samo veut caresser une vache ; la vache n'est pas d'accord.
-5. **Annecy** : le lac, les canaux, la vieille ville. Andrea s'arrête, regarde, ne dit rien, puis : *C'est la plus belle ville du monde.* Eric : *Tu as dit ça de Lyon.* — *J'ai changé d'avis.*
-6. **Le soir au bord du lac** : glace, baignade de Samo, coucher de soleil. Andrea : *Je pourrais habiter ici.* Eric la regarde une seconde de trop. La navigation : *Destination atteinte.* — *Pas encore*, dit Eric.
+*Texte complet, 22 novembre 2026.*
 
-**Fil Annecy** : dans la suite du voyage, Andrea compare (*C'est joli, mais Annecy…*), et Eric la taquine.
+## Scène 1 — En voiture
+
+💬 Le matin. La voiture est bleue, un peu sale. Eric conduit. Andrea est à côté de lui. Samo est derrière.
+
+🧭 Bonjour. Je suis votre navigation. Votre destination est Chamonix.
+
+🦊 Merci, navigation.
+
+🧭 Continuez tout droit.
+
+🦊 Tout droit. D'accord.
+
+💬 Dix minutes plus tard.
+
+🎒 On est arrivés ?
+
+🐰 Samo ! Tu parles français !
+
+🦊 Bravo, Samo ! Mais non, on n'est pas arrivés. On est partis il y a dix minutes.
+
+🧭 Continuez tout droit. Et soyez patients.
+
+## Scène 2 — Le chalet
+
+💬 Le soir, un petit chalet en bois, au-dessus de Chamonix. Il y a un balcon et des fleurs rouges. En face, les montagnes.
+
+🧓 Bonsoir ! Voilà les clés. Le chalet est à vous.
+
+🦊 Merci beaucoup.
+
+🐰 Il fait frais, ce soir.
+
+🧓 Oui. Ici, le soir, il fait frais, même en été.
+
+💬 La nuit. Tout le monde dort. Soudain, un bruit. Quelqu'un ronfle.
+
+🐰 Eric… Tu ronfles ?
+
+🦊 Moi ? Non. C'est Samo.
+
+🎒 Pas moi !
+
+💬 Silence. Puis le bruit recommence. Personne ne trouve. Le chalet est vieux, il craque.
+
+## Scène 3 — Là-haut
+
+💬 Le lendemain, ils prennent le téléphérique de l'Aiguille du Midi. Il monte très haut, très vite.
+
+🎒 Oh ! La neige !
+
+🐰 De la neige, en juillet ?
+
+🦊 Oui. Ici, il y a de la neige toute l'année.
+
+🐰 Il fait froid !
+
+🦊 Il fait très froid. Mets ton pull, Samo.
+
+💬 En face, il y a le mont Blanc. Il est énorme et tout blanc.
+
+🦊 Je ne suis jamais monté ici. C'est impressionnant.
+
+🐰 Toi non plus ? Super. On découvre ensemble.
+
+## Scène 4 — Les alpages
+
+💬 L'après-midi, ils redescendent et marchent dans les alpages. L'herbe est verte, il y a des fleurs et des vaches avec des cloches.
+
+🎒 Une vache !
+
+🐰 Oui, Samo. Une vache. Et elle a une cloche.
+
+💬 Samo veut caresser la vache. La vache n'aime pas ça. Elle s'en va.
+
+🦊 Elle n'aime pas les lièvres.
+
+🐰 Moi, j'aime les vaches. Et j'adore le fromage.
+
+🦊 Alors ce soir, on mange une fondue.
+
+🎒 Fondue ?
+
+🦊 Du fromage chaud, avec du pain.
+
+🎒 J'adore !
+
+## Scène 5 — Annecy
+
+💬 Le troisième jour, la route descend vers un grand lac bleu. Il y a des montagnes autour, et une petite ville avec des canaux.
+
+🧭 Vous êtes arrivés à Annecy.
+
+🎒 On est arrivés !
+
+🐰 Oh…
+
+💬 Andrea s'arrête. Elle regarde le lac, les maisons colorées, les fleurs sur les ponts. Elle ne dit rien.
+
+🦊 Andrea ? Ça va ?
+
+🐰 C'est… la plus belle ville du monde.
+
+🦊 Tu as dit ça de Lyon.
+
+🐰 J'ai changé d'avis.
+
+💬 Ils marchent dans la vieille ville. Il y a des canaux, des petits ponts, et un vieux bâtiment au milieu de l'eau.
+
+🐰 Regarde, Samo ! Une maison sur l'eau !
+
+🎒 Un bateau ?
+
+🦊 Non, c'est une vieille prison. Le palais de l'Isle.
+
+🐰 Une prison ? Ici ? C'est trop joli pour une prison.
+
+🦊 À Annecy, même la prison est jolie.
+
+## Scène 6 — Le soir au bord du lac
+
+💬 Le soir, au bord du lac. L'eau est calme. Le soleil descend derrière les montagnes.
+
+🎒 Une glace !
+
+🦊 Quel parfum ?
+
+🎒 Fraise ! Et chocolat ! Et vanille !
+
+🦊 Une boule, Samo.
+
+🎒 Deux ?
+
+🦊 Deux. D'accord.
+
+💬 Samo mange sa glace. Andrea regarde le lac.
+
+🐰 Tu sais, je pourrais habiter ici.
+
+🦊 Ici ? À Annecy ?
+
+🐰 Oui. Le lac, les montagnes, la vieille ville… J'adore.
+
+💬 Eric la regarde une seconde de trop. Puis il regarde le lac, lui aussi.
+
+🧭 Destination atteinte.
+
+🦊 Pas encore.
+
+🐰 Quoi ?
+
+🦊 Rien. On a encore beaucoup de route.
+
+**Faits à vérifier (chapitre 2)**
+- Téléphérique de l'Aiguille du Midi, ouvert en été ; neige toute l'année au sommet (3 842 m) ; vue sur le mont Blanc (à confirmer).
+- Alpages autour de Chamonix avec vaches (race Abondance ou Tarine, à cloches).
+- Annecy : le lac, la vieille ville, les canaux du Thiou, le palais de l'Isle (ancienne prison, aujourd'hui musée), les ponts fleuris.
+- La fondue savoyarde : fromages fondus (beaufort, comté, emmental de Savoie), avec du pain.
 
 ---
 
@@ -65,14 +399,141 @@
 
 *Trois jours sur la côte : Nice, puis Cannes, chez Claire, la sœur d'Eric. Samo rencontre Hugo et Lola.*
 
-1. **On recalcule** : la navigation dit *à gauche*, Eric va *à droite*. *Je recalcule l'itinéraire.* Andrea : *La navigation a raison.* Eric : *Elle a toujours raison. C'est pénible.*
-2. **Nice** : la Promenade des Anglais, la mer très bleue, la socca. Eric ne connaît pas Nice plus que ça : *Je suis passé ici une fois. Je ne me souviens plus de rien.*
-3. **Au marché** : cours Saleya ; Samo veut un T-shirt vert, le prix baisse, Samo compte jusqu'à douze en français. Andrea pense au cadeau des 40 ans : rien ne va.
-4. **La Croisette** : palmiers, bateaux, beaucoup de monde. Andrea : *C'est beau. Mais Annecy…* Eric : *Oui, oui, Annecy.*
-5. **Chez Claire** : Hugo et Lola sortent en courant (*Tonton Eric !*), Claire accueille Andrea et Samo. Les enfants jouent ensemble en dix minutes, sans langue commune.
-6. **La nuit chez Claire** : Claire et Andrea boivent un thé ; Claire confirme qu'elle remontera en Bretagne pour la fête avec les enfants. Les trois enfants dorment sur des matelas, Lola tient la main de Samo.
+*Texte complet, 22 novembre 2026 (repris des fiches du premier jet, avec les raccords du nouveau parcours).*
 
-**Reprise des fiches existantes** : presque tout (ancien chapitre 3), avec des raccords : Eric moins « je connais », le cadeau, Annecy, l'annonce de Claire pour la fête.
+## Scène 1 — On recalcule
+
+💬 Le matin. La voiture quitte les montagnes et roule vers Nice.
+
+🧭 Tournez à gauche.
+
+🦊 À gauche ? Mais je veux aller à droite !
+
+🧭 Je recalcule l'itinéraire.
+
+🐰 Eric, la navigation a raison.
+
+🦊 Elle a toujours raison. C'est pénible.
+
+🧭 Merci.
+
+## Scène 2 — Nice
+
+💬 Nice. Il y a le soleil, la mer, et une grande promenade.
+
+🐰 Quelle belle ville ! Tu connais Nice ?
+
+🦊 Un peu. Ma sœur habite à Cannes, pas très loin. Mais Nice, je ne connais pas bien. Voilà la Promenade des Anglais.
+
+🎒 La mer !
+
+🦊 Oui, Samo. C'est la mer Méditerranée.
+
+🐰 Elle est très bleue. Plus bleue que le lac d'Annecy.
+
+🦊 Tiens ! Annecy n'est plus la plus belle ville du monde ?
+
+🐰 Si. Mais la mer est très bleue.
+
+🦊 Et ici, on mange la socca. C'est une galette de pois chiches.
+
+🐰 Je veux goûter !
+
+## Scène 3 — Au marché
+
+💬 Un marché dans le Vieux-Nice. Il y a des fruits, des fleurs, des vêtements.
+
+🎒 Un T-shirt ! Je veux un T-shirt !
+
+🧑‍🦰 Bonjour. Quelle couleur ?
+
+🎒 Bleu… non ! Vert !
+
+🧑‍🦰 Voilà, le vert. Il coûte quinze euros.
+
+🦊 Quinze euros ? C'est un peu cher.
+
+🧑‍🦰 Alors douze euros. Pour le petit.
+
+🦊 D'accord. Douze euros.
+
+🎒 Un, deux, trois… douze !
+
+🐰 Bravo, Samo ! Tu sais compter en français.
+
+💬 Andrea regarde les bols, les savons, les nappes. Elle cherche un cadeau pour les 40 ans de mariage. Rien ne va.
+
+## Scène 4 — La Croisette
+
+💬 Cannes. La Croisette est longue, avec des palmiers et de grands hôtels.
+
+🐰 Il y a beaucoup de monde.
+
+🦊 C'est normal. C'est Cannes ! Les gens aiment se promener ici.
+
+🎒 Un bateau !
+
+🦊 Oui. Il y a beaucoup de bateaux.
+
+🐰 Tu viens ici souvent ?
+
+🦊 Oui, quand je viens chez ma sœur. Allons-y. Elle habite à dix minutes.
+
+## Scène 5 — Chez Claire
+
+💬 Une maison au calme, avec une petite cour. La porte s'ouvre. Deux enfants sortent en courant.
+
+🧢 Tonton Eric !
+
+🐇 Tonton !
+
+🦊 Bonjour, Hugo ! Bonjour, Lola !
+
+🐰🌴 Eric ! Entrez, entrez ! Andrea, bonjour ! Et toi, tu es Samo, c'est ça ?
+
+🎒 Oui. Samo.
+
+🧢 Tu parles français ?
+
+🎒 Un peu.
+
+🐇 Tu es un lièvre ? Comme Andrea ?
+
+🎒 Oui. Andrea est ma tante.
+
+🧢 Tu veux jouer avec nous ?
+
+🎒 Oui !
+
+💬 Trois enfants courent dans la cour. Samo parle très peu, mais il joue très bien.
+
+## Scène 6 — La nuit chez Claire
+
+💬 Le soir. Les enfants ont mangé. Claire et Andrea sont dans la cuisine, avec du thé.
+
+🐰🌴 Alors, Andrea ? Le voyage ?
+
+🐰 Ça se passe très bien. Eric est très gentil.
+
+🐰🌴 Eric est toujours gentil. Il a un défaut : il ne lit jamais les cartes.
+
+🐰 Il a une navigation, maintenant.
+
+🧭 Signal perdu.
+
+🐰🌴 Elle parle ?
+
+🦊 Elle parle toujours. Sauf quand elle boude.
+
+🐰🌴 Et pour la fête, à Pontrieux, on vient aussi, avec les enfants. Maman est très contente.
+
+🐰 Super ! On se voit en Bretagne, alors.
+
+💬 Dans le salon, trois enfants dorment sur des matelas par terre. Lola tient la main de Samo. Samo, lui, tient le doudou de Lola.
+
+**Faits à vérifier (chapitre 3)**
+- Nice : Promenade des Anglais, Vieux-Nice, marché du cours Saleya, la socca.
+- Cannes : la Croisette, ses palmiers et ses grands hôtels.
 
 ---
 

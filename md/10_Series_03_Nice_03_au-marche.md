@@ -136,6 +136,14 @@ Prídavné meno sa zhoduje s podstatným menom: {{un T-shirt vert}}, {{une voitu
 > en français = po francúzsky
 + **Nové slovo:** {{compter}} = počítať. {{Savoir}} + základný tvar: {{tu sais compter}}.
 
+! 💬 Andrea regarde les bols, les savons, les nappes. Elle cherche un cadeau pour les 40 ans de mariage. Rien ne va.
+> Andrea si prezerá misky, mydlá, obrusy. Hľadá darček na 40. výročie svadby. Nič sa nehodí.
+> Andrea regarde = Andrea si prezerá
+> les bols, les savons, les nappes = misky, mydlá, obrusy
+> Elle cherche un cadeau = hľadá darček
+> pour les 40 ans de mariage = na 40. výročie svadby
+> Rien ne va = nič sa nehodí
+
 ---
 
 ## 🇫🇷 Francúzsky kútik

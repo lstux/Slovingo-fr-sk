@@ -2,4 +2,4 @@
 
 Táto séria sa ešte pripravuje.
 
-À venir : Paris, le métro et trop de monde.
+À venir : Paris, le métro et enfin la tour Eiffel.

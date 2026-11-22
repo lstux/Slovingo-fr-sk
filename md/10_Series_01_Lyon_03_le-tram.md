@@ -1,8 +1,8 @@
 # Séria Lyon (3/5) — Le tram
 
-@ img/Rhonexpress_et_T3_Part-Dieu.jpg | Rhônexpress (vľavo) a električka T3 na Part-Dieu — Allan69330, verejná doména, Wikimedia Commons
+@ img/Tramway_de_Lyon_T3_Station_Meyzieu_gare.jpg | Električka T3 na zastávke Meyzieu gare — Claude villetaneuse, CC BY-SA 4.0, Wikimedia Commons
 
-Na stanici Carré de Soie prestupujete na električku T3. Dnes sa naučíš povedať, odkiaľ si, koľko máš rokov, kto je kto, a hlavne sloveso **avoir** (mať), ktoré budeš potrebovať všade.
+Na stanici La Soie prestupujete na električku T3 a Andrea spoznáva Villeurbanne. Dnes sa naučíš povedať, odkiaľ si, koľko máš rokov, kto je kto, a hlavne sloveso **avoir** (mať), ktoré budeš potrebovať všade.
 
 ---
 
@@ -13,13 +13,13 @@ Na stanici Carré de Soie prestupujete na električku T3. Dnes sa naučíš pove
 | le tram | električka |
 | l'arrêt | zastávka |
 | près | blízko |
-| loin | ďaleko |
+| savoir (je sais) | vedieť (viem) |
 | vite | rýchlo |
 | un appartement | byt |
 | à pied | pešo |
-| j'aime bien | mám rád(a), páči sa mi |
+| se rencontrer | stretnúť sa, spoznať sa |
 
-Už známe, na zopakovanie: {{la ville}}, {{ici}}, {{là}}, {{c'est}}
+Už známe, na zopakovanie: {{loin}}, {{la station}}, {{c'est}}
 
 ---
 
@@ -59,8 +59,8 @@ Ako po slovensky sa **mon / ma** riadi rodom toho, čo vlastníš, nie rodom toh
 > C'est le T3 = to je T3
 > On va à Villeurbanne = ideme do Villeurbanne
 
-! 🐰 Villeurbanne ! Je connais !
-> Villeurbanne! Poznám!
+! 🐰 Villeurbanne… Je connais !
+> Villeurbanne… Poznám!
 > Je connais = poznám
 
 ! 🦊 Je sais. Tu as un peu habité ici.
@@ -68,16 +68,29 @@ Ako po slovensky sa **mon / ma** riadi rodom toho, čo vlastníš, nie rodom toh
 > Je sais = viem
 > Tu as un peu habité = chvíľu si tu bývala
 > ici = tu
++ **Nové slovo:** {{savoir}} = vedieť: {{je sais}} = viem. „Tu as habité“ je minulý čas: zatiaľ si ho zapamätaj ako celú vetu.
 
-! 🐰 Oui. J'aime bien Villeurbanne.
-> Áno. Mám rada Villeurbanne.
+! 🐰 Oui. C'est ici qu'on s'est rencontrés.
+> Áno. Tu sme sa spoznali.
 > Oui = áno
-> J'aime bien = mám rada, páči sa mi
-> Villeurbanne = Villeurbanne
+> C'est ici que = práve tu
+> on s'est rencontrés = sme sa spoznali (stretli)
++ **Nové slovo:** {{se rencontrer}} = stretnúť sa, spoznať sa. Celú vetu si zatiaľ zapamätaj ako blok.
 
-! 🎒 Villeurbanne !
-> Villeurbanne!
-> Villeurbanne = Villeurbanne
+! 🦊 Je sais aussi.
+> To tiež viem.
+> Je sais = viem
+> aussi = tiež
+
+! 💬 Ils se regardent une seconde. Puis Andrea regarde par la fenêtre.
+> Pozrú sa na seba na sekundu. Potom sa Andrea pozrie z okna.
+> Ils se regardent = pozrú sa na seba
+> une seconde = na sekundu
+> Puis = potom
+> regarde par la fenêtre = pozerá sa z okna
+
+! 🎒 Tram !
+> Električka!
 
 ! 🦊 Voilà notre arrêt : Reconnaissance-Balzac. Mon appartement est tout près.
 > Tu je naša zastávka: Reconnaissance-Balzac. Môj byt je celkom blízko.
@@ -118,11 +131,11 @@ Villeurbanne je mesto hneď vedľa Lyonu, ale je to samostatná obec (**une comm
 
 ## Ešte pár viet
 
-! 🐰 Samo a huit ans. Il est très grand pour son âge.
-> Samo má osem rokov. Na svoj vek je veľmi veľký.
+! 🐰 Samo a huit ans. Il est grand pour son âge.
+> Samo má osem rokov. Na svoj vek je veľký.
 > Samo a = Samo má
 > huit ans = osem rokov
-> Il est très grand = je veľmi veľký
+> Il est grand = je veľký
 > pour son âge = na svoj vek
 
 ! 🦊 On descend ici ?

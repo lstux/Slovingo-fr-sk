@@ -2,4 +2,4 @@
 
 Táto séria sa ešte pripravuje.
 
-À venir : la plage de Monsieur Hulot et toute la famille.
+À venir : l'océan, la marée et la plage de Monsieur Hulot.

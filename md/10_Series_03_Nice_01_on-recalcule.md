@@ -2,12 +2,12 @@
 
 @ img/Nice_from_Castle_Hill_01.jpg | Nice a Promenade des Anglais z výšky, z Colline du Château — Spike, CC BY-SA 4.0, Wikimedia Commons
 
-%~ Deň 4 : z Camargue do Nice a Cannes
-% 43.4525, 4.4285 | {{Saintes-Maries-de-la-Mer}}
+%~ Deň 6 : z Annecy do Nice a Cannes
+% 45.8992, 6.1294 | {{Annecy}}
 % 43.7102, 7.2620 | {{Nice}}
 % 43.5528, 7.0174 | {{Cannes}}
 
-Ráno vyrážate z Camargue smerom k Azúrovému pobrežiu. Eric nechce počúvať navigáciu a navigácia sa ozve. Dnes sa naučíš povedať, čo chceš, a poslať niekoho vľavo alebo vpravo.
+Ráno opúšťate hory a idete smerom k Azúrovému pobrežiu. Eric nechce počúvať navigáciu a navigácia sa ozve. Dnes sa naučíš povedať, čo chceš, a poslať niekoho vľavo alebo vpravo.
 
 ---
 
@@ -57,10 +57,11 @@ Oba výrazy majú predložku **à**: {{tourner à gauche}}, {{tourner à droite}
 
 ## Dialóg
 
-! 💬 Le matin. La voiture roule vers Nice.
-> Ráno. Auto ide smerom na Nice.
+! 💬 Le matin. La voiture quitte les montagnes et roule vers Nice.
+> Ráno. Auto opúšťa hory a ide smerom na Nice.
 > Le matin = ráno
-> La voiture roule = auto ide (jazdí)
+> La voiture quitte les montagnes = auto opúšťa hory
+> et roule = a ide (jazdí)
 > vers Nice = smerom na Nice
 
 ! 🧭 Tournez à gauche.

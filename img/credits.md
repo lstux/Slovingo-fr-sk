@@ -16,6 +16,12 @@ Photos de Wikimedia Commons. Une image est sous la licence de son auteur : à ci
 | Lyon 04 | `Villeurbanne_Gratte-Ciel_Logement_2014.jpg` | Villeurbanne - Gratte-Ciel - Logement 2014.JPG | Xavier Caré | CC BY-SA 3.0 |
 | Lyon 05 | `Lyon_vu_depuis_la_Basilique_Notre-Dame_de_Fourvieres.jpg` | Lyon vu depuis la Basilique Notre-Dame de Fourvières.jpg | Celeda | CC BY-SA 4.0 |
 | Lyon 06 | `Bouchon_Restaurant_Lyon_001_Trishhhh.jpg` | Bouchon Restaurant Lyon 001 (Trishhhh).jpg | Trishhhh (Flickr) | CC BY 2.0 |
+| Alpes 01 | `Mont-Blanc_depuis_Autoroute_Blanche.jpg` | Mont-Blanc depuis Autoroute Blanche.jpg | Tangopaso | Domaine public |
+| Alpes 02 | `Bionnassay_Hameau.jpg` | 00 Bionnassay - Hameau - JPG.jpg | Jean-Pol Grandmont | CC BY 3.0 |
+| Alpes 03 | `Chamonix_Aiguille_du_Midi_01.jpg` | France ARA 74 Chamonix-Mont-Blanc Aiguille du Midi 01.jpg | Calips | CC BY-SA 3.0 |
+| Alpes 04 | `Troupeau_de_vaches_Chaumont.jpg` | Troupeau de vaches @ Chaumont (51194358400).jpg | Guilhem Vellut | CC BY 2.0 |
+| Alpes 05 | `Palais_de_l_Isle_in_Annecy_11.jpg` | Palais de l'Isle in Annecy 11.jpg | Tournasol7 | CC BY-SA 4.0 |
+| Alpes 06 | `Coucher_de_soleil_Semnoz_Annecy_Duingt_02.jpg` | Coucher de soleil Semnoz Annecy @ Duingt 02.jpg | Rémih | CC BY-SA 4.0 |
 | Camargue 01 | `Autoroute_A7_Valence_Rhone.jpg` | L'autouroute A7 à Valence.JPG | Florian Pépellin | CC BY-SA 3.0 |
 | Camargue 02 | `Aire_autoroute_Valence.jpg` | Arrêt autoroute Valence.jpg | Yiluco | CC BY-SA 4.0 |
 | Camargue 03 | `Flamants_roses_en_Camargue.jpg` | Flamants roses en Camargue.jpg | Sonia Marotta | CC BY-SA 2.0 |

@@ -71,16 +71,14 @@ Pred mužským podstatným menom, ktoré začína samohláskou, sa hovorí **bel
 > Nice = Nice
 + **Nové slová:** {{beau / belle}} = krásny, krásna. {{Connaître}} = poznať (miesta, ľudí).
 
-! 🦊 Un peu. Je passe ici quand je vais voir ma sœur à Cannes. Voilà la Promenade des Anglais.
-> Trochu. Prechádzam tadiaľto, keď idem navštíviť sestru do Cannes. Tu je Promenade des Anglais.
+! 🦊 Un peu. Ma sœur habite à Cannes, pas très loin. Mais Nice, je ne connais pas bien. Voilà la Promenade des Anglais.
+> Trochu. Moja sestra býva v Cannes, nie veľmi ďaleko. Ale Nice dobre nepoznám. Tu je Promenade des Anglais.
 > Un peu = trochu
-> Je passe ici = prechádzam tadiaľto
-> quand = keď
-> je vais voir = idem navštíviť (idem pozrieť)
-> ma sœur = moja sestra
-> à Cannes = do Cannes
+> Ma sœur habite à Cannes = moja sestra býva v Cannes
+> pas très loin = nie veľmi ďaleko
+> je ne connais pas bien = nepoznám dobre
 > Voilà = tu je
-+ **Nové slovo:** {{la sœur}} = sestra. Vyslov [sör], so zaoblenými perami. **Je vais voir** je „idem pozrieť / navštíviť“: sloveso **aller** (ísť) a za ním ďalšie sloveso v základnom tvare.
++ **Nové slovo:** {{la sœur}} = sestra. Vyslov [sör], so zaoblenými perami.
 
 ! 🎒 La mer !
 > More!
@@ -97,6 +95,24 @@ Pred mužským podstatným menom, ktoré začína samohláskou, sa hovorí **bel
 > très = veľmi
 > bleue = modrá, modré
 + **Nové slovo:** {{bleu / bleue}} = modrý, modrá. More je ženského rodu, preto {{bleue}}.
+
+! 🐰 Plus bleue que le lac d'Annecy.
+> Modrejšie ako jazero v Annecy.
+> Plus bleue que = modrejšie ako
+> le lac d'Annecy = jazero v Annecy
++ **Plus … que** = viac … ako. Porovnávanie si podrobne vysvetlíme neskôr.
+
+! 🦊 Tiens ! Annecy n'est plus la plus belle ville du monde ?
+> Ale ale! Annecy už nie je najkrajšie mesto na svete?
+> Tiens = ale ale, pozrime sa
+> n'est plus = už nie je
+> la plus belle ville du monde = najkrajšie mesto na svete
+
+! 🐰 Si. Mais la mer est très bleue.
+> Ale je. Lenže more je veľmi modré.
+> Si = ale áno (odpoveď na zápornú otázku)
+> Mais = ale
++ **Si** je „áno“ ako odpoveď na zápornú otázku. Na otázku {{Tu ne viens pas ?}} odpovieš {{Si !}}, nie „Oui“.
 
 ! 🦊 Et ici, on mange la socca. C'est une galette de pois chiches.
 > A tu sa jedáva socca. Je to placka z cíceru.

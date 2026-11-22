@@ -4,7 +4,7 @@
 
 %~ Deň 1 : z letiska do Villeurbanne
 % 45.7256, 5.0811 | {{Aéroport Lyon Saint-Exupéry}}
-% 45.7667, 5.0000 | {{Meyzieu}}
+% 45.7620, 4.9220 | {{Vaulx-en-Velin La Soie}}
 % 45.7660, 4.8830 | {{Villeurbanne}}
 
 Cestovanie sa začína. Pristávaš v Lyone s malým synovcom Samom. Eric ťa čaká na letisku s ceduľou v ruke. Dnes sa naučíš pozdraviť kamaráta, opýtať sa „ako sa máš“ a povedať, že si unavená.
@@ -86,10 +86,10 @@ Pozor: pri **fatigué** sa koncovka „-e“ pridáva, keď hovorí žena. Pri v
 > Très bien = veľmi dobre
 > Et toi = a ty
 
-! 🐰 Ça va. Je suis fatiguée.
-> Ide to. Som unavená.
+! 🐰 Ça va. Je suis un peu fatiguée.
+> Ide to. Som trochu unavená.
 > Ça va = ide to
-> Je suis fatiguée = som unavená
+> Je suis un peu fatiguée = som trochu unavená
 
 ! 🦊 Et voici ton neveu ?
 > A toto je tvoj synovec?

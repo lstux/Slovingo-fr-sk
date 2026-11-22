@@ -145,7 +145,7 @@ Fiche : `md/10_Series_01_Lyon_05_fourviere.md` → image `img/illus_01.jpg`
 ```
 Use the attached model sheets for the characters (keep them exactly as designed): the first sheet for the adult red fox and the adult grey hare, the second sheet for Samo, the small grey hare child. Use the attached photo as the reference for the place: the view of Lyon from the Fourvière hill, with the Saône river and a red footbridge in the lower part, the old city with its orange roofs, and tall modern towers in the far distance, under a light summer haze.
 
-Scene: A hand-drawn illustration for an original illustrated book. On the terrace of Fourvière above the city of Lyon, late morning in summer. In the lower left of the picture, seen from slightly behind in three-quarter view, the three travellers stand at a stone railing and look down at the city. The adult red fox, Eric, stretches one arm toward the view like a proud guide, with a big smile. Next to him, the adult grey hare, Andrea, amused and a little tired, rests one hand on the shoulder of Samo. The small grey hare child, Samo, on tiptoe, with his red backpack, points with wide eyes at the two rivers far below. The whole city of Lyon fills the rest of the picture, faithful to the reference photo. Leave the upper area fairly calm.
+Scene: A hand-drawn illustration for an original illustrated book. On the terrace of Fourvière above the city of Lyon, late morning in summer. In the lower left of the picture, seen from slightly behind in three-quarter view, the three travellers stand at a stone railing and look down at the city. The adult grey hare, Andrea, points at a tall tower in the distance with a questioning look. Next to her, the adult red fox, Eric, scratches the back of his head with an embarrassed, amused smile: he does not know the answer. The small grey hare child, Samo, on tiptoe, with his red backpack, looks with wide eyes at the city far below. The whole city of Lyon fills the rest of the picture, faithful to the reference photo. Leave the upper area fairly calm.
 
 Characters: Eric, an adult male red fox in his forties (bright orange fur, grey-black ear tips, cream muzzle and chest, a few grey hairs on the cheeks, friendly slightly tired eyes), wearing a blue zip hoodie over a white T-shirt; Andrea, an adult female grey hare in her forties (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down, calm amused look), wearing a mint-green top; Samo, an 8-year-old male grey hare (same grey fur and white blaze as Andrea, both ears standing up, big curious eyes), in a navy T-shirt with a small mountain print and a red backpack, drawn with small child proportions (large round head, short body).
 
@@ -156,9 +156,9 @@ Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not 
 
 ---
 
-## 02. Camargue — Le gîte
+## 04. Camargue — Le gîte
 
-Fiche : `md/10_Series_02_Camargue_05_le-gite.md` → image `img/illus_02.jpg`
+Fiche : `md/10_Series_04_Camargue_05_le-gite.md` → image `img/illus_04.jpg`
 
 **À joindre** : la planche n° 1, la planche n° 2, et la photo de référence : [51 Mas camarguais réhabilité.jpg](https://commons.wikimedia.org/wiki/File:51_Mas_camarguais_r%C3%A9habilit%C3%A9.jpg) (Deuxtroy, CC BY-SA 3.0), déjà dans `img/` sous le nom `Mas_camarguais_rehabilite.jpg`.
 
@@ -173,6 +173,26 @@ Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not 
 ```
 
 **Crédit** : « Illustration générée avec Google Gemini, d'après une photo de Deuxtroy (Wikimedia Commons, CC BY-SA 3.0) » ; elle reste sous CC BY-SA 3.0 avec le nom du photographe.
+
+---
+
+## 02. Alpes — Annecy
+
+Fiche : `md/10_Series_02_Alpes_05_annecy.md` → image `img/illus_02.jpg`
+
+**À joindre** : la planche n° 1, la planche n° 2, et la photo de référence : [Palais de l'Isle in Annecy 11.jpg](https://commons.wikimedia.org/wiki/File:Palais_de_l%27Isle_in_Annecy_11.jpg) (Tournasol7, CC BY-SA 4.0), déjà dans `img/` sous le nom `Palais_de_l_Isle_in_Annecy_11.jpg`.
+
+```
+Use the attached model sheets for the characters (keep them exactly as designed): the first sheet for the adult red fox and the adult grey hare, the second sheet for Samo, the small grey hare child. Use the attached photo as the reference for the place: the old town of Annecy, the Palais de l'Isle, an old stone building with a pointed roof in the middle of a narrow canal, colourful houses with balconies on both sides, small bridges with flowers.
+
+Scene: A hand-drawn illustration for an original illustrated book. Annecy, a sunny summer afternoon. In the foreground, on a small stone bridge over the canal, the adult grey hare, Andrea, has stopped. She stands still, both hands on the railing, looking at the old town with a soft, enchanted, slightly dreamy expression, as if she had just fallen in love with the place. Behind her, the adult red fox, Eric, looks at her rather than at the view, with a quiet, amused smile. Between them, the small grey hare child, Samo, with his red backpack, leans over the railing and points excitedly at the Palais de l'Isle in the water. Flowers in boxes on the bridge, clear green water, warm light on the colourful facades.
+
+Characters: Eric, an adult male red fox in his forties (bright orange fur, grey-black ear tips, cream muzzle and chest, a few grey hairs on the cheeks, friendly eyes), wearing a blue zip hoodie over a white T-shirt; Andrea, an adult female grey hare in her forties (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down), wearing a mint-green top; Samo, an 8-year-old male grey hare (same grey fur and white blaze as Andrea, both ears standing up, big curious eyes), in a navy T-shirt with a small mountain print and a red backpack, drawn with small child proportions (large round head, short body).
+
+Style: hand-drawn 2D illustration for an original illustrated book (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, expressive faces. Detailed realistic painted background faithful to the reference photo, but in daylight. Warm, gentle summer light. 16:9 landscape, 1920×1080. Anthropomorphic animals walk upright and wear clothes. No text, no letters, no speech bubbles, no logos, no watermark.
+```
+
+**Crédit** : « Illustration générée avec Google Gemini, d'après une photo de Tournasol7 (Wikimedia Commons, CC BY-SA 4.0) » ; elle reste sous CC BY-SA 4.0.
 
 ---
 

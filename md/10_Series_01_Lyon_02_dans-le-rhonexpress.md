@@ -1,8 +1,8 @@
 # Séria Lyon (2/5) — Dans le Rhônexpress
 
-@ img/Tramway_de_Lyon_T3_Station_Meyzieu_gare.jpg | Stanica Meyzieu gare, linka T3 a koľaje Rhônexpressu — Claude villetaneuse, CC BY-SA 4.0, Wikimedia Commons
+@ img/Rhonexpress_et_T3_Part-Dieu.jpg | Rhônexpress (vľavo) a električka T3 na Part-Dieu — Allan69330, verejná doména, Wikimedia Commons
 
-Eric vás vezie vlakom do mesta. Za oknom ubiehajú predmestia a on ukazuje na mesto, kde bol dlho doma. Dnes sa naučíš popísať miesto: „je tam park“, „je to pokojné“.
+Z letiska vás do mesta vezie malý červený vlak, Rhônexpress. Samo sa učí svoje prvé francúzske slovo. Dnes sa naučíš člen (**un, une, le, la**) a ako sa po francúzsky jednoducho pýtať.
 
 ---
 
@@ -10,31 +10,20 @@ Eric vás vezie vlakom do mesta. Za oknom ubiehajú predmestia a on ukazuje na m
 
 | Francúzština | Slovenčina |
 |--------------|------------|
-| la ville | mesto |
-| habiter | bývať |
-| ici | tu |
-| là | tam |
-| un parc | park |
-| un marché | trh |
-| calme | pokojný, pokojná |
+| le train | vlak |
+| rouge | červený, červená |
+| la fenêtre | okno |
+| loin | ďaleko |
+| la minute | minúta |
+| rester | zostať |
+| changer | prestúpiť, zmeniť |
 | la station | stanica, zastávka |
 
-Už známe, na zopakovanie: {{voici}}, {{très bien}}, {{par ici}}
+Už známe, na zopakovanie: {{oui}}, {{non}}, {{très bien}}
 
 ---
 
 ## Dnes sa učíme…
-
-### C'est a il y a — „je to“ a „je tam“
-
-| Francúzština | Slovenčina |
-|--------------|------------|
-| C'est Meyzieu. | Je to Meyzieu. |
-| C'est calme. | Je to pokojné. |
-| Il y a un parc. | Je tam park. |
-| Il y a un petit marché. | Je tam malý trh. |
-
-**C'est** ukazuje na to, čo to je alebo aké to je. **Il y a** hovorí, že niečo existuje: slovenské „je tam“, „sú tam“. {{Il y a}} sa nemení: platí pre jedno aj pre viacero vecí.
 
 ### Un, une, le, la — člen, pasca číslo jeden
 
@@ -42,62 +31,90 @@ V slovenčine člen nie je. Vo francúzštine ho nájdeš pred takmer každým p
 
 | Francúzština | Slovenčina |
 |--------------|------------|
-| un parc | (nejaký) park |
-| le parc | ten park |
-| une ville | (nejaké) mesto |
-| la ville | to mesto |
+| un train | (nejaký) vlak |
+| le train | ten vlak |
+| une station | (nejaká) stanica |
+| la station | tá stanica |
 
-**Un** a **une** používame, keď niečo nové uvádzame („je tam park“). **Le** a **la** používame, keď je to už známe („ten park“). Rod ťa nemusí trápiť pri každom slove: zapamätaj si slovo spolu s členom, **un** parc, **une** ville.
+**Un** a **une** používame, keď niečo nové uvádzame: {{C'est un petit train rouge.}} = Je to malý červený vlak. **Le** a **la** používame, keď je to už známe: {{On reste dans le train ?}} = Zostaneme v (tom) vlaku? Rod si nemusíš lámať hlavu pri každom slove: zapamätaj si slovo spolu s členom, **un** train, **une** fenêtre.
+
+### Otázka iba hlasom
+
+Najjednoduchšia francúzska otázka je obyčajná veta, na konci ktorej zdvihneš hlas. Nič sa nemení, ani poradie slov.
+
+| Oznam | Otázka |
+|-------|--------|
+| C'est loin. | C'est loin ? |
+| On reste dans le train. | On reste dans le train ? |
+
+Pozor na pravopis: pred otáznikom, výkričníkom a dvojbodkou sa vo francúzštine píše **medzera**: {{C'est loin ?}}
 
 ---
 
 ## Dialóg
 
-! 🦊 Regardez : là, c'est Meyzieu.
-> Pozrite: tam je Meyzieu.
-> Regardez = pozrite
-> là = tam
-> c'est = je to
+! 💬 Le Rhônexpress est un petit train rouge. Il roule vite vers la ville.
+> Rhônexpress je malý červený vlak. Ide rýchlo smerom do mesta.
+> Le Rhônexpress = Rhônexpress
+> est un petit train rouge = je malý červený vlak
+> Il roule vite = ide rýchlo
+> vers la ville = smerom do mesta
++ **Nové slová:** {{le train}} = vlak, {{rouge}} = červený. Pri farbe „rouge“ sa ženský tvar nemení: {{une voiture rouge}}.
 
-! 🐰 Meyzieu ?
-> Meyzieu?
-> Meyzieu = mesto Meyzieu
+! 🐰 C'est loin, chez toi ?
+> Je to ďaleko, k tebe?
+> C'est loin = je to ďaleko
+> chez toi = k tebe, u teba
++ **Nové slovo:** {{loin}} = ďaleko. Otázka iba hlasom.
 
-! 🦊 Oui. J'ai habité ici très longtemps.
-> Áno. Býval som tu veľmi dlho.
-> J'ai habité = býval som
-> ici = tu
-> très longtemps = veľmi dlho
-+ „J'ai habité“ je minulý čas. Zatiaľ si ho zapamätaj ako celú vetu, vysvetlíme ho neskôr.
+! 🦊 Non. Trente minutes, à peu près.
+> Nie. Asi tridsať minút.
+> Non = nie
+> Trente minutes = tridsať minút
+> à peu près = asi, približne
++ **Nové slovo:** {{la minute}} = minúta.
 
-! 🐰 C'est joli ?
-> Je to pekné?
-> C'est joli = je to pekné
+! 🐰 On reste dans le train ?
+> Zostaneme vo vlaku?
+> On reste = zostaneme (zostávame)
+> dans le train = vo vlaku
++ **Nové slovo:** {{rester}} = zostať. {{On}} v hovorenej reči znamená „my“.
 
-! 🦊 C'est calme. Il y a un grand parc, et un petit marché.
-> Je to pokojné. Je tam veľký park a malý trh.
-> C'est calme = je to pokojné
-> Il y a = je tam
-> un grand parc = veľký park
-> un petit marché = malý trh
+! 🦊 Non. On change à Vaulx-en-Velin La Soie. Après, on prend le tram.
+> Nie. Prestupujeme vo Vaulx-en-Velin La Soie. Potom ideme električkou.
+> On change = prestupujeme
+> à Vaulx-en-Velin La Soie = vo Vaulx-en-Velin La Soie
+> Après = potom
+> on prend le tram = ideme električkou
++ **Nové slovo:** {{changer}} = prestúpiť (aj zmeniť).
 
-! 🎒 Un marché !
-> Trh!
-> Un marché = trh
+! 🎒 Tram ?
+> Električka?
+> Tram = električka
 
-! 🦊 À la prochaine station, on change. On prend le tram.
-> Na ďalšej stanici prestupujeme. Ideme električkou.
-> À la prochaine station = na ďalšej stanici
-> on change = prestupujeme
-> On prend le tram = ideme električkou
+! 🦊 Oui, Samo. Le tram.
+> Áno, Samo. Električka.
+> Oui = áno
+> Le tram = električka
+
+! 🎒 Tram ! Tram !
+> Električka! Električka!
+
+! 💬 Samo ne connaît encore qu'un mot de français. Il le répète jusqu'à la station.
+> Samo pozná zatiaľ len jedno francúzske slovo. Opakuje ho až do stanice.
+> Samo ne connaît encore qu'un mot = Samo pozná zatiaľ len jedno slovo
+> de français = francúzske (z francúzštiny)
+> Il le répète = opakuje ho
+> jusqu'à la station = až do stanice
++ **Nové slovo:** {{la station}} = stanica, zastávka (metra, električky).
 
 ---
 
 ## 🇫🇷 Francúzsky kútik
 
-Meyzieu je mesto na východ od Lyonu, kde Eric dlho býval. Vo Francúzsku sa za „mesto“ hovorí **la ville**, ale na malé obce sa hovorí **un village** a na väčšiu obec **une commune**. Úradne je každá obec **une commune**.
+**Rhônexpress** je rýchla linka medzi letiskom Lyon Saint-Exupéry a stanicou Part-Dieu v centre Lyonu. Cesta trvá zhruba pol hodiny. Na stanici Vaulx-en-Velin La Soie sa dá prestúpiť na električku T3 alebo na metro.
 
-Jazdy električkou a vlakom sú vo Francúzsku obvykle s kartou alebo s lístkom, ktorý si treba **pred nástupom potvrdiť** (composter) alebo ho priložiť k čítačke.
+Lístky na električku a na vlak sa vo Francúzsku pred jazdou **potvrdzujú**: označia sa v strojčeku alebo sa priložia k čítačke. Bez toho je lístok neplatný.
 
 ---
 
@@ -105,21 +122,26 @@ Jazdy električkou a vlakom sú vo Francúzsku obvykle s kartou alebo s lístkom
 
 | Francúzština | Slovenčina |
 |--------------|------------|
-| la fenêtre | okno |
-| regarder | pozerať sa |
-| prochain / prochaine | ďalší / ďalšia |
+| le billet | lístok |
+| l'aéroport | letisko |
+| à peu près | asi, približne |
 
 ---
 
 ## Ešte pár viet
 
+! 🐰 La station, c'est loin ?
+> Stanica, je to ďaleko?
+> La station = stanica
+> c'est loin = je to ďaleko
+
+! 🦊 Non. Cinq minutes.
+> Nie. Päť minút.
+> Non = nie
+> Cinq minutes = päť minút
+
 ! 🎒 Je regarde par la fenêtre.
 > Pozerám sa z okna.
 > Je regarde = pozerám sa
-> par la fenêtre = oknom, z okna
-
-! 🦊 On prend le tram, pas la voiture.
-> Ideme električkou, nie autom.
-> On prend = ideme (berieme)
-> le tram = električka
-> pas la voiture = nie auto
+> par la fenêtre = z okna
++ **Nové slovo:** {{la fenêtre}} = okno.

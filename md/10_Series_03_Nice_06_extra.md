@@ -115,6 +115,19 @@ Claire a Andrea si tykajú. Navigácia Ericovi vyká.
 > elle boude = durdí sa
 + **Nové slovo:** {{bouder}} = trucovať, durdiť sa. {{Sauf}} = okrem.
 
+! 🐰🌴 Et pour la fête, à Pontrieux, on vient aussi, avec les enfants. Maman est très contente.
+> A na oslavu do Pontrieux prídeme tiež, aj s deťmi. Mama má veľkú radosť.
+> pour la fête = na oslavu
+> on vient aussi = prídeme tiež
+> avec les enfants = s deťmi
+> Maman est très contente = mama má veľkú radosť
+
+! 🐰 Super ! On se voit en Bretagne, alors.
+> Super! Tak sa uvidíme v Bretónsku.
+> On se voit = uvidíme sa
+> en Bretagne = v Bretónsku
+> alors = tak, teda
+
 ! 💬 Dans le salon, trois enfants dorment sur des matelas par terre. Lola tient la main de Samo. Samo, lui, tient le doudou de Lola.
 > V obývačke tri deti spia na matracoch na zemi. Lola drží Samovu ruku. Samo zase drží Lolin doudou.
 > Dans le salon = v obývačke
