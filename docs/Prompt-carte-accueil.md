@@ -72,3 +72,30 @@ Une version simplifiée (moins de détails, même composition) est gardée en r�
 - Si Gemini fait un vrai plan de la France avec contour de côtes : insister sur « no country outline, no coastline map, one single continuous road from top to bottom ».
 - Si les monuments sont trop petits ou trop serrés : redemander en précisant « each landmark takes about 8% of the image height ».
 - À éviter : les drapeaux, les panneaux de villes, les cartes de randonnée (texte automatique).
+
+## Prompt v3 — nouveau parcours (23 novembre 2026)
+
+Ordre : Lyon → Alpes et Annecy → Côte d'Azur → Camargue → Dordogne → Saint-Marc (Atlantique) → Pontrieux → Trieux et Bréhat → Mont-Saint-Michel et Étretat → Paris. À joindre, si possible : l'ancienne carte ChatGPT (`img/map_background.jpg`) comme référence de style.
+
+```
+Vertical illustrated travel map of France, 9:16 portrait (1080×1920), drawn as ONE SINGLE CONTINUOUS BIRD'S-EYE LANDSCAPE seen from high above at a slight oblique angle (about 45 degrees), the same camera angle everywhere. Hand-drawn storybook style: clean ink outlines, soft flat colours with gentle shading, warm golden-hour light. Not too many tiny details: forests, fields and hills are smooth soft areas of colour, so that small round markers placed on top stay readable. If a reference image is attached, keep its drawing style, but follow the new route below.
+
+No panels, no frames, no horizontal bands, no separate skies: one terrain only, with a hazy sky only along the very top edge. Rivers, hills, forests and fields continue naturally from one place to the next; soft mist and shared light blend the zones together.
+
+A single winding road crosses the whole map from the top edge to the bottom edge in a gentle zigzag, passing right next to each landmark in this order:
+
+1. Lyon (top): the white basilica of Fourvière on a green hill above two rivers, red-tiled roofs, a small tram on a bridge.
+2. The Alps: snowy peaks and the Mont Blanc, a red cable car going up a sharp rocky needle, green mountain pastures with a few cows, a wooden chalet with flower boxes; just below, a clear turquoise lake with a small old town, canals and a little stone island-building in the water (Annecy).
+3. The Côte d'Azur: a curved bay of very blue sea with a long promenade lined with palm trees, white boats in a harbour, a market with striped awnings.
+4. The Camargue: flat marshes and lagoons with pink flamingos and white horses, the high medieval ramparts of Aigues-Mortes, pinkish salt pans.
+5. The Dordogne: a green river in a wooded valley, a golden stone village built against a cliff, a castle on a hill, two small canoes on the river.
+6. The Atlantic coast: a wide sandy ocean beach with small waves, a small seaside resort with a promenade and striped beach huts.
+7. Pontrieux, in Brittany: a small grey stone town on a narrow tidal river, little wash-houses covered in flowers along the water, one old stone family house with a garden and a long festive table with a white tablecloth and bunting.
+8. The Trieux and Bréhat: a little red tourist train running along the river towards the sea, a small harbour, and an island of pink granite rocks with a lighthouse, a few boats around.
+9. Normandy: the Mont-Saint-Michel abbey rising from vast sandy tidal flats with a straight causeway and sheep on the salt meadows; a little further, white chalk cliffs with a natural arch above the sea (Étretat).
+10. Paris (bottom, the end of the trip): the Eiffel Tower, the Seine with a stone bridge, grey zinc roofs, warm sunset light; the road ends here.
+
+Landmarks are drawn at a similar size (about 8% of the image height), alternating left and right of the road, with calm uncluttered space around them and along the road.
+
+No text, no letters, no labels, no signs, no flags, no logos, no map legend, no compass, no frame or border, no people in the foreground, no animal characters.
+```
