@@ -12,7 +12,7 @@ La base reste le **SMD (Slovingo Markdown)** : voir `docs/Format-SMD.txt` dans l
 | Langue des explications | français | **slovaque** |
 | « Toi » (`[USER_NAME]`) | Gab, le Français | **Andrea**, la Slovaque (formes **féminines**) |
 | Guide | Andrea | **Eric** |
-| Parcours | Bratislava → Košice | **Lyon → Saint-Marc-sur-Mer** |
+| Parcours | Bratislava → Košice | **Lyon → Paris**, en boucle par les Alpes, la Méditerranée, la Dordogne, l'Atlantique, la Bretagne et la Normandie |
 | Narrateur | la navigation, en slovaque | la navigation, **en français** |
 | Enfants | Hugo, Lola (Français), en voyage | **Samo** (Slovaque), en voyage ; Hugo et Lola avec Claire, aux chapitres 3 et 12 |
 | Gag de registre | le *vy* de Gab | le **vous** d'Andrea |
@@ -34,7 +34,7 @@ Ce qui ne change pas : une série = un chapitre ; 6 fiches par série ; micro-di
 - **Fiche 05** : première partie de l'épisode (dialogue).
 - **Fiche 06 (« extra »)** : tableau complet du vocabulaire **et** suite de l'épisode, qui se termine en général par **la nuit** (le logement du soir).
 
-Un chapitre peut couvrir deux ou trois jours de voyage (Paris, Saint-Marc). La narration le signale (*Le lendemain…*), sans que la structure change.
+Un chapitre peut couvrir deux ou trois jours de voyage (Alpes, chez Claire, Pontrieux). La narration le signale (*Le lendemain…*), sans que la structure change.
 
 ## 3. Personnages, avatars et prénom
 
@@ -47,7 +47,7 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 | 🧢 | **Hugo** | renardeau, 9 ans, neveu d'Eric, chapitres 3 et 12 *(avatar et âge proposés)* |
 | 🐇 | **Lola** | petite hase, 6 ans, nièce d'Eric, chapitres 3 et 12 *(avatar et âge proposés)* |
 | 🎒 | **Samo** | petit lièvre gris, 8 ans, neveu d'Andrea, voyage avec Eric et Andrea *(avatar et âge proposés)* |
-| 📱 / 🐰🌴 | **Claire** | sœur d'Eric : voix au téléphone (📱), et en vrai à Nice puis à Saint-Marc (🐰🌴, à tester dans le moteur) |
+| 📱 / 🐰🌴 | **Claire** | sœur d'Eric : voix au téléphone (📱), et en vrai chez elle à Cannes puis à Pontrieux pour la fête (🐰🌴) |
 | 🦊⚓ / 🦊🧶 | **Michel** et **Martine** | les parents d'Eric, chapitre 12 *(avatars proposés)* |
 | 🧭 | **La navigation** (le GPS) | narratrice par défaut, voir §6 |
 | 💬 | Le narrateur neutre | repli, voir §6 |
