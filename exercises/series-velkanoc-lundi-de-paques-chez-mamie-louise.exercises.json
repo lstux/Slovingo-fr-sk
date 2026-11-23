@@ -617,18 +617,15 @@
         "la",
         "chasse",
         "aux",
-        "œufs",
-        "!",
+        "œufs !",
         "J'ai",
         "trouvé",
         "un",
-        "œuf",
-        "!",
+        "œuf !",
         "Et",
         "il",
         "est",
-        "énorme",
-        "!"
+        "énorme !"
       ]
     },
     {
@@ -652,8 +649,7 @@
         "obrovské!"
       ],
       "tokens_l2": [
-        "Enfin",
-        "!",
+        "Enfin !",
         "J'ai",
         "déjà",
         "caché",
@@ -665,13 +661,11 @@
         "J'ai",
         "trouvé",
         "un",
-        "œuf",
-        "!",
+        "œuf !",
         "Et",
         "il",
         "est",
-        "énorme",
-        "!"
+        "énorme !"
       ]
     },
     {
@@ -703,8 +697,7 @@
         "de",
         "ne",
         "rien",
-        "trouver",
-        "!",
+        "trouver !",
         "Le",
         "gigot",
         "était",
@@ -742,8 +735,7 @@
         "t'inquiète",
         "pas,",
         "c'est",
-        "facile",
-        "!",
+        "facile !",
         "On",
         "lui",
         "a",
@@ -789,8 +781,7 @@
         "tradition.",
         "Allez,",
         "cherchez",
-        "bien",
-        "!",
+        "bien !",
         "Cette",
         "tradition",
         "change,",
@@ -824,8 +815,7 @@
         "as",
         "trouvé",
         "un",
-        "œuf",
-        "?",
+        "œuf ?",
         "Regarde",
         "derrière",
         "la",
@@ -855,21 +845,18 @@
         "dobre!"
       ],
       "tokens_l2": [
-        "Oui",
-        "!",
+        "Oui !",
         "J'en",
         "ai",
         "trouvé",
-        "trois",
-        "!",
+        "trois !",
         "Oui,",
         "c'est",
         "notre",
         "tradition.",
         "Allez,",
         "cherchez",
-        "bien",
-        "!"
+        "bien !"
       ]
     },
     {
@@ -896,16 +883,14 @@
         "je",
         "n'ai",
         "rien",
-        "trouvé",
-        "!",
+        "trouvé !",
         "Oui,",
         "c'est",
         "notre",
         "tradition.",
         "Allez,",
         "cherchez",
-        "bien",
-        "!"
+        "bien !"
       ]
     },
     {
@@ -936,8 +921,7 @@
         "je",
         "n'ai",
         "rien",
-        "trouvé",
-        "!"
+        "trouvé !"
       ]
     },
     {
@@ -963,13 +947,11 @@
         "J'ai",
         "trouvé",
         "un",
-        "œuf",
-        "!",
+        "œuf !",
         "Et",
         "il",
         "est",
-        "énorme",
-        "!",
+        "énorme !",
         "Mamie,",
         "nous",
         "sommes",
@@ -978,8 +960,7 @@
         "la",
         "chasse",
         "aux",
-        "œufs",
-        "!"
+        "œufs !"
       ]
     },
     {
@@ -1004,8 +985,7 @@
       ],
       "tokens_l2": [
         "Bravo,",
-        "Eric",
-        "!",
+        "Eric !",
         "Je",
         "te",
         "l'ai",
@@ -1018,8 +998,7 @@
         "de",
         "ne",
         "rien",
-        "trouver",
-        "!"
+        "trouver !"
       ]
     },
     {
@@ -1098,11 +1077,9 @@
         "se",
         "réunit",
         "à",
-        "table",
-        "!",
+        "table !",
         "Bravo,",
-        "Eric",
-        "!",
+        "Eric !",
         "Je",
         "te",
         "l'ai",
@@ -1148,8 +1125,7 @@
         "se",
         "réunit",
         "à",
-        "table",
-        "!"
+        "table !"
       ]
     },
     {
@@ -1174,18 +1150,15 @@
         "Pâques,",
         "tout",
         "le",
-        "monde",
-        "!",
+        "monde !",
         "J'ai",
         "trouvé",
         "un",
-        "œuf",
-        "!",
+        "œuf !",
         "Et",
         "il",
         "est",
-        "énorme",
-        "!"
+        "énorme !"
       ]
     },
     {
@@ -1323,8 +1296,7 @@
         "tradition.",
         "Allez,",
         "cherchez",
-        "bien",
-        "!"
+        "bien !"
       ]
     },
     {
@@ -1360,8 +1332,7 @@
         "je",
         "n'ai",
         "rien",
-        "trouvé",
-        "!"
+        "trouvé !"
       ]
     }
   ]

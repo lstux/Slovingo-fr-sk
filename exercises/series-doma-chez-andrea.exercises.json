@@ -629,8 +629,7 @@
         "je",
         "range",
         "le",
-        "salon",
-        "!"
+        "salon !"
       ]
     },
     {
@@ -690,8 +689,7 @@
         "la",
         "salle",
         "de",
-        "bain",
-        "?",
+        "bain ?",
         "Je",
         "cherche",
         "la",
@@ -764,15 +762,13 @@
         "a",
         "des",
         "chaussons",
-        "ici",
-        "?",
+        "ici ?",
         "Où",
         "est",
         "la",
         "salle",
         "de",
-        "bain",
-        "?"
+        "bain ?"
       ]
     },
     {
@@ -834,8 +830,7 @@
         "que",
         "tu",
         "fais,",
-        "Andrea",
-        "?",
+        "Andrea ?",
         "Je",
         "cherche",
         "la",
@@ -941,15 +936,13 @@
         "je",
         "range",
         "le",
-        "salon",
-        "!",
+        "salon !",
         "Où",
         "est",
         "la",
         "salle",
         "de",
-        "bain",
-        "?"
+        "bain ?"
       ]
     },
     {
@@ -982,8 +975,7 @@
         "la",
         "salle",
         "de",
-        "bain",
-        "?"
+        "bain ?"
       ]
     },
     {
@@ -1007,8 +999,7 @@
       "tokens_l2": [
         "J'ouvre",
         "la",
-        "fenêtre",
-        "?",
+        "fenêtre ?",
         "Il",
         "fait",
         "chaud",
@@ -1107,15 +1098,13 @@
         "Où",
         "sont",
         "mes",
-        "lunettes",
-        "?",
+        "lunettes ?",
         "Et",
         "moi,",
         "je",
         "range",
         "le",
-        "salon",
-        "!"
+        "salon !"
       ]
     },
     {
@@ -1151,8 +1140,7 @@
         "la",
         "salle",
         "de",
-        "bain",
-        "?"
+        "bain ?"
       ]
     },
     {

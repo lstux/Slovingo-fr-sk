@@ -835,13 +835,11 @@
       "tokens_l2": [
         "Combien",
         "ça",
-        "coûte",
-        "?",
+        "coûte ?",
         "Combien",
         "coûtent",
         "les",
-        "chaussures",
-        "?"
+        "chaussures ?"
       ]
     },
     {
@@ -888,12 +886,10 @@
       ],
       "tokens_l2": [
         "C'est",
-        "cher",
-        "!",
+        "cher !",
         "Combien",
         "ça",
-        "coûte",
-        "?"
+        "coûte ?"
       ]
     },
     {
@@ -941,13 +937,11 @@
         "carte",
         "ou",
         "en",
-        "liquide",
-        "?",
+        "liquide ?",
         "Où",
         "est",
         "le",
-        "distributeur",
-        "?"
+        "distributeur ?"
       ]
     },
     {
@@ -971,16 +965,14 @@
         "Combien",
         "coûtent",
         "les",
-        "chaussures",
-        "?",
+        "chaussures ?",
         "Le",
         "pantalon",
         "coûte",
         "vingt",
         "euros.",
         "C'est",
-        "cher",
-        "!"
+        "cher !"
       ]
     },
     {
@@ -1002,8 +994,7 @@
         "est",
         "élevé.",
         "C'est",
-        "cher",
-        "!"
+        "cher !"
       ]
     },
     {
@@ -1030,16 +1021,14 @@
         "tee-shirt",
         "rouge.",
         "Combien",
-        "coûte-t-il",
-        "?",
+        "coûte-t-il ?",
         "Vous",
         "payez",
         "par",
         "carte",
         "ou",
         "en",
-        "liquide",
-        "?"
+        "liquide ?"
       ]
     },
     {
@@ -1067,8 +1056,7 @@
         "avez",
         "la",
         "taille",
-        "M",
-        "?",
+        "M ?",
         "Je",
         "veux",
         "une",
@@ -1102,8 +1090,7 @@
         "vingt",
         "euros.",
         "C'est",
-        "cher",
-        "!",
+        "cher !",
         "Le",
         "prix",
         "est",
@@ -1134,8 +1121,7 @@
         "carte.",
         "Combien",
         "ça",
-        "coûte",
-        "?"
+        "coûte ?"
       ]
     },
     {
@@ -1165,8 +1151,7 @@
         "tee-shirt",
         "rouge.",
         "Combien",
-        "coûte-t-il",
-        "?"
+        "coûte-t-il ?"
       ]
     },
     {
@@ -1215,8 +1200,7 @@
         "Où",
         "est",
         "le",
-        "distributeur",
-        "?",
+        "distributeur ?",
         "Ça",
         "coûte",
         "trois",

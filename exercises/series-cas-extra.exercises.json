@@ -1558,8 +1558,7 @@
         "est",
         "la",
         "date",
-        "aujourd'hui",
-        "?",
+        "aujourd'hui ?",
         "Regarde",
         "le",
         "calendrier."
@@ -1583,12 +1582,10 @@
       ],
       "tokens_l2": [
         "Quand",
-        "commences-tu",
-        "?",
+        "commences-tu ?",
         "À",
         "huit",
-        "heures",
-        "?",
+        "heures ?",
         "Demain,",
         "c'est",
         "vendredi.",
@@ -1831,8 +1828,7 @@
         "est",
         "la",
         "date",
-        "aujourd'hui",
-        "?",
+        "aujourd'hui ?",
         "Regarde",
         "le",
         "calendrier."
@@ -1935,18 +1931,15 @@
         "est",
         "la",
         "date",
-        "aujourd'hui",
-        "?",
+        "aujourd'hui ?",
         "Regarde",
         "le",
         "calendrier.",
         "Quand",
-        "commences-tu",
-        "?",
+        "commences-tu ?",
         "À",
         "huit",
-        "heures",
-        "?"
+        "heures ?"
       ]
     },
     {

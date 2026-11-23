@@ -868,15 +868,13 @@
         "où",
         "est",
         "la",
-        "poste",
-        "?",
+        "poste ?",
         "Va",
         "à",
         "droite,",
         "pas",
         "à",
-        "gauche",
-        "!"
+        "gauche !"
       ]
     },
     {
@@ -950,13 +948,11 @@
         "droite,",
         "pas",
         "à",
-        "gauche",
-        "!",
+        "gauche !",
         "Par",
         "où",
         "dois-je",
-        "aller",
-        "?"
+        "aller ?"
       ]
     },
     {
@@ -1034,8 +1030,7 @@
         "Par",
         "où",
         "dois-je",
-        "aller",
-        "?",
+        "aller ?",
         "C'est",
         "après",
         "le",
@@ -1060,8 +1055,7 @@
       "tokens_l2": [
         "Merci",
         "pour",
-        "l'aide",
-        "!",
+        "l'aide !",
         "Le",
         "musée",
         "est",
@@ -1092,15 +1086,13 @@
         "est",
         "l'arrêt",
         "de",
-        "bus",
-        "?",
+        "bus ?",
         "Va",
         "à",
         "droite,",
         "pas",
         "à",
-        "gauche",
-        "!"
+        "gauche !"
       ]
     },
     {
@@ -1134,8 +1126,7 @@
         "droite,",
         "pas",
         "à",
-        "gauche",
-        "!"
+        "gauche !"
       ]
     },
     {
@@ -1201,8 +1192,7 @@
         "droite,",
         "pas",
         "à",
-        "gauche",
-        "!"
+        "gauche !"
       ]
     },
     {
@@ -1230,8 +1220,7 @@
         "est",
         "l'arrêt",
         "de",
-        "bus",
-        "?"
+        "bus ?"
       ]
     },
     {

@@ -887,13 +887,11 @@
         "On",
         "se",
         "retrouve",
-        "mercredi",
-        "?",
+        "mercredi ?",
         "Tu",
         "es",
         "libre",
-        "samedi",
-        "?"
+        "samedi ?"
       ]
     },
     {
@@ -944,8 +942,7 @@
       ],
       "tokens_l2": [
         "Quand",
-        "rentres-tu",
-        "?",
+        "rentres-tu ?",
         "Je",
         "suis",
         "en",
@@ -991,8 +988,7 @@
         "Tu",
         "es",
         "libre",
-        "samedi",
-        "?"
+        "samedi ?"
       ]
     },
     {
@@ -1130,8 +1126,7 @@
         "On",
         "se",
         "retrouve",
-        "mercredi",
-        "?"
+        "mercredi ?"
       ]
     },
     {
@@ -1216,8 +1211,7 @@
         "Tu",
         "es",
         "libre",
-        "samedi",
-        "?",
+        "samedi ?",
         "J'arrive",
         "à",
         "cinq",
@@ -1249,8 +1243,7 @@
         "On",
         "se",
         "retrouve",
-        "mercredi",
-        "?"
+        "mercredi ?"
       ]
     }
   ]

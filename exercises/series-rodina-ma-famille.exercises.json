@@ -774,8 +774,7 @@
         "ma",
         "maman.",
         "Qui",
-        "est-ce",
-        "?"
+        "est-ce ?"
       ]
     },
     {
@@ -861,8 +860,7 @@
         "Louise.",
         "Comment",
         "tu",
-        "t'appelles",
-        "?"
+        "t'appelles ?"
       ]
     },
     {
@@ -887,8 +885,7 @@
         "ma",
         "grand-mère.",
         "Qui",
-        "est-ce",
-        "?"
+        "est-ce ?"
       ]
     },
     {
@@ -907,8 +904,7 @@
       ],
       "tokens_l2": [
         "Qui",
-        "est-ce",
-        "?",
+        "est-ce ?",
         "C'est",
         "ma",
         "famille."
@@ -985,11 +981,9 @@
       "tokens_l2": [
         "Comment",
         "tu",
-        "t'appelles",
-        "?",
+        "t'appelles ?",
         "Qui",
-        "est-ce",
-        "?"
+        "est-ce ?"
       ]
     },
     {

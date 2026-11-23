@@ -587,8 +587,7 @@
       "tokens_l2": [
         "Servez-vous.",
         "Bon",
-        "appétit",
-        "!",
+        "appétit !",
         "De",
         "l'eau,",
         "s'il",
@@ -617,8 +616,7 @@
         "Merci.",
         "Qu'est-ce",
         "que",
-        "c'est",
-        "?",
+        "c'est ?",
         "Non,",
         "merci.",
         "Je",
@@ -663,8 +661,7 @@
         "veux",
         "de",
         "la",
-        "tarte",
-        "!"
+        "tarte !"
       ]
     },
     {
@@ -723,8 +720,7 @@
         "Tu",
         "aimes",
         "la",
-        "viande",
-        "?",
+        "viande ?",
         "D'abord",
         "le",
         "déjeuner,",
@@ -762,8 +758,7 @@
         "veux",
         "de",
         "la",
-        "tarte",
-        "!",
+        "tarte !",
         "Je",
         "veux",
         "encore",
@@ -830,12 +825,10 @@
         "vin",
         "ou",
         "de",
-        "l'eau",
-        "?",
+        "l'eau ?",
         "Servez-vous.",
         "Bon",
-        "appétit",
-        "!"
+        "appétit !"
       ]
     },
     {
@@ -870,8 +863,7 @@
         "vin",
         "ou",
         "de",
-        "l'eau",
-        "?"
+        "l'eau ?"
       ]
     },
     {
@@ -898,8 +890,7 @@
         "prends",
         "du",
         "vin.",
-        "Santé",
-        "!",
+        "Santé !",
         "Je",
         "veux",
         "encore",
@@ -933,8 +924,7 @@
         "encore",
         "de",
         "la",
-        "quiche",
-        "?",
+        "quiche ?",
         "J'aime",
         "le",
         "fromage,",
@@ -979,8 +969,7 @@
         "Tu",
         "aimes",
         "la",
-        "viande",
-        "?"
+        "viande ?"
       ]
     },
     {
@@ -1006,8 +995,7 @@
         "Vous",
         "n'avez",
         "pas",
-        "faim",
-        "?",
+        "faim ?",
         "Non,",
         "merci.",
         "Je",
@@ -1034,20 +1022,16 @@
       "tokens_l2": [
         "Mamie",
         "dit",
-        "toujours",
-        "«",
+        "toujours «",
         "encore",
         "un",
-        "peu",
-        "»",
-        "!",
+        "peu » !",
         "Vous",
         "voulez",
         "encore",
         "de",
         "la",
-        "quiche",
-        "?"
+        "quiche ?"
       ]
     },
     {
@@ -1123,8 +1107,7 @@
         "veux",
         "de",
         "la",
-        "tarte",
-        "!"
+        "tarte !"
       ]
     },
     {

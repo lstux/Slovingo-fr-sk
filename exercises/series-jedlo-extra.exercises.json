@@ -1547,8 +1547,7 @@
         "pot-au-feu",
         "est",
         "brûlant.",
-        "Attention",
-        "!"
+        "Attention !"
       ]
     },
     {
@@ -1699,8 +1698,7 @@
         "pot-au-feu",
         "est",
         "brûlant.",
-        "Attention",
-        "!"
+        "Attention !"
       ]
     },
     {
@@ -1760,16 +1758,14 @@
         "pot-au-feu",
         "est",
         "brûlant.",
-        "Attention",
-        "!",
+        "Attention !",
         "J'ai",
         "soif.",
         "Tu",
         "prends",
         "un",
         "chocolat",
-        "chaud",
-        "?"
+        "chaud ?"
       ]
     },
     {
@@ -1798,8 +1794,7 @@
         "prends",
         "un",
         "chocolat",
-        "chaud",
-        "?",
+        "chaud ?",
         "Le",
         "cidre",
         "est",
@@ -1834,8 +1829,7 @@
         "pot-au-feu",
         "est",
         "brûlant.",
-        "Attention",
-        "!"
+        "Attention !"
       ]
     },
     {
@@ -1934,8 +1928,7 @@
       "tokens_l2": [
         "Goûte",
         "le",
-        "fromage",
-        "!",
+        "fromage !",
         "Il",
         "est",
         "salé.",
@@ -2056,8 +2049,7 @@
         "fort.",
         "Goûte",
         "le",
-        "fromage",
-        "!",
+        "fromage !",
         "Il",
         "est",
         "salé."

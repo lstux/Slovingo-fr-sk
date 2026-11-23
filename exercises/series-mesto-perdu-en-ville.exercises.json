@@ -555,8 +555,7 @@
         "zastávky."
       ],
       "tokens_l2": [
-        "Marek",
-        "!",
+        "Marek !",
         "Je",
         "suis",
         "perdu.",
@@ -646,8 +645,7 @@
         "De",
         "rien.",
         "À",
-        "bientôt",
-        "!"
+        "bientôt !"
       ]
     },
     {
@@ -677,8 +675,7 @@
         "à",
         "gauche.",
         "Et",
-        "ensuite",
-        "?",
+        "ensuite ?",
         "D'habitude,",
         "je",
         "vais",
@@ -735,8 +732,7 @@
         "à",
         "gauche.",
         "Et",
-        "ensuite",
-        "?"
+        "ensuite ?"
       ]
     },
     {
@@ -758,13 +754,11 @@
         "C'est",
         "loin",
         "à",
-        "pied",
-        "?",
+        "pied ?",
         "De",
         "rien.",
         "À",
-        "bientôt",
-        "!"
+        "bientôt !"
       ]
     },
     {
@@ -795,8 +789,7 @@
         "prends",
         "le",
         "tram.",
-        "Oui",
-        "!",
+        "Oui !",
         "À",
         "cinq",
         "heures,",
@@ -834,8 +827,7 @@
         "retrouve",
         "là-bas",
         "plus",
-        "tard",
-        "?"
+        "tard ?"
       ]
     },
     {
@@ -860,8 +852,7 @@
       ],
       "tokens_l2": [
         "Bonne",
-        "idée",
-        "!",
+        "idée !",
         "Sur",
         "la",
         "place",
@@ -902,16 +893,14 @@
         "retrouve",
         "là-bas",
         "plus",
-        "tard",
-        "?",
+        "tard ?",
         "Tu",
         "vois",
         "cette",
         "fontaine",
         "sur",
         "la",
-        "place",
-        "?"
+        "place ?"
       ]
     },
     {
@@ -931,8 +920,7 @@
         "Dovidenia!"
       ],
       "tokens_l2": [
-        "Oui",
-        "!",
+        "Oui !",
         "À",
         "cinq",
         "heures,",
@@ -941,8 +929,7 @@
         "De",
         "rien.",
         "À",
-        "bientôt",
-        "!"
+        "bientôt !"
       ]
     },
     {
@@ -968,8 +955,7 @@
         "D'accord.",
         "Merci",
         "pour",
-        "l'aide",
-        "!",
+        "l'aide !",
         "Tu",
         "verras",
         "une",
@@ -1007,8 +993,7 @@
         "De",
         "rien.",
         "À",
-        "bientôt",
-        "!",
+        "bientôt !",
         "Le",
         "café",
         "est",
@@ -1050,8 +1035,7 @@
         "C'est",
         "loin",
         "à",
-        "pied",
-        "?"
+        "pied ?"
       ]
     },
     {
@@ -1090,8 +1074,7 @@
         "C'est",
         "loin",
         "à",
-        "pied",
-        "?"
+        "pied ?"
       ]
     },
     {
@@ -1120,11 +1103,9 @@
         "fontaine",
         "sur",
         "la",
-        "place",
-        "?",
+        "place ?",
         "Bonne",
-        "idée",
-        "!",
+        "idée !",
         "Sur",
         "la",
         "place",
